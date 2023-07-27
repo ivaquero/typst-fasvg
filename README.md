@@ -8,10 +8,12 @@
 2. Import it into your Typst file like the following example
 
 ```typst
-#import "typst-fontawesome": *
+#import "fontawesome": *
 ```
 
 3. Use it with in camelCase pattern like `#box(faPhone)`
+
+![demo](demo.png)
 
 Checkup [manual](https://github.com/ivaquero/typst-fontawesome/blob/main/manual.pdf) for more details.
 
