@@ -11,7 +11,7 @@
 #import "fontawesome": *
 ```
 
-3. Use it with in camelCase pattern like `#box(faPhone)`
+3. Use it with in camelCase pattern like `#faPhone`
 
 ![demo](demo.png)
 
