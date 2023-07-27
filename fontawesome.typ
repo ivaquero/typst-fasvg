@@ -8,1757 +8,1759 @@
     image(img)
 )
 
-// brands
-#let faAdn = icon("fontawesome/brands/adn.svg")
-#let faAdversal = icon("fontawesome/brands/adversal.svg")
-#let faAirbnb = icon("fontawesome/brands/airbnb.svg")
-#let faAlgolia = icon("fontawesome/brands/algolia.svg")
-#let faAlipay = icon("fontawesome/brands/alipay.svg")
-#let faAmazon = icon("fontawesome/brands/amazon.svg")
-#let faAmazonPay = icon("fontawesome/brands/amazon-pay.svg")
-#let faAmazonPayCC = icon("fontawesome/brands/amazon-pay-cc.svg")
-#let faAndroid = icon("fontawesome/brands/android.svg")
-#let faAngular = icon("fontawesome/brands/angular.svg")
-#let faApple = icon("fontawesome/brands/apple.svg")
-#let faApplePay = icon("fontawesome/brands/apple-pay.svg")
-#let faApplePayCC = icon("fontawesome/brands/apple-pay-cc.svg")
-#let faAppStore = icon("fontawesome/brands/app-store.svg")
-#let faAppStoreIOS = icon("fontawesome/brands/app-store-ios.svg")
-#let faAtlassian = icon("fontawesome/brands/atlassian.svg")
-#let faAudible = icon("fontawesome/brands/audible.svg")
-#let faAws = icon("fontawesome/brands/aws.svg")
-#let faBehance = icon("fontawesome/brands/behance.svg")
-#let faBehanceSquare = icon("fontawesome/brands/behance-square.svg")
-#let faBilibili = icon("fontawesome/brands/bilibili.svg")
-#let faBitbucket = icon("fontawesome/brands/bitbucket.svg")
-#let faBitcoin = icon("fontawesome/brands/bitcoin.svg")
-#let faBlackberry = icon("fontawesome/brands/blackberry.svg")
-#let faBluetooth = icon("fontawesome/brands/bluetooth.svg")
-#let faBluetoothB = icon("fontawesome/brands/bluetooth-b.svg")
-#let faBootstrap = icon("fontawesome/brands/bootstrap.svg")
-#let faBuffer = icon("fontawesome/brands/buffer.svg")
-#let faCentos = icon("fontawesome/brands/centos.svg")
-#let faChrome = icon("fontawesome/brands/chrome.svg")
-#let faChromecast = icon("fontawesome/brands/chromecast.svg")
-#let faCloudflare = icon("fontawesome/brands/cloudflare.svg")
-#let faCss3 = icon("fontawesome/brands/css3.svg")
-#let faCss3Alt = icon("fontawesome/brands/css3-alt.svg")
-#let faDev = icon("fontawesome/brands/dev.svg")
-#let faDHL = icon("fontawesome/brands/dhl.svg")
-#let faDiscord = icon("fontawesome/brands/discord.svg")
-#let faDiscordBots = icon("fontawesome/brands/discord-bots.svg")
-#let faDiscourse = icon("fontawesome/brands/discourse.svg")
-#let faDocker = icon("fontawesome/brands/docker.svg")
-#let faDropbox = icon("fontawesome/brands/dropbox.svg")
-#let faDrupal = icon("fontawesome/brands/drupal.svg")
-#let faEarlybirds = icon("fontawesome/brands/earlybirds.svg")
-#let faEbay = icon("fontawesome/brands/ebay.svg")
-#let faEdge = icon("fontawesome/brands/edge.svg")
-#let faEdgeLegacy = icon("fontawesome/brands/edge-legacy.svg")
-#let faErlang = icon("fontawesome/brands/erlang.svg")
-#let faEthereum = icon("fontawesome/brands/ethereum.svg")
-#let faEvernote = icon("fontawesome/brands/evernote.svg")
-#let faFacebook = icon("fontawesome/brands/facebook.svg")
-#let faFacebookF = icon("fontawesome/brands/facebook-f.svg")
-#let faFacebookMessenger = icon("fontawesome/brands/facebook-messenger.svg")
-#let faFacebookSquare = icon("fontawesome/brands/facebook-square.svg")
-#let faFedex = icon("fontawesome/brands/fedex.svg")
-#let faFedora = icon("fontawesome/brands/fedora.svg")
-#let faFigma = icon("fontawesome/brands/figma.svg")
-#let faFirefox = icon("fontawesome/brands/firefox.svg")
-#let faFirefoxBrowser = icon("fontawesome/brands/firefox-browser.svg")
-#let faFlickr = icon("fontawesome/brands/flickr.svg")
-#let faFontAwesome = icon("fontawesome/brands/font-awesome.svg")
-#let faFontAwesomeSquare = icon("fontawesome/brands/font-awesome-square.svg")
-#let faFontAwesomeSquareStroke = icon("fontawesome/brands/font-awesome-square-stroke.svg")
-#let faFreebsd = icon("fontawesome/brands/freebsd.svg")
-#let faGetPocket = icon("fontawesome/brands/get-pocket.svg")
-#let faGit = icon("fontawesome/brands/git.svg")
-#let faGitAlt = icon("fontawesome/brands/git-alt.svg")
-#let faGithub = icon("fontawesome/brands/github.svg")
-#let faGithubAlt = icon("fontawesome/brands/github-alt.svg")
-#let faGithubSquare = icon("fontawesome/brands/github-square.svg")
-#let faGitkraken = icon("fontawesome/brands/gitkraken.svg")
-#let faGitlab = icon("fontawesome/brands/gitlab.svg")
-#let faGitlabSquare = icon("fontawesome/brands/gitlab-square.svg")
-#let faGitSquare = icon("fontawesome/brands/git-square.svg")
-#let faGitter = icon("fontawesome/brands/gitter.svg")
-#let faGolang = icon("fontawesome/brands/golang.svg")
-#let faGoogle = icon("fontawesome/brands/google.svg")
-#let faGoogleDrive = icon("fontawesome/brands/google-drive.svg")
-#let faGooglePay = icon("fontawesome/brands/google-pay.svg")
-#let faGooglePlay = icon("fontawesome/brands/google-play.svg")
-#let faGooglePlus = icon("fontawesome/brands/google-plus.svg")
-#let faGooglePlusG = icon("fontawesome/brands/google-plus-g.svg")
-#let faGooglePlusSquare = icon("fontawesome/brands/google-plus-square.svg")
-#let faGoogleWallet = icon("fontawesome/brands/google-wallet.svg")
-#let faGrunt = icon("fontawesome/brands/grunt.svg")
-#let faGulp = icon("fontawesome/brands/gulp.svg")
-#let faHive = icon("fontawesome/brands/hive.svg")
-#let faHtml5 = icon("fontawesome/brands/html5.svg")
-#let faInstagram = icon("fontawesome/brands/instagram.svg")
-#let faInstagramSquare = icon("fontawesome/brands/instagram-square.svg")
-#let faInternetExplorer = icon("fontawesome/brands/internet-explorer.svg")
-#let faItunes = icon("fontawesome/brands/itunes.svg")
-#let faItunesNote = icon("fontawesome/brands/itunes-note.svg")
-#let faJava = icon("fontawesome/brands/java.svg")
-#let faJenkins = icon("fontawesome/brands/jenkins.svg")
-#let faJira = icon("fontawesome/brands/jira.svg")
-#let faJoomla = icon("fontawesome/brands/joomla.svg")
-#let faJS = icon("fontawesome/brands/js.svg")
-#let faJSSquare = icon("fontawesome/brands/js-square.svg")
-#let faKaggle = icon("fontawesome/brands/kaggle.svg")
-#let faLaravel = icon("fontawesome/brands/laravel.svg")
-#let faLastfm = icon("fontawesome/brands/lastfm.svg")
-#let faLastfmSquare = icon("fontawesome/brands/lastfm-square.svg")
-#let faLeanpub = icon("fontawesome/brands/leanpub.svg")
-#let faLess = icon("fontawesome/brands/less.svg")
-#let faLine = icon("fontawesome/brands/line.svg")
-#let faLinkedin = icon("fontawesome/brands/linkedin.svg")
-#let faLinkedinIn = icon("fontawesome/brands/linkedin-in.svg")
-#let faLinux = icon("fontawesome/brands/linux.svg")
-#let faMarkdown = icon("fontawesome/brands/markdown.svg")
-#let faMastercardCC = icon("fontawesome/brands/mastercard-cc.svg")
-#let faMastodon = icon("fontawesome/brands/mastodon.svg")
-#let faMdb = icon("fontawesome/brands/mdb.svg")
-#let faMedium = icon("fontawesome/brands/medium.svg")
-#let faMendeley = icon("fontawesome/brands/mendeley.svg")
-#let faMeta = icon("fontawesome/brands/meta.svg")
-#let faMicrosoft = icon("fontawesome/brands/microsoft.svg")
-#let faNode = icon("fontawesome/brands/node.svg")
-#let faNodeJS = icon("fontawesome/brands/node-js.svg")
-#let faNpm = icon("fontawesome/brands/npm.svg")
-#let faOpera = icon("fontawesome/brands/opera.svg")
-#let faOsi = icon("fontawesome/brands/osi.svg")
-#let faPatreon = icon("fontawesome/brands/patreon.svg")
-#let faPaypal = icon("fontawesome/brands/paypal.svg")
-#let faPaypalCC = icon("fontawesome/brands/paypal-cc.svg")
-#let faPhp = icon("fontawesome/brands/php.svg")
-#let faPinterest = icon("fontawesome/brands/pinterest.svg")
-#let faPinterestP = icon("fontawesome/brands/pinterest-p.svg")
-#let faPinterestSquare = icon("fontawesome/brands/pinterest-square.svg")
-#let faProductHunt = icon("fontawesome/brands/product-hunt.svg")
-#let faPython = icon("fontawesome/brands/python.svg")
-#let faQq = icon("fontawesome/brands/qq.svg")
-#let faQuora = icon("fontawesome/brands/quora.svg")
-#let faRaspberryPi = icon("fontawesome/brands/raspberry-pi.svg")
-#let faReact = icon("fontawesome/brands/react.svg")
-#let faReadme = icon("fontawesome/brands/readme.svg")
-#let faReddit = icon("fontawesome/brands/reddit.svg")
-#let faRedditAlien = icon("fontawesome/brands/reddit-alien.svg")
-#let faRedditSquare = icon("fontawesome/brands/reddit-square.svg")
-#let faRedhat = icon("fontawesome/brands/redhat.svg")
-#let faRenren = icon("fontawesome/brands/renren.svg")
-#let faResearchgate = icon("fontawesome/brands/researchgate.svg")
-#let faRProject = icon("fontawesome/brands/r-project.svg")
-#let faRust = icon("fontawesome/brands/rust.svg")
-#let faSafari = icon("fontawesome/brands/safari.svg")
-#let faSalesforce = icon("fontawesome/brands/salesforce.svg")
-#let faSass = icon("fontawesome/brands/sass.svg")
-#let faScribd = icon("fontawesome/brands/scribd.svg")
-#let faShopify = icon("fontawesome/brands/shopify.svg")
-#let faSketch = icon("fontawesome/brands/sketch.svg")
-#let faSkype = icon("fontawesome/brands/skype.svg")
-#let faSlack = icon("fontawesome/brands/slack.svg")
-#let faSnapchat = icon("fontawesome/brands/snapchat.svg")
-#let faSnapchatSquare = icon("fontawesome/brands/snapchat-square.svg")
-#let faSpotify = icon("fontawesome/brands/spotify.svg")
-#let faSteamSquare = icon("fontawesome/brands/steam-square.svg")
-#let faStripeCC = icon("fontawesome/brands/stripe-cc.svg")
-#let faSuse = icon("fontawesome/brands/suse.svg")
-#let faSwift = icon("fontawesome/brands/swift.svg")
-#let faSymfony = icon("fontawesome/brands/symfony.svg")
-#let faTelegram = icon("fontawesome/brands/telegram.svg")
-#let faTencentWeibo = icon("fontawesome/brands/tencent-weibo.svg")
-#let faTiktok = icon("fontawesome/brands/tiktok.svg")
-#let faTrello = icon("fontawesome/brands/trello.svg")
-#let faTumblr = icon("fontawesome/brands/tumblr.svg")
-#let faTumblrSquare = icon("fontawesome/brands/tumblr-square.svg")
-#let faTwitch = icon("fontawesome/brands/twitch.svg")
-#let faTwitter = icon("fontawesome/brands/twitter.svg")
-#let faTwitterSquare = icon("fontawesome/brands/twitter-square.svg")
-#let faUber = icon("fontawesome/brands/uber.svg")
-#let faUbuntu = icon("fontawesome/brands/ubuntu.svg")
-#let faUnity = icon("fontawesome/brands/unity.svg")
-#let faUsb = icon("fontawesome/brands/usb.svg")
-#let faViadeoSquare = icon("fontawesome/brands/viadeo-square.svg")
-#let faViber = icon("fontawesome/brands/viber.svg")
-#let faVimeo = icon("fontawesome/brands/vimeo.svg")
-#let faVimeoSquare = icon("fontawesome/brands/vimeo-square.svg")
-#let faVimeoV = icon("fontawesome/brands/vimeo-v.svg")
-#let faVisa = icon("fontawesome/brands/visa.svg")
-#let faVk = icon("fontawesome/brands/vk.svg")
-#let faVuejs = icon("fontawesome/brands/vuejs.svg")
-#let faWeibo = icon("fontawesome/brands/weibo.svg")
-#let faWeixin = icon("fontawesome/brands/weixin.svg")
-#let faWhatsapp = icon("fontawesome/brands/whatsapp.svg")
-#let faWhatsappSquare = icon("fontawesome/brands/whatsapp-square.svg")
-#let faWikipedia = icon("fontawesome/brands/wikipedia.svg")
-#let faWindows = icon("fontawesome/brands/windows.svg")
-#let faWordpress = icon("fontawesome/brands/wordpress.svg")
-#let faWordpressSimple = icon("fontawesome/brands/wordpress-simple.svg")
-#let faXbox = icon("fontawesome/brands/xbox.svg")
-#let faYahoo = icon("fontawesome/brands/yahoo.svg")
-#let faYandex = icon("fontawesome/brands/yandex.svg")
-#let faYarn = icon("fontawesome/brands/yarn.svg")
-#let faYCombinator = icon("fontawesome/brands/y-combinator.svg")
-#let faYoutube = icon("fontawesome/brands/youtube.svg")
-#let faYoutubeSquare = icon("fontawesome/brands/youtube-square.svg")
-#let faZhihu = icon("fontawesome/brands/zhihu.svg")
+#let icons = (
+  // brands
+  faAdn: icon("fontawesome/brands/adn.svg"),
+  faAdversal: icon("fontawesome/brands/adversal.svg"),
+  faAirbnb: icon("fontawesome/brands/airbnb.svg"),
+  faAlgolia: icon("fontawesome/brands/algolia.svg"),
+  faAlipay: icon("fontawesome/brands/alipay.svg"),
+  faAmazon: icon("fontawesome/brands/amazon.svg"),
+  faAmazonPay: icon("fontawesome/brands/amazon-pay.svg"),
+  faAmazonPayCc: icon("fontawesome/brands/amazon-pay-cc.svg"),
+  faAndroid: icon("fontawesome/brands/android.svg"),
+  faAngular: icon("fontawesome/brands/angular.svg"),
+  faApple: icon("fontawesome/brands/apple.svg"),
+  faApplePay: icon("fontawesome/brands/apple-pay.svg"),
+  faApplePayCc: icon("fontawesome/brands/apple-pay-cc.svg"),
+  faAppStore: icon("fontawesome/brands/app-store.svg"),
+  faAppStoreIos: icon("fontawesome/brands/app-store-ios.svg"),
+  faAtlassian: icon("fontawesome/brands/atlassian.svg"),
+  faAudible: icon("fontawesome/brands/audible.svg"),
+  faAws: icon("fontawesome/brands/aws.svg"),
+  faBehance: icon("fontawesome/brands/behance.svg"),
+  faBehanceSquare: icon("fontawesome/brands/behance-square.svg"),
+  faBilibili: icon("fontawesome/brands/bilibili.svg"),
+  faBitbucket: icon("fontawesome/brands/bitbucket.svg"),
+  faBitcoin: icon("fontawesome/brands/bitcoin.svg"),
+  faBlackberry: icon("fontawesome/brands/blackberry.svg"),
+  faBluetooth: icon("fontawesome/brands/bluetooth.svg"),
+  faBluetoothB: icon("fontawesome/brands/bluetooth-b.svg"),
+  faBootstrap: icon("fontawesome/brands/bootstrap.svg"),
+  faBuffer: icon("fontawesome/brands/buffer.svg"),
+  faCentos: icon("fontawesome/brands/centos.svg"),
+  faChrome: icon("fontawesome/brands/chrome.svg"),
+  faChromecast: icon("fontawesome/brands/chromecast.svg"),
+  faCloudflare: icon("fontawesome/brands/cloudflare.svg"),
+  faCss3: icon("fontawesome/brands/css3.svg"),
+  faCss3Alt: icon("fontawesome/brands/css3-alt.svg"),
+  faDev: icon("fontawesome/brands/dev.svg"),
+  faDHL: icon("fontawesome/brands/dhl.svg"),
+  faDiscord: icon("fontawesome/brands/discord.svg"),
+  faDiscordBots: icon("fontawesome/brands/discord-bots.svg"),
+  faDiscourse: icon("fontawesome/brands/discourse.svg"),
+  faDocker: icon("fontawesome/brands/docker.svg"),
+  faDropbox: icon("fontawesome/brands/dropbox.svg"),
+  faDrupal: icon("fontawesome/brands/drupal.svg"),
+  faEarlybirds: icon("fontawesome/brands/earlybirds.svg"),
+  faEbay: icon("fontawesome/brands/ebay.svg"),
+  faEdge: icon("fontawesome/brands/edge.svg"),
+  faEdgeLegacy: icon("fontawesome/brands/edge-legacy.svg"),
+  faErlang: icon("fontawesome/brands/erlang.svg"),
+  faEthereum: icon("fontawesome/brands/ethereum.svg"),
+  faEvernote: icon("fontawesome/brands/evernote.svg"),
+  faFacebook: icon("fontawesome/brands/ facebook.svg"),
+  faFacebookF: icon("fontawesome/brands/  facebook-f.svg"),
+  faFacebookMessenger: icon("fontawesome/brands/  facebook-messenger.svg"),
+  faFacebookSquare: icon("fontawesome/brands/ facebook-square.svg"),
+  faFedex: icon("fontawesome/brands/fedex.svg"),
+  faFedora: icon("fontawesome/brands/fedora.svg"),
+  faFigma: icon("fontawesome/brands/figma.svg"),
+  faFirefox: icon("fontawesome/brands/firefox.svg"),
+  faFirefoxBrowser: icon("fontawesome/brands/firefox-browser.svg"),
+  faFlickr: icon("fontawesome/brands/flickr.svg"),
+  faFontAwesomeB: icon("fontawesome/brands/font-awesome.svg"),
+  faFontAwesomeSquare: icon("fontawesome/brands/font-awesome-square.svg"),
+  faFontAwesomeSquareStroke: icon("fontawesome/brands/font-awesome-square-stroke.svg"),
+  faFreebsd: icon("fontawesome/brands/freebsd.svg"),
+  faGetPocket: icon("fontawesome/brands/get-pocket.svg"),
+  faGit: icon("fontawesome/brands/git.svg"),
+  faGitAlt: icon("fontawesome/brands/git-alt.svg"),
+  faGithub: icon("fontawesome/brands/github.svg"),
+  faGithubAlt: icon("fontawesome/brands/github-alt.svg"),
+  faGithubSquare: icon("fontawesome/brands/github-square.svg"),
+  faGitkraken: icon("fontawesome/brands/gitkraken.svg"),
+  faGitlab: icon("fontawesome/brands/gitlab.svg"),
+  faGitlabSquare: icon("fontawesome/brands/gitlab-square.svg"),
+  faGitSquare: icon("fontawesome/brands/git-square.svg"),
+  faGitter: icon("fontawesome/brands/gitter.svg"),
+  faGolang: icon("fontawesome/brands/golang.svg"),
+  faGoogle: icon("fontawesome/brands/google.svg"),
+  faGoogleDrive: icon("fontawesome/brands/google-drive.svg"),
+  faGooglePay: icon("fontawesome/brands/google-pay.svg"),
+  faGooglePlay: icon("fontawesome/brands/google-play.svg"),
+  faGooglePlus: icon("fontawesome/brands/google-plus.svg"),
+  faGooglePlusG: icon("fontawesome/brands/google-plus-g.svg"),
+  faGooglePlusSquare: icon("fontawesome/brands/google-plus-square.svg"),
+  faGoogleWallet: icon("fontawesome/brands/google-wallet.svg"),
+  faGrunt: icon("fontawesome/brands/grunt.svg"),
+  faGulp: icon("fontawesome/brands/gulp.svg"),
+  faHive: icon("fontawesome/brands/hive.svg"),
+  faHtml5: icon("fontawesome/brands/html5.svg"),
+  faInstagram: icon("fontawesome/brands/instagram.svg"),
+  faInstagramSquare: icon("fontawesome/brands/instagram-square.svg"),
+  faInternetExplorer: icon("fontawesome/brands/internet-explorer.svg"),
+  faItunes: icon("fontawesome/brands/itunes.svg"),
+  faItunesNote: icon("fontawesome/brands/itunes-note.svg"),
+  faJava: icon("fontawesome/brands/java.svg"),
+  faJenkins: icon("fontawesome/brands/jenkins.svg"),
+  faJira: icon("fontawesome/brands/jira.svg"),
+  faJoomla: icon("fontawesome/brands/joomla.svg"),
+  faJs: icon("fontawesome/brands/js.svg"),
+  faJsSquare: icon("fontawesome/brands/js-square.svg"),
+  faKaggle: icon("fontawesome/brands/kaggle.svg"),
+  faLaravel: icon("fontawesome/brands/laravel.svg"),
+  faLastfm: icon("fontawesome/brands/lastfm.svg"),
+  faLastfmSquare: icon("fontawesome/brands/lastfm-square.svg"),
+  faLeanpub: icon("fontawesome/brands/leanpub.svg"),
+  faLess: icon("fontawesome/brands/less.svg"),
+  faLine: icon("fontawesome/brands/line.svg"),
+  faLinkedin: icon("fontawesome/brands/linkedin.svg"),
+  faLinkedinIn: icon("fontawesome/brands/linkedin-in.svg"),
+  faLinux: icon("fontawesome/brands/linux.svg"),
+  faMarkdown: icon("fontawesome/brands/markdown.svg"),
+  faMastercardCc: icon("fontawesome/brands/mastercard-cc.svg"),
+  faMastodon: icon("fontawesome/brands/mastodon.svg"),
+  faMdb: icon("fontawesome/brands/mdb.svg"),
+  faMedium: icon("fontawesome/brands/medium.svg"),
+  faMendeley: icon("fontawesome/brands/mendeley.svg"),
+  faMeta: icon("fontawesome/brands/meta.svg"),
+  faMicrosoft: icon("fontawesome/brands/microsoft.svg"),
+  faNode: icon("fontawesome/brands/node.svg"),
+  faNodeJS: icon("fontawesome/brands/node-js.svg"),
+  faNpm: icon("fontawesome/brands/npm.svg"),
+  faOpera: icon("fontawesome/brands/opera.svg"),
+  faOsi: icon("fontawesome/brands/osi.svg"),
+  faPatreon: icon("fontawesome/brands/patreon.svg"),
+  faPaypal: icon("fontawesome/brands/paypal.svg"),
+  faPaypalCc: icon("fontawesome/brands/paypal-cc.svg"),
+  faPhp: icon("fontawesome/brands/php.svg"),
+  faPinterest: icon("fontawesome/brands/pinterest.svg"),
+  faPinterestP: icon("fontawesome/brands/pinterest-p.svg"),
+  faPinterestSquare: icon("fontawesome/brands/pinterest-square.svg"),
+  faProductHunt: icon("fontawesome/brands/product-hunt.svg"),
+  faPython: icon("fontawesome/brands/python.svg"),
+  faQq: icon("fontawesome/brands/qq.svg"),
+  faQuora: icon("fontawesome/brands/quora.svg"),
+  faRaspberryPi: icon("fontawesome/brands/raspberry-pi.svg"),
+  faReact: icon("fontawesome/brands/react.svg"),
+  faReadme: icon("fontawesome/brands/readme.svg"),
+  faReddit: icon("fontawesome/brands/reddit.svg"),
+  faRedditAlien: icon("fontawesome/brands/reddit-alien.svg"),
+  faRedditSquare: icon("fontawesome/brands/reddit-square.svg"),
+  faRedhat: icon("fontawesome/brands/redhat.svg"),
+  faRenren: icon("fontawesome/brands/renren.svg"),
+  faResearchgate: icon("fontawesome/brands/researchgate.svg"),
+  faRProject: icon("fontawesome/brands/r-project.svg"),
+  faRust: icon("fontawesome/brands/rust.svg"),
+  faSa  fari: icon("fontawesome/brands/sa fari.svg"),
+  faSalesforce: icon("fontawesome/brands/salesforce.svg"),
+  faSass: icon("fontawesome/brands/sass.svg"),
+  faScribd: icon("fontawesome/brands/scribd.svg"),
+  faShopify: icon("fontawesome/brands/shopify.svg"),
+  faSketch: icon("fontawesome/brands/sketch.svg"),
+  faSkype: icon("fontawesome/brands/skype.svg"),
+  faSlack: icon("fontawesome/brands/slack.svg"),
+  faSnapchat: icon("fontawesome/brands/snapchat.svg"),
+  faSnapchatSquare: icon("fontawesome/brands/snapchat-square.svg"),
+  faSpotify: icon("fontawesome/brands/spotify.svg"),
+  faSteamSquare: icon("fontawesome/brands/steam-square.svg"),
+  faStripeCc: icon("fontawesome/brands/stripe-cc.svg"),
+  faSuse: icon("fontawesome/brands/suse.svg"),
+  faSwift: icon("fontawesome/brands/swift.svg"),
+  faSymfony: icon("fontawesome/brands/symfony.svg"),
+  faTelegram: icon("fontawesome/brands/telegram.svg"),
+  faTencentWeibo: icon("fontawesome/brands/tencent-weibo.svg"),
+  faTiktok: icon("fontawesome/brands/tiktok.svg"),
+  faTrello: icon("fontawesome/brands/trello.svg"),
+  faTumblr: icon("fontawesome/brands/tumblr.svg"),
+  faTumblrSquare: icon("fontawesome/brands/tumblr-square.svg"),
+  faTwitch: icon("fontawesome/brands/twitch.svg"),
+  faTwitter: icon("fontawesome/brands/twitter.svg"),
+  faTwitterSquare: icon("fontawesome/brands/twitter-square.svg"),
+  faUber: icon("fontawesome/brands/uber.svg"),
+  faUbuntu: icon("fontawesome/brands/ubuntu.svg"),
+  faUnity: icon("fontawesome/brands/unity.svg"),
+  faUsb: icon("fontawesome/brands/usb.svg"),
+  faViadeoSquare: icon("fontawesome/brands/viadeo-square.svg"),
+  faViber: icon("fontawesome/brands/viber.svg"),
+  faVimeo: icon("fontawesome/brands/vimeo.svg"),
+  faVimeoSquare: icon("fontawesome/brands/vimeo-square.svg"),
+  faVimeoV: icon("fontawesome/brands/vimeo-v.svg"),
+  faVisa: icon("fontawesome/brands/visa.svg"),
+  faVk: icon("fontawesome/brands/vk.svg"),
+  faVuejs: icon("fontawesome/brands/vuejs.svg"),
+  faWeibo: icon("fontawesome/brands/weibo.svg"),
+  faWeixin: icon("fontawesome/brands/weixin.svg"),
+  faWhatsapp: icon("fontawesome/brands/whatsapp.svg"),
+  faWhatsappSquare: icon("fontawesome/brands/whatsapp-square.svg"),
+  faWikipedia: icon("fontawesome/brands/wikipedia.svg"),
+  faWindows: icon("fontawesome/brands/windows.svg"),
+  faWordpress: icon("fontawesome/brands/wordpress.svg"),
+  faWordpressSimple: icon("fontawesome/brands/wordpress-simple.svg"),
+  faXbox: icon("fontawesome/brands/xbox.svg"),
+  faYahoo: icon("fontawesome/brands/yahoo.svg"),
+  faYandex: icon("fontawesome/brands/yandex.svg"),
+  faYarn: icon("fontawesome/brands/yarn.svg"),
+  faYCombinator: icon("fontawesome/brands/y-combinator.svg"),
+  faYoutube: icon("fontawesome/brands/youtube.svg"),
+  faYoutubeSquare: icon("fontawesome/brands/youtube-square.svg"),
+  faZhihu: icon("fontawesome/brands/zhihu.svg"),
 
-// regular
-#let faAddressBook = icon("fontawesome/regular/address-book.svg")
-#let faAddressCard = icon("fontawesome/regular/address-card.svg")
-#let faBellSlash = icon("fontawesome/regular/bell-slash.svg")
-#let faBell = icon("fontawesome/regular/bell.svg")
-#let faBookmark = icon("fontawesome/regular/bookmark.svg")
-#let faBuilding = icon("fontawesome/regular/building.svg")
-#let faCalendarCheck = icon("fontawesome/regular/calendar-check.svg")
-#let faCalendarDays = icon("fontawesome/regular/calendar-days.svg")
-#let faCalendarMinus = icon("fontawesome/regular/calendar-minus.svg")
-#let faCalendarPlus = icon("fontawesome/regular/calendar-plus.svg")
-#let faCalendarXmark = icon("fontawesome/regular/calendar-xmark.svg")
-#let faCalendar = icon("fontawesome/regular/calendar.svg")
-#let faChartBar = icon("fontawesome/regular/chart-bar.svg")
-#let faChessBishop = icon("fontawesome/regular/chess-bishop.svg")
-#let faChessKing = icon("fontawesome/regular/chess-king.svg")
-#let faChessKnight = icon("fontawesome/regular/chess-knight.svg")
-#let faChessPawn = icon("fontawesome/regular/chess-pawn.svg")
-#let faChessQueen = icon("fontawesome/regular/chess-queen.svg")
-#let faChessRook = icon("fontawesome/regular/chess-rook.svg")
-#let faCircleCheck = icon("fontawesome/regular/circle-check.svg")
-#let faCircleDot = icon("fontawesome/regular/circle-dot.svg")
-#let faCircleDown = icon("fontawesome/regular/circle-down.svg")
-#let faCircleLeft = icon("fontawesome/regular/circle-left.svg")
-#let faCirclePause = icon("fontawesome/regular/circle-pause.svg")
-#let faCirclePlay = icon("fontawesome/regular/circle-play.svg")
-#let faCircleQuestion = icon("fontawesome/regular/circle-question.svg")
-#let faCircleRight = icon("fontawesome/regular/circle-right.svg")
-#let faCircleStop = icon("fontawesome/regular/circle-stop.svg")
-#let faCircleUp = icon("fontawesome/regular/circle-up.svg")
-#let faCircleUser = icon("fontawesome/regular/circle-user.svg")
-#let faCircleXmark = icon("fontawesome/regular/circle-xmark.svg")
-#let faCircle = icon("fontawesome/regular/circle.svg")
-#let faClipboard = icon("fontawesome/regular/clipboard.svg")
-#let faClock = icon("fontawesome/regular/clock.svg")
-#let faClone = icon("fontawesome/regular/clone.svg")
-#let faClosedCaptioning = icon("fontawesome/regular/closed-captioning.svg")
-#let faCommentDots = icon("fontawesome/regular/comment-dots.svg")
-#let faComment = icon("fontawesome/regular/comment.svg")
-#let faComments = icon("fontawesome/regular/comments.svg")
-#let faCompass = icon("fontawesome/regular/compass.svg")
-#let faCopy = icon("fontawesome/regular/copy.svg")
-#let faCopyright = icon("fontawesome/regular/copyright.svg")
-#let faCreditCard = icon("fontawesome/regular/credit-card.svg")
-#let faEnvelopeOpen = icon("fontawesome/regular/envelope-open.svg")
-#let faEnvelope = icon("fontawesome/regular/envelope.svg")
-#let faEyeSlash = icon("fontawesome/regular/eye-slash.svg")
-#let faEye = icon("fontawesome/regular/eye.svg")
-#let faFaceAngry = icon("fontawesome/regular/face-angry.svg")
-#let faFaceDizzy = icon("fontawesome/regular/face-dizzy.svg")
-#let faFaceFlushed = icon("fontawesome/regular/face-flushed.svg")
-#let faFaceFrownOpen = icon("fontawesome/regular/face-frown-open.svg")
-#let faFaceFrown = icon("fontawesome/regular/face-frown.svg")
-#let faFaceGrimace = icon("fontawesome/regular/face-grimace.svg")
-#let faFaceGrinBeamSweat = icon("fontawesome/regular/face-grin-beam-sweat.svg")
-#let faFaceGrinBeam = icon("fontawesome/regular/face-grin-beam.svg")
-#let faFaceGrinHearts = icon("fontawesome/regular/face-grin-hearts.svg")
-#let faFaceGrinSquintTears = icon("fontawesome/regular/face-grin-squint-tears.svg")
-#let faFaceGrinSquint = icon("fontawesome/regular/face-grin-squint.svg")
-#let faFaceGrinStars = icon("fontawesome/regular/face-grin-stars.svg")
-#let faFaceGrinTears = icon("fontawesome/regular/face-grin-tears.svg")
-#let faFaceGrinTongueSquint = icon("fontawesome/regular/face-grin-tongue-squint.svg")
-#let faFaceGrinTongueWink = icon("fontawesome/regular/face-grin-tongue-wink.svg")
-#let faFaceGrinTongue = icon("fontawesome/regular/face-grin-tongue.svg")
-#let faFaceGrinWide = icon("fontawesome/regular/face-grin-wide.svg")
-#let faFaceGrinWink = icon("fontawesome/regular/face-grin-wink.svg")
-#let faFaceGrin = icon("fontawesome/regular/face-grin.svg")
-#let faFaceKissBeam = icon("fontawesome/regular/face-kiss-beam.svg")
-#let faFaceKissWinkHeart = icon("fontawesome/regular/face-kiss-wink-heart.svg")
-#let faFaceKiss = icon("fontawesome/regular/face-kiss.svg")
-#let faFaceLaughBeam = icon("fontawesome/regular/face-laugh-beam.svg")
-#let faFaceLaughSquint = icon("fontawesome/regular/face-laugh-squint.svg")
-#let faFaceLaughWink = icon("fontawesome/regular/face-laugh-wink.svg")
-#let faFaceLaugh = icon("fontawesome/regular/face-laugh.svg")
-#let faFaceMehBlank = icon("fontawesome/regular/face-meh-blank.svg")
-#let faFaceMeh = icon("fontawesome/regular/face-meh.svg")
-#let faFaceRollingEyes = icon("fontawesome/regular/face-rolling-eyes.svg")
-#let faFaceSadCry = icon("fontawesome/regular/face-sad-cry.svg")
-#let faFaceSadTear = icon("fontawesome/regular/face-sad-tear.svg")
-#let faFaceSmileBeam = icon("fontawesome/regular/face-smile-beam.svg")
-#let faFaceSmileWink = icon("fontawesome/regular/face-smile-wink.svg")
-#let faFaceSmile = icon("fontawesome/regular/face-smile.svg")
-#let faFaceSurprise = icon("fontawesome/regular/face-surprise.svg")
-#let faFaceTired = icon("fontawesome/regular/face-tired.svg")
-#let faFileAudio = icon("fontawesome/regular/file-audio.svg")
-#let faFileCode = icon("fontawesome/regular/file-code.svg")
-#let faFileExcel = icon("fontawesome/regular/file-excel.svg")
-#let faFileImage = icon("fontawesome/regular/file-image.svg")
-#let faFileLines = icon("fontawesome/regular/file-lines.svg")
-#let faFilePdf = icon("fontawesome/regular/file-pdf.svg")
-#let faFilePowerpoint = icon("fontawesome/regular/file-powerpoint.svg")
-#let faFileVideo = icon("fontawesome/regular/file-video.svg")
-#let faFileWord = icon("fontawesome/regular/file-word.svg")
-#let faFileZipper = icon("fontawesome/regular/file-zipper.svg")
-#let faFile = icon("fontawesome/regular/file.svg")
-#let faFlag = icon("fontawesome/regular/flag.svg")
-#let faFloppyDisk = icon("fontawesome/regular/floppy-disk.svg")
-#let faFolderClosed = icon("fontawesome/regular/folder-closed.svg")
-#let faFolderOpen = icon("fontawesome/regular/folder-open.svg")
-#let faFolder = icon("fontawesome/regular/folder.svg")
-#let faFontAwesome = icon("fontawesome/regular/font-awesome.svg")
-#let faFutbol = icon("fontawesome/regular/futbol.svg")
-#let faGem = icon("fontawesome/regular/gem.svg")
-#let faHandBackFist = icon("fontawesome/regular/hand-back-fist.svg")
-#let faHandLizard = icon("fontawesome/regular/hand-lizard.svg")
-#let faHandPeace = icon("fontawesome/regular/hand-peace.svg")
-#let faHandPointDown = icon("fontawesome/regular/hand-point-down.svg")
-#let faHandPointLeft = icon("fontawesome/regular/hand-point-left.svg")
-#let faHandPointRight = icon("fontawesome/regular/hand-point-right.svg")
-#let faHandPointUp = icon("fontawesome/regular/hand-point-up.svg")
-#let faHandPointer = icon("fontawesome/regular/hand-pointer.svg")
-#let faHandScissors = icon("fontawesome/regular/hand-scissors.svg")
-#let faHandSpock = icon("fontawesome/regular/hand-spock.svg")
-#let faHand = icon("fontawesome/regular/hand.svg")
-#let faHandshake = icon("fontawesome/regular/handshake.svg")
-#let faHardDrive = icon("fontawesome/regular/hard-drive.svg")
-#let faHeart = icon("fontawesome/regular/heart.svg")
-#let faHospital = icon("fontawesome/regular/hospital.svg")
-#let faHourglassHalf = icon("fontawesome/regular/hourglass-half.svg")
-#let faHourglass = icon("fontawesome/regular/hourglass.svg")
-#let faIdBadge = icon("fontawesome/regular/id-badge.svg")
-#let faIdCard = icon("fontawesome/regular/id-card.svg")
-#let faImage = icon("fontawesome/regular/image.svg")
-#let faImages = icon("fontawesome/regular/images.svg")
-#let faKeyboard = icon("fontawesome/regular/keyboard.svg")
-#let faLemon = icon("fontawesome/regular/lemon.svg")
-#let faLifeRing = icon("fontawesome/regular/life-ring.svg")
-#let faLightbulb = icon("fontawesome/regular/lightbulb.svg")
-#let faMap = icon("fontawesome/regular/map.svg")
-#let faMessage = icon("fontawesome/regular/message.svg")
-#let faMoneyBill1 = icon("fontawesome/regular/money-bill-1.svg")
-#let faMoon = icon("fontawesome/regular/moon.svg")
-#let faNewspaper = icon("fontawesome/regular/newspaper.svg")
-#let faNoteSticky = icon("fontawesome/regular/note-sticky.svg")
-#let faObjectGroup = icon("fontawesome/regular/object-group.svg")
-#let faObjectUngroup = icon("fontawesome/regular/object-ungroup.svg")
-#let faPaperPlane = icon("fontawesome/regular/paper-plane.svg")
-#let faPaste = icon("fontawesome/regular/paste.svg")
-#let faPenToSquare = icon("fontawesome/regular/pen-to-square.svg")
-#let faRectangleList = icon("fontawesome/regular/rectangle-list.svg")
-#let faRectangleXmark = icon("fontawesome/regular/rectangle-xmark.svg")
-#let faRegistered = icon("fontawesome/regular/registered.svg")
-#let faShareFromSquare = icon("fontawesome/regular/share-from-square.svg")
-#let faSnowflake = icon("fontawesome/regular/snowflake.svg")
-#let faSquareCaretDown = icon("fontawesome/regular/square-caret-down.svg")
-#let faSquareCaretLeft = icon("fontawesome/regular/square-caret-left.svg")
-#let faSquareCaretRight = icon("fontawesome/regular/square-caret-right.svg")
-#let faSquareCaretUp = icon("fontawesome/regular/square-caret-up.svg")
-#let faSquareCheck = icon("fontawesome/regular/square-check.svg")
-#let faSquareFull = icon("fontawesome/regular/square-full.svg")
-#let faSquareMinus = icon("fontawesome/regular/square-minus.svg")
-#let faSquarePlus = icon("fontawesome/regular/square-plus.svg")
-#let faSquare = icon("fontawesome/regular/square.svg")
-#let faStarHalfStroke = icon("fontawesome/regular/star-half-stroke.svg")
-#let faStarHalf = icon("fontawesome/regular/star-half.svg")
-#let faStar = icon("fontawesome/regular/star.svg")
-#let faSun = icon("fontawesome/regular/sun.svg")
-#let faThumbsDown = icon("fontawesome/regular/thumbs-down.svg")
-#let faThumbsUp = icon("fontawesome/regular/thumbs-up.svg")
-#let faTrashCan = icon("fontawesome/regular/trash-can.svg")
-#let faUser = icon("fontawesome/regular/user.svg")
-#let faWindowMaximize = icon("fontawesome/regular/window-maximize.svg")
-#let faWindowMinimize = icon("fontawesome/regular/window-minimize.svg")
-#let faWindowRestore = icon("fontawesome/regular/window-restore.svg")
+  // regular
+  faAddressBook: icon("fontawesome/regular/address-book.svg"),
+  faAddressCard: icon("fontawesome/regular/address-card.svg"),
+  faBellSlash: icon("fontawesome/regular/bell-slash.svg"),
+  faBell: icon("fontawesome/regular/bell.svg"),
+  faBookmark: icon("fontawesome/regular/bookmark.svg"),
+  faBuilding: icon("fontawesome/regular/building.svg"),
+  faCalendarCheck: icon("fontawesome/regular/calendar-check.svg"),
+  faCalendarDays: icon("fontawesome/regular/calendar-days.svg"),
+  faCalendarMinus: icon("fontawesome/regular/calendar-minus.svg"),
+  faCalendarPlus: icon("fontawesome/regular/calendar-plus.svg"),
+  faCalendarXmark: icon("fontawesome/regular/calendar-xmark.svg"),
+  faCalendar: icon("fontawesome/regular/calendar.svg"),
+  faChartBar: icon("fontawesome/regular/chart-bar.svg"),
+  faChessBishop: icon("fontawesome/regular/chess-bishop.svg"),
+  faChessKing: icon("fontawesome/regular/chess-king.svg"),
+  faChessKnight: icon("fontawesome/regular/chess-knight.svg"),
+  faChessPawn: icon("fontawesome/regular/chess-pawn.svg"),
+  faChessQueen: icon("fontawesome/regular/chess-queen.svg"),
+  faChessRook: icon("fontawesome/regular/chess-rook.svg"),
+  faCircleCheck: icon("fontawesome/regular/circle-check.svg"),
+  faCircleDot: icon("fontawesome/regular/circle-dot.svg"),
+  faCircleDown: icon("fontawesome/regular/circle-down.svg"),
+  faCircleLeft: icon("fontawesome/regular/circle-left.svg"),
+  faCirclePause: icon("fontawesome/regular/circle-pause.svg"),
+  faCirclePlay: icon("fontawesome/regular/circle-play.svg"),
+  faCircleQuestion: icon("fontawesome/regular/circle-question.svg"),
+  faCircleRight: icon("fontawesome/regular/circle-right.svg"),
+  faCircleStop: icon("fontawesome/regular/circle-stop.svg"),
+  faCircleUp: icon("fontawesome/regular/circle-up.svg"),
+  faCircleUser: icon("fontawesome/regular/circle-user.svg"),
+  faCircleXmark: icon("fontawesome/regular/circle-xmark.svg"),
+  faCircle: icon("fontawesome/regular/circle.svg"),
+  faClipboard: icon("fontawesome/regular/clipboard.svg"),
+  faClock: icon("fontawesome/regular/clock.svg"),
+  faClone: icon("fontawesome/regular/clone.svg"),
+  faClosedCaptioning: icon("fontawesome/regular/closed-captioning.svg"),
+  faCommentDots: icon("fontawesome/regular/comment-dots.svg"),
+  faComment: icon("fontawesome/regular/comment.svg"),
+  faComments: icon("fontawesome/regular/comments.svg"),
+  faCompass: icon("fontawesome/regular/compass.svg"),
+  faCopy: icon("fontawesome/regular/copy.svg"),
+  faCopyright: icon("fontawesome/regular/copyright.svg"),
+  faCreditCard: icon("fontawesome/regular/credit-card.svg"),
+  faEnvelopeOpen: icon("fontawesome/regular/envelope-open.svg"),
+  faEnvelope: icon("fontawesome/regular/envelope.svg"),
+  faEyeSlash: icon("fontawesome/regular/eye-slash.svg"),
+  faEye: icon("fontawesome/regular/eye.svg"),
+  faFaceAngry: icon("fontawesome/regular/ face-angry.svg"),
+  faFaceDizzy: icon("fontawesome/regular/ face-dizzy.svg"),
+  faFaceFlushed: icon("fontawesome/regular/ face-flushed.svg"),
+  faFaceFrownOpen: icon("fontawesome/regular/ face-frown-open.svg"),
+  faFaceFrown: icon("fontawesome/regular/ face-frown.svg"),
+  faFaceGrimace: icon("fontawesome/regular/ face-grimace.svg"),
+  faFaceGrinBeamSweat: icon("fontawesome/regular/ face-grin-beam-sweat.svg"),
+  faFaceGrinBeam: icon("fontawesome/regular/  face-grin-beam.svg"),
+  faFaceGrinHearts: icon("fontawesome/regular/  face-grin-hearts.svg"),
+  faFaceGrinSquintTears: icon("fontawesome/regular/ face-grin-squint-tears.svg"),
+  faFaceGrinSquint: icon("fontawesome/regular/  face-grin-squint.svg"),
+  faFaceGrinStars: icon("fontawesome/regular/ face-grin-stars.svg"),
+  faFaceGrinTears: icon("fontawesome/regular/ face-grin-tears.svg"),
+  faFaceGrinTongueSquint: icon("fontawesome/regular/  face-grin-tongue-squint.svg"),
+  faFaceGrinTongueWink: icon("fontawesome/regular/  face-grin-tongue-wink.svg"),
+  faFaceGrinTongue: icon("fontawesome/regular/  face-grin-tongue.svg"),
+  faFaceGrinWide: icon("fontawesome/regular/  face-grin-wide.svg"),
+  faFaceGrinWink: icon("fontawesome/regular/  face-grin-wink.svg"),
+  faFaceGrin: icon("fontawesome/regular/  face-grin.svg"),
+  faFaceKissBeam: icon("fontawesome/regular/  face-kiss-beam.svg"),
+  faFaceKissWinkHeart: icon("fontawesome/regular/ face-kiss-wink-heart.svg"),
+  faFaceKiss: icon("fontawesome/regular/  face-kiss.svg"),
+  faFaceLaughBeam: icon("fontawesome/regular/ face-laugh-beam.svg"),
+  faFaceLaughSquint: icon("fontawesome/regular/ face-laugh-squint.svg"),
+  faFaceLaughWink: icon("fontawesome/regular/ face-laugh-wink.svg"),
+  faFaceLaugh: icon("fontawesome/regular/ face-laugh.svg"),
+  faFaceMehBlank: icon("fontawesome/regular/  face-meh-blank.svg"),
+  faFaceMeh: icon("fontawesome/regular/ face-meh.svg"),
+  faFaceRollingEyes: icon("fontawesome/regular/ face-rolling-eyes.svg"),
+  faFaceSadCry: icon("fontawesome/regular/  face-sad-cry.svg"),
+  faFaceSadTear: icon("fontawesome/regular/ face-sad-tear.svg"),
+  faFaceSmileBeam: icon("fontawesome/regular/ face-smile-beam.svg"),
+  faFaceSmileWink: icon("fontawesome/regular/ face-smile-wink.svg"),
+  faFaceSmile: icon("fontawesome/regular/ face-smile.svg"),
+  faFaceSurprise: icon("fontawesome/regular/  face-surprise.svg"),
+  faFaceTired: icon("fontawesome/regular/ face-tired.svg"),
+  faFileAudio: icon("fontawesome/regular/file-audio.svg"),
+  faFileCode: icon("fontawesome/regular/file-code.svg"),
+  faFileExcel: icon("fontawesome/regular/file-excel.svg"),
+  faFileImage: icon("fontawesome/regular/file-image.svg"),
+  faFileLines: icon("fontawesome/regular/file-lines.svg"),
+  faFilePdf: icon("fontawesome/regular/file-pdf.svg"),
+  faFilePowerpoint: icon("fontawesome/regular/file-powerpoint.svg"),
+  faFileVideo: icon("fontawesome/regular/file-video.svg"),
+  faFileWord: icon("fontawesome/regular/file-word.svg"),
+  faFileZipper: icon("fontawesome/regular/file-zipper.svg"),
+  faFile: icon("fontawesome/regular/file.svg"),
+  faFlag: icon("fontawesome/regular/flag.svg"),
+  faFloppyDisk: icon("fontawesome/regular/floppy-disk.svg"),
+  faFolderClosed: icon("fontawesome/regular/folder-closed.svg"),
+  faFolderOpen: icon("fontawesome/regular/folder-open.svg"),
+  faFolder: icon("fontawesome/regular/folder.svg"),
+  faFontAwesome: icon("fontawesome/regular/font-awesome.svg"),
+  faFutbol: icon("fontawesome/regular/futbol.svg"),
+  faGem: icon("fontawesome/regular/gem.svg"),
+  faHandBackFist: icon("fontawesome/regular/hand-back-fist.svg"),
+  faHandLizard: icon("fontawesome/regular/hand-lizard.svg"),
+  faHandPeace: icon("fontawesome/regular/hand-peace.svg"),
+  faHandPointDown: icon("fontawesome/regular/hand-point-down.svg"),
+  faHandPointLeft: icon("fontawesome/regular/hand-point-left.svg"),
+  faHandPointRight: icon("fontawesome/regular/hand-point-right.svg"),
+  faHandPointUp: icon("fontawesome/regular/hand-point-up.svg"),
+  faHandPointer: icon("fontawesome/regular/hand-pointer.svg"),
+  faHandScissors: icon("fontawesome/regular/hand-scissors.svg"),
+  faHandSpock: icon("fontawesome/regular/hand-spock.svg"),
+  faHand: icon("fontawesome/regular/hand.svg"),
+  faHandshake: icon("fontawesome/regular/handshake.svg"),
+  faHardDrive: icon("fontawesome/regular/hard-drive.svg"),
+  faHeart: icon("fontawesome/regular/heart.svg"),
+  faHospital: icon("fontawesome/regular/hospital.svg"),
+  faHourglassHalf: icon("fontawesome/regular/hourglass-half.svg"),
+  faHourglass: icon("fontawesome/regular/hourglass.svg"),
+  faIdBadge: icon("fontawesome/regular/id-badge.svg"),
+  faIdCard: icon("fontawesome/regular/id-card.svg"),
+  faImage: icon("fontawesome/regular/image.svg"),
+  faImages: icon("fontawesome/regular/images.svg"),
+  faKeyboard: icon("fontawesome/regular/keyboard.svg"),
+  faLemon: icon("fontawesome/regular/lemon.svg"),
+  faLifeRing: icon("fontawesome/regular/life-ring.svg"),
+  faLightbulb: icon("fontawesome/regular/lightbulb.svg"),
+  faMap: icon("fontawesome/regular/map.svg"),
+  faMessage: icon("fontawesome/regular/message.svg"),
+  faMoneyBill1: icon("fontawesome/regular/money-bill-1.svg"),
+  faMoon: icon("fontawesome/regular/moon.svg"),
+  faNewspaper: icon("fontawesome/regular/newspaper.svg"),
+  faNoteSticky: icon("fontawesome/regular/note-sticky.svg"),
+  faObjectGroup: icon("fontawesome/regular/object-group.svg"),
+  faObjectUngroup: icon("fontawesome/regular/object-ungroup.svg"),
+  faPaperPlane: icon("fontawesome/regular/paper-plane.svg"),
+  faPaste: icon("fontawesome/regular/paste.svg"),
+  faPenToSquare: icon("fontawesome/regular/pen-to-square.svg"),
+  faRectangleList: icon("fontawesome/regular/rectangle-list.svg"),
+  faRectangleXmark: icon("fontawesome/regular/rectangle-xmark.svg"),
+  faRegistered: icon("fontawesome/regular/registered.svg"),
+  faShareFromSquare: icon("fontawesome/regular/share-from-square.svg"),
+  faSnowflake: icon("fontawesome/regular/snowflake.svg"),
+  faSquareCaretDown: icon("fontawesome/regular/square-caret-down.svg"),
+  faSquareCaretLeft: icon("fontawesome/regular/square-caret-left.svg"),
+  faSquareCaretRight: icon("fontawesome/regular/square-caret-right.svg"),
+  faSquareCaretUp: icon("fontawesome/regular/square-caret-up.svg"),
+  faSquareCheck: icon("fontawesome/regular/square-check.svg"),
+  faSquareFull: icon("fontawesome/regular/square-full.svg"),
+  faSquareMinus: icon("fontawesome/regular/square-minus.svg"),
+  faSquarePlus: icon("fontawesome/regular/square-plus.svg"),
+  faSquare: icon("fontawesome/regular/square.svg"),
+  faStarHalfStroke: icon("fontawesome/regular/star-half-stroke.svg"),
+  faStarHalf: icon("fontawesome/regular/star-half.svg"),
+  faStar: icon("fontawesome/regular/star.svg"),
+  faSun: icon("fontawesome/regular/sun.svg"),
+  faThumbsDown: icon("fontawesome/regular/thumbs-down.svg"),
+  faThumbsUp: icon("fontawesome/regular/thumbs-up.svg"),
+  faTrashCan: icon("fontawesome/regular/trash-can.svg"),
+  faUser: icon("fontawesome/regular/user.svg"),
+  faWindowMaximize: icon("fontawesome/regular/window-maximize.svg"),
+  faWindowMinimize: icon("fontawesome/regular/window-minimize.svg"),
+  faWindowRestore: icon("fontawesome/regular/window-restore.svg"),
 
-// solid
-#let fa0 = icon("fontawesome/solid/0.svg")
-#let fa1 = icon("fontawesome/solid/1.svg")
-#let fa2 = icon("fontawesome/solid/2.svg")
-#let fa3 = icon("fontawesome/solid/3.svg")
-#let fa4 = icon("fontawesome/solid/4.svg")
-#let fa5 = icon("fontawesome/solid/5.svg")
-#let fa6 = icon("fontawesome/solid/6.svg")
-#let fa7 = icon("fontawesome/solid/7.svg")
-#let fa8 = icon("fontawesome/solid/8.svg")
-#let fa9 = icon("fontawesome/solid/9.svg")
-#let faA = icon("fontawesome/solid/a.svg")
-#let faAddressBook = icon("fontawesome/solid/address-book.svg")
-#let faAddressCard = icon("fontawesome/solid/address-card.svg")
-#let faAlignCenter = icon("fontawesome/solid/align-center.svg")
-#let faAlignJustify = icon("fontawesome/solid/align-justify.svg")
-#let faAlignLeft = icon("fontawesome/solid/align-left.svg")
-#let faAlignRight = icon("fontawesome/solid/align-right.svg")
-#let faAnchorCircleCheck = icon("fontawesome/solid/anchor-circle-check.svg")
-#let faAnchorCircleExclamation = icon("fontawesome/solid/anchor-circle-exclamation.svg")
-#let faAnchorCircleXmark = icon("fontawesome/solid/anchor-circle-xmark.svg")
-#let faAnchorLock = icon("fontawesome/solid/anchor-lock.svg")
-#let faAnchor = icon("fontawesome/solid/anchor.svg")
-#let faAngleDown = icon("fontawesome/solid/angle-down.svg")
-#let faAngleLeft = icon("fontawesome/solid/angle-left.svg")
-#let faAngleRight = icon("fontawesome/solid/angle-right.svg")
-#let faAngleUp = icon("fontawesome/solid/angle-up.svg")
-#let faAnglesDown = icon("fontawesome/solid/angles-down.svg")
-#let faAnglesLeft = icon("fontawesome/solid/angles-left.svg")
-#let faAnglesRight = icon("fontawesome/solid/angles-right.svg")
-#let faAnglesUp = icon("fontawesome/solid/angles-up.svg")
-#let faAnkh = icon("fontawesome/solid/ankh.svg")
-#let faAppleWhole = icon("fontawesome/solid/apple-whole.svg")
-#let faArchway = icon("fontawesome/solid/archway.svg")
-#let faArrowDown19 = icon("fontawesome/solid/arrow-down-1-9.svg")
-#let faArrowDown91 = icon("fontawesome/solid/arrow-down-9-1.svg")
-#let faArrowDownAZ = icon("fontawesome/solid/arrow-down-a-z.svg")
-#let faArrowDownLong = icon("fontawesome/solid/arrow-down-long.svg")
-#let faArrowDownShortWide = icon("fontawesome/solid/arrow-down-short-wide.svg")
-#let faArrowDownUpAcrossLine = icon("fontawesome/solid/arrow-down-up-across-line.svg")
-#let faArrowDownUpLock = icon("fontawesome/solid/arrow-down-up-lock.svg")
-#let faArrowDownWideShort = icon("fontawesome/solid/arrow-down-wide-short.svg")
-#let faArrowDownZA = icon("fontawesome/solid/arrow-down-z-a.svg")
-#let faArrowDown = icon("fontawesome/solid/arrow-down.svg")
-#let faArrowLeftLong = icon("fontawesome/solid/arrow-left-long.svg")
-#let faArrowLeft = icon("fontawesome/solid/arrow-left.svg")
-#let faArrowPointer = icon("fontawesome/solid/arrow-pointer.svg")
-#let faArrowRightArrowLeft = icon("fontawesome/solid/arrow-right-arrow-left.svg")
-#let faArrowRightFromBracket = icon("fontawesome/solid/arrow-right-from-bracket.svg")
-#let faArrowRightLong = icon("fontawesome/solid/arrow-right-long.svg")
-#let faArrowRightToBracket = icon("fontawesome/solid/arrow-right-to-bracket.svg")
-#let faArrowRightToCity = icon("fontawesome/solid/arrow-right-to-city.svg")
-#let faArrowRight = icon("fontawesome/solid/arrow-right.svg")
-#let faArrowRotateLeft = icon("fontawesome/solid/arrow-rotate-left.svg")
-#let faArrowRotateRight = icon("fontawesome/solid/arrow-rotate-right.svg")
-#let faArrowTrendDown = icon("fontawesome/solid/arrow-trend-down.svg")
-#let faArrowTrendUp = icon("fontawesome/solid/arrow-trend-up.svg")
-#let faArrowTurnDown = icon("fontawesome/solid/arrow-turn-down.svg")
-#let faArrowTurnUp = icon("fontawesome/solid/arrow-turn-up.svg")
-#let faArrowUp19 = icon("fontawesome/solid/arrow-up-1-9.svg")
-#let faArrowUp91 = icon("fontawesome/solid/arrow-up-9-1.svg")
-#let faArrowUpAZ = icon("fontawesome/solid/arrow-up-a-z.svg")
-#let faArrowUpFromBracket = icon("fontawesome/solid/arrow-up-from-bracket.svg")
-#let faArrowUpFromGroundWater = icon("fontawesome/solid/arrow-up-from-ground-water.svg")
-#let faArrowUpFromWaterPump = icon("fontawesome/solid/arrow-up-from-water-pump.svg")
-#let faArrowUpLong = icon("fontawesome/solid/arrow-up-long.svg")
-#let faArrowUpRightDots = icon("fontawesome/solid/arrow-up-right-dots.svg")
-#let faArrowUpRightFromSquare = icon("fontawesome/solid/arrow-up-right-from-square.svg")
-#let faArrowUpShortWide = icon("fontawesome/solid/arrow-up-short-wide.svg")
-#let faArrowUpWideShort = icon("fontawesome/solid/arrow-up-wide-short.svg")
-#let faArrowUpZA = icon("fontawesome/solid/arrow-up-z-a.svg")
-#let faArrowUp = icon("fontawesome/solid/arrow-up.svg")
-#let faArrowsDownToLine = icon("fontawesome/solid/arrows-down-to-line.svg")
-#let faArrowsDownToPeople = icon("fontawesome/solid/arrows-down-to-people.svg")
-#let faArrowsLeftRightToLine = icon("fontawesome/solid/arrows-left-right-to-line.svg")
-#let faArrowsLeftRight = icon("fontawesome/solid/arrows-left-right.svg")
-#let faArrowsRotate = icon("fontawesome/solid/arrows-rotate.svg")
-#let faArrowsSpin = icon("fontawesome/solid/arrows-spin.svg")
-#let faArrowsSplitUpAndLeft = icon("fontawesome/solid/arrows-split-up-and-left.svg")
-#let faArrowsToCircle = icon("fontawesome/solid/arrows-to-circle.svg")
-#let faArrowsToDot = icon("fontawesome/solid/arrows-to-dot.svg")
-#let faArrowsToEye = icon("fontawesome/solid/arrows-to-eye.svg")
-#let faArrowsTurnRight = icon("fontawesome/solid/arrows-turn-right.svg")
-#let faArrowsTurnToDots = icon("fontawesome/solid/arrows-turn-to-dots.svg")
-#let faArrowsUpDownLeftRight = icon("fontawesome/solid/arrows-up-down-left-right.svg")
-#let faArrowsUpDown = icon("fontawesome/solid/arrows-up-down.svg")
-#let faArrowsUpToLine = icon("fontawesome/solid/arrows-up-to-line.svg")
-#let faAsterisk = icon("fontawesome/solid/asterisk.svg")
-#let faAt = icon("fontawesome/solid/at.svg")
-#let faAtom = icon("fontawesome/solid/atom.svg")
-#let faAudioDescription = icon("fontawesome/solid/audio-description.svg")
-#let faAustralSign = icon("fontawesome/solid/austral-sign.svg")
-#let faAward = icon("fontawesome/solid/award.svg")
-#let faB = icon("fontawesome/solid/b.svg")
-#let faBabyCarriage = icon("fontawesome/solid/baby-carriage.svg")
-#let faBaby = icon("fontawesome/solid/baby.svg")
-#let faBackwardFast = icon("fontawesome/solid/backward-fast.svg")
-#let faBackwardStep = icon("fontawesome/solid/backward-step.svg")
-#let faBackward = icon("fontawesome/solid/backward.svg")
-#let faBacon = icon("fontawesome/solid/bacon.svg")
-#let faBacteria = icon("fontawesome/solid/bacteria.svg")
-#let faBacterium = icon("fontawesome/solid/bacterium.svg")
-#let faBagShopping = icon("fontawesome/solid/bag-shopping.svg")
-#let faBahai = icon("fontawesome/solid/bahai.svg")
-#let faBahtSign = icon("fontawesome/solid/baht-sign.svg")
-#let faBanSmoking = icon("fontawesome/solid/ban-smoking.svg")
-#let faBan = icon("fontawesome/solid/ban.svg")
-#let faBandage = icon("fontawesome/solid/bandage.svg")
-#let faSbangladeshiTakaSign = icon("fontawesome/solid/bangladeshi-taka-sign.svg")
-#let faBarcode = icon("fontawesome/solid/barcode.svg")
-#let faBarsProgress = icon("fontawesome/solid/bars-progress.svg")
-#let faBarsStaggered = icon("fontawesome/solid/bars-staggered.svg")
-#let faBars = icon("fontawesome/solid/bars.svg")
-#let faBaseballBatBall = icon("fontawesome/solid/baseball-bat-ball.svg")
-#let faBaseball = icon("fontawesome/solid/baseball.svg")
-#let faBasketShopping = icon("fontawesome/solid/basket-shopping.svg")
-#let faBasketball = icon("fontawesome/solid/basketball.svg")
-#let faBath = icon("fontawesome/solid/bath.svg")
-#let faBatteryEmpty = icon("fontawesome/solid/battery-empty.svg")
-#let faBatteryFull = icon("fontawesome/solid/battery-full.svg")
-#let faBatteryHalf = icon("fontawesome/solid/battery-half.svg")
-#let faBatteryQuarter = icon("fontawesome/solid/battery-quarter.svg")
-#let faBatteryThreeQuarters = icon("fontawesome/solid/battery-three-quarters.svg")
-#let faBedPulse = icon("fontawesome/solid/bed-pulse.svg")
-#let faBed = icon("fontawesome/solid/bed.svg")
-#let faBeerMugEmpty = icon("fontawesome/solid/beer-mug-empty.svg")
-#let faBellConcierge = icon("fontawesome/solid/bell-concierge.svg")
-#let faBellSlash = icon("fontawesome/solid/bell-slash.svg")
-#let faBell = icon("fontawesome/solid/bell.svg")
-#let faBezierCurve = icon("fontawesome/solid/bezier-curve.svg")
-#let faBicycle = icon("fontawesome/solid/bicycle.svg")
-#let faBinoculars = icon("fontawesome/solid/binoculars.svg")
-#let faBiohazard = icon("fontawesome/solid/biohazard.svg")
-#let faBitcoinSign = icon("fontawesome/solid/bitcoin-sign.svg")
-#let faBlenderPhone = icon("fontawesome/solid/blender-phone.svg")
-#let faBlender = icon("fontawesome/solid/blender.svg")
-#let faBlog = icon("fontawesome/solid/blog.svg")
-#let faBold = icon("fontawesome/solid/bold.svg")
-#let faBoltLightning = icon("fontawesome/solid/bolt-lightning.svg")
-#let faBolt = icon("fontawesome/solid/bolt.svg")
-#let faBomb = icon("fontawesome/solid/bomb.svg")
-#let faBone = icon("fontawesome/solid/bone.svg")
-#let faBong = icon("fontawesome/solid/bong.svg")
-#let faBookAtlas = icon("fontawesome/solid/book-atlas.svg")
-#let faBookBible = icon("fontawesome/solid/book-bible.svg")
-#let faBookBookmark = icon("fontawesome/solid/book-bookmark.svg")
-#let faBookJournalWhills = icon("fontawesome/solid/book-journal-whills.svg")
-#let faBookMedical = icon("fontawesome/solid/book-medical.svg")
-#let faBookOpenReader = icon("fontawesome/solid/book-open-reader.svg")
-#let faBookOpen = icon("fontawesome/solid/book-open.svg")
-#let faBookQuran = icon("fontawesome/solid/book-quran.svg")
-#let faBookSkull = icon("fontawesome/solid/book-skull.svg")
-#let faBookTanakh = icon("fontawesome/solid/book-tanakh.svg")
-#let faBook = icon("fontawesome/solid/book.svg")
-#let faBookmark = icon("fontawesome/solid/bookmark.svg")
-#let faBorderAll = icon("fontawesome/solid/border-all.svg")
-#let faBorderNone = icon("fontawesome/solid/border-none.svg")
-#let faBorderTopLeft = icon("fontawesome/solid/border-top-left.svg")
-#let faBoreHole = icon("fontawesome/solid/bore-hole.svg")
-#let faBottleDroplet = icon("fontawesome/solid/bottle-droplet.svg")
-#let faBottleWater = icon("fontawesome/solid/bottle-water.svg")
-#let faBowlFood = icon("fontawesome/solid/bowl-food.svg")
-#let faBowlRice = icon("fontawesome/solid/bowl-rice.svg")
-#let faBowlingBall = icon("fontawesome/solid/bowling-ball.svg")
-#let faBoxArchive = icon("fontawesome/solid/box-archive.svg")
-#let faBoxOpen = icon("fontawesome/solid/box-open.svg")
-#let faBoxTissue = icon("fontawesome/solid/box-tissue.svg")
-#let faBox = icon("fontawesome/solid/box.svg")
-#let faBoxesPacking = icon("fontawesome/solid/boxes-packing.svg")
-#let faBoxesStacked = icon("fontawesome/solid/boxes-stacked.svg")
-#let faBraille = icon("fontawesome/solid/braille.svg")
-#let faBrain = icon("fontawesome/solid/brain.svg")
-#let faBrazilianRealSign = icon("fontawesome/solid/brazilian-real-sign.svg")
-#let faBreadSlice = icon("fontawesome/solid/bread-slice.svg")
-#let faBridgeCircleCheck = icon("fontawesome/solid/bridge-circle-check.svg")
-#let faBridgeCircleExclamation = icon("fontawesome/solid/bridge-circle-exclamation.svg")
-#let faBridgeCircleXmark = icon("fontawesome/solid/bridge-circle-xmark.svg")
-#let faBridgeLock = icon("fontawesome/solid/bridge-lock.svg")
-#let faBridgeWater = icon("fontawesome/solid/bridge-water.svg")
-#let faBridge = icon("fontawesome/solid/bridge.svg")
-#let faBriefcaseMedical = icon("fontawesome/solid/briefcase-medical.svg")
-#let faBriefcase = icon("fontawesome/solid/briefcase.svg")
-#let faBroomBall = icon("fontawesome/solid/broom-ball.svg")
-#let faBroom = icon("fontawesome/solid/broom.svg")
-#let faBrush = icon("fontawesome/solid/brush.svg")
-#let faBucket = icon("fontawesome/solid/bucket.svg")
-#let faBugSlash = icon("fontawesome/solid/bug-slash.svg")
-#let faBug = icon("fontawesome/solid/bug.svg")
-#let faBugs = icon("fontawesome/solid/bugs.svg")
-#let faBuildingCircleArrowRight = icon("fontawesome/solid/building-circle-arrow-right.svg")
-#let faBuildingCircleCheck = icon("fontawesome/solid/building-circle-check.svg")
-#let faBuildingCircleExclamation = icon("fontawesome/solid/building-circle-exclamation.svg")
-#let faBuildingCircleXmark = icon("fontawesome/solid/building-circle-xmark.svg")
-#let faBuildingColumns = icon("fontawesome/solid/building-columns.svg")
-#let faBuildingFlag = icon("fontawesome/solid/building-flag.svg")
-#let faBuildingLock = icon("fontawesome/solid/building-lock.svg")
-#let faBuildingNgo = icon("fontawesome/solid/building-ngo.svg")
-#let faBuildingShield = icon("fontawesome/solid/building-shield.svg")
-#let faBuildingUn = icon("fontawesome/solid/building-un.svg")
-#let faBuildingUser = icon("fontawesome/solid/building-user.svg")
-#let faBuildingWheat = icon("fontawesome/solid/building-wheat.svg")
-#let faBuilding = icon("fontawesome/solid/building.svg")
-#let faBullhorn = icon("fontawesome/solid/bullhorn.svg")
-#let faBullseye = icon("fontawesome/solid/bullseye.svg")
-#let faBurger = icon("fontawesome/solid/burger.svg")
-#let faBurst = icon("fontawesome/solid/burst.svg")
-#let faBusSimple = icon("fontawesome/solid/bus-simple.svg")
-#let faBus = icon("fontawesome/solid/bus.svg")
-#let faBusinessTime = icon("fontawesome/solid/business-time.svg")
-#let faC = icon("fontawesome/solid/c.svg")
-#let faCableCar = icon("fontawesome/solid/cable-car.svg")
-#let faCakeCandles = icon("fontawesome/solid/cake-candles.svg")
-#let faCalculator = icon("fontawesome/solid/calculator.svg")
-#let faCalendarCheck = icon("fontawesome/solid/calendar-check.svg")
-#let faCalendarDay = icon("fontawesome/solid/calendar-day.svg")
-#let faCalendarDays = icon("fontawesome/solid/calendar-days.svg")
-#let faCalendarMinus = icon("fontawesome/solid/calendar-minus.svg")
-#let faCalendarPlus = icon("fontawesome/solid/calendar-plus.svg")
-#let faCalendarWeek = icon("fontawesome/solid/calendar-week.svg")
-#let faCalendarXmark = icon("fontawesome/solid/calendar-xmark.svg")
-#let faCalendar = icon("fontawesome/solid/calendar.svg")
-#let faCameraRetro = icon("fontawesome/solid/camera-retro.svg")
-#let faCameraRotate = icon("fontawesome/solid/camera-rotate.svg")
-#let faCamera = icon("fontawesome/solid/camera.svg")
-#let faCampground = icon("fontawesome/solid/campground.svg")
-#let faCandyCane = icon("fontawesome/solid/candy-cane.svg")
-#let faCannabis = icon("fontawesome/solid/cannabis.svg")
-#let faCapsules = icon("fontawesome/solid/capsules.svg")
-#let faCarBattery = icon("fontawesome/solid/car-battery.svg")
-#let faCarBurst = icon("fontawesome/solid/car-burst.svg")
-#let faCarOn = icon("fontawesome/solid/car-on.svg")
-#let faCarRear = icon("fontawesome/solid/car-rear.svg")
-#let faCarSide = icon("fontawesome/solid/car-side.svg")
-#let faCarTunnel = icon("fontawesome/solid/car-tunnel.svg")
-#let faCar = icon("fontawesome/solid/car.svg")
-#let faCaravan = icon("fontawesome/solid/caravan.svg")
-#let faCaretDown = icon("fontawesome/solid/caret-down.svg")
-#let faCaretLeft = icon("fontawesome/solid/caret-left.svg")
-#let faCaretRight = icon("fontawesome/solid/caret-right.svg")
-#let faCaretUp = icon("fontawesome/solid/caret-up.svg")
-#let faCarrot = icon("fontawesome/solid/carrot.svg")
-#let faCartArrowDown = icon("fontawesome/solid/cart-arrow-down.svg")
-#let faCartFlatbedSuitcase = icon("fontawesome/solid/cart-flatbed-suitcase.svg")
-#let faCartFlatbed = icon("fontawesome/solid/cart-flatbed.svg")
-#let faCartPlus = icon("fontawesome/solid/cart-plus.svg")
-#let faCartShopping = icon("fontawesome/solid/cart-shopping.svg")
-#let faCashRegister = icon("fontawesome/solid/cash-register.svg")
-#let faCat = icon("fontawesome/solid/cat.svg")
-#let faCediSign = icon("fontawesome/solid/cedi-sign.svg")
-#let faCentSign = icon("fontawesome/solid/cent-sign.svg")
-#let faCertificate = icon("fontawesome/solid/certificate.svg")
-#let faChair = icon("fontawesome/solid/chair.svg")
-#let faChalkboardUser = icon("fontawesome/solid/chalkboard-user.svg")
-#let faChalkboard = icon("fontawesome/solid/chalkboard.svg")
-#let faChampagneGlasses = icon("fontawesome/solid/champagne-glasses.svg")
-#let faChargingStation = icon("fontawesome/solid/charging-station.svg")
-#let faChartArea = icon("fontawesome/solid/chart-area.svg")
-#let faChartBar = icon("fontawesome/solid/chart-bar.svg")
-#let faChartColumn = icon("fontawesome/solid/chart-column.svg")
-#let faChartGantt = icon("fontawesome/solid/chart-gantt.svg")
-#let faChartLine = icon("fontawesome/solid/chart-line.svg")
-#let faChartPie = icon("fontawesome/solid/chart-pie.svg")
-#let faChartSimple = icon("fontawesome/solid/chart-simple.svg")
-#let faCheckDouble = icon("fontawesome/solid/check-double.svg")
-#let faCheckToSlot = icon("fontawesome/solid/check-to-slot.svg")
-#let faCheck = icon("fontawesome/solid/check.svg")
-#let faCheese = icon("fontawesome/solid/cheese.svg")
-#let faChessBishop = icon("fontawesome/solid/chess-bishop.svg")
-#let faChessBoard = icon("fontawesome/solid/chess-board.svg")
-#let faChessKing = icon("fontawesome/solid/chess-king.svg")
-#let faChessKnight = icon("fontawesome/solid/chess-knight.svg")
-#let faChessPawn = icon("fontawesome/solid/chess-pawn.svg")
-#let faChessQueen = icon("fontawesome/solid/chess-queen.svg")
-#let faChessRook = icon("fontawesome/solid/chess-rook.svg")
-#let faChess = icon("fontawesome/solid/chess.svg")
-#let faChevronDown = icon("fontawesome/solid/chevron-down.svg")
-#let faChevronLeft = icon("fontawesome/solid/chevron-left.svg")
-#let faChevronRight = icon("fontawesome/solid/chevron-right.svg")
-#let faChevronUp = icon("fontawesome/solid/chevron-up.svg")
-#let faChildCombatant = icon("fontawesome/solid/child-combatant.svg")
-#let faChildDress = icon("fontawesome/solid/child-dress.svg")
-#let faChildReaching = icon("fontawesome/solid/child-reaching.svg")
-#let faChild = icon("fontawesome/solid/child.svg")
-#let faChildren = icon("fontawesome/solid/children.svg")
-#let faChurch = icon("fontawesome/solid/church.svg")
-#let faCircleArrowDown = icon("fontawesome/solid/circle-arrow-down.svg")
-#let faCircleArrowLeft = icon("fontawesome/solid/circle-arrow-left.svg")
-#let faCircleArrowRight = icon("fontawesome/solid/circle-arrow-right.svg")
-#let faCircleArrowUp = icon("fontawesome/solid/circle-arrow-up.svg")
-#let faCircleCheck = icon("fontawesome/solid/circle-check.svg")
-#let faCircleChevronDown = icon("fontawesome/solid/circle-chevron-down.svg")
-#let faCircleChevronLeft = icon("fontawesome/solid/circle-chevron-left.svg")
-#let faCircleChevronRight = icon("fontawesome/solid/circle-chevron-right.svg")
-#let faCircleChevronUp = icon("fontawesome/solid/circle-chevron-up.svg")
-#let faCircleDollarToSlot = icon("fontawesome/solid/circle-dollar-to-slot.svg")
-#let faCircleDot = icon("fontawesome/solid/circle-dot.svg")
-#let faCircleDown = icon("fontawesome/solid/circle-down.svg")
-#let faCircleExclamation = icon("fontawesome/solid/circle-exclamation.svg")
-#let faCircleH = icon("fontawesome/solid/circle-h.svg")
-#let faCircleHalfStroke = icon("fontawesome/solid/circle-half-stroke.svg")
-#let faCircleInfo = icon("fontawesome/solid/circle-info.svg")
-#let faCircleLeft = icon("fontawesome/solid/circle-left.svg")
-#let faCircleMinus = icon("fontawesome/solid/circle-minus.svg")
-#let faCircleNodes = icon("fontawesome/solid/circle-nodes.svg")
-#let faCircleNotch = icon("fontawesome/solid/circle-notch.svg")
-#let faCirclePause = icon("fontawesome/solid/circle-pause.svg")
-#let faCirclePlay = icon("fontawesome/solid/circle-play.svg")
-#let faCirclePlus = icon("fontawesome/solid/circle-plus.svg")
-#let faCircleQuestion = icon("fontawesome/solid/circle-question.svg")
-#let faCircleRadiation = icon("fontawesome/solid/circle-radiation.svg")
-#let faCircleRight = icon("fontawesome/solid/circle-right.svg")
-#let faCircleStop = icon("fontawesome/solid/circle-stop.svg")
-#let faCircleUp = icon("fontawesome/solid/circle-up.svg")
-#let faCircleUser = icon("fontawesome/solid/circle-user.svg")
-#let faCircleXmark = icon("fontawesome/solid/circle-xmark.svg")
-#let faCircle = icon("fontawesome/solid/circle.svg")
-#let faCity = icon("fontawesome/solid/city.svg")
-#let faClapperboard = icon("fontawesome/solid/clapperboard.svg")
-#let faClipboardCheck = icon("fontawesome/solid/clipboard-check.svg")
-#let faClipboardList = icon("fontawesome/solid/clipboard-list.svg")
-#let faClipboardQuestion = icon("fontawesome/solid/clipboard-question.svg")
-#let faClipboardUser = icon("fontawesome/solid/clipboard-user.svg")
-#let faClipboard = icon("fontawesome/solid/clipboard.svg")
-#let faClockRotateLeft = icon("fontawesome/solid/clock-rotate-left.svg")
-#let faClock = icon("fontawesome/solid/clock.svg")
-#let faClone = icon("fontawesome/solid/clone.svg")
-#let faClosedCaptioning = icon("fontawesome/solid/closed-captioning.svg")
-#let faCloudArrowDown = icon("fontawesome/solid/cloud-arrow-down.svg")
-#let faCloudArrowUp = icon("fontawesome/solid/cloud-arrow-up.svg")
-#let faCloudBolt = icon("fontawesome/solid/cloud-bolt.svg")
-#let faCloudMeatball = icon("fontawesome/solid/cloud-meatball.svg")
-#let faCloudMoonRain = icon("fontawesome/solid/cloud-moon-rain.svg")
-#let faCloudMoon = icon("fontawesome/solid/cloud-moon.svg")
-#let faCloudRain = icon("fontawesome/solid/cloud-rain.svg")
-#let faCloudShowersHeavy = icon("fontawesome/solid/cloud-showers-heavy.svg")
-#let faCloudShowersWater = icon("fontawesome/solid/cloud-showers-water.svg")
-#let faCloudSunRain = icon("fontawesome/solid/cloud-sun-rain.svg")
-#let faCloudSun = icon("fontawesome/solid/cloud-sun.svg")
-#let faCloud = icon("fontawesome/solid/cloud.svg")
-#let faClover = icon("fontawesome/solid/clover.svg")
-#let faCodeBranch = icon("fontawesome/solid/code-branch.svg")
-#let faCodeCommit = icon("fontawesome/solid/code-commit.svg")
-#let faCodeCompare = icon("fontawesome/solid/code-compare.svg")
-#let faCodeFork = icon("fontawesome/solid/code-fork.svg")
-#let faCodeMerge = icon("fontawesome/solid/code-merge.svg")
-#let faCodePullRequest = icon("fontawesome/solid/code-pull-request.svg")
-#let faCode = icon("fontawesome/solid/code.svg")
-#let faCoins = icon("fontawesome/solid/coins.svg")
-#let faColonSign = icon("fontawesome/solid/colon-sign.svg")
-#let faCommentDollar = icon("fontawesome/solid/comment-dollar.svg")
-#let faCommentDots = icon("fontawesome/solid/comment-dots.svg")
-#let faCommentMedical = icon("fontawesome/solid/comment-medical.svg")
-#let faCommentSlash = icon("fontawesome/solid/comment-slash.svg")
-#let faCommentSms = icon("fontawesome/solid/comment-sms.svg")
-#let faComment = icon("fontawesome/solid/comment.svg")
-#let faCommentsDollar = icon("fontawesome/solid/comments-dollar.svg")
-#let faComments = icon("fontawesome/solid/comments.svg")
-#let faCompactDisc = icon("fontawesome/solid/compact-disc.svg")
-#let faCompassDrafting = icon("fontawesome/solid/compass-drafting.svg")
-#let faCompass = icon("fontawesome/solid/compass.svg")
-#let faCompress = icon("fontawesome/solid/compress.svg")
-#let faComputerMouse = icon("fontawesome/solid/computer-mouse.svg")
-#let faComputer = icon("fontawesome/solid/computer.svg")
-#let faCookieBite = icon("fontawesome/solid/cookie-bite.svg")
-#let faCookie = icon("fontawesome/solid/cookie.svg")
-#let faCopy = icon("fontawesome/solid/copy.svg")
-#let faCopyright = icon("fontawesome/solid/copyright.svg")
-#let faCouch = icon("fontawesome/solid/couch.svg")
-#let faCow = icon("fontawesome/solid/cow.svg")
-#let faCreditCard = icon("fontawesome/solid/credit-card.svg")
-#let faCropSimple = icon("fontawesome/solid/crop-simple.svg")
-#let faCrop = icon("fontawesome/solid/crop.svg")
-#let faCross = icon("fontawesome/solid/cross.svg")
-#let faCrosshairs = icon("fontawesome/solid/crosshairs.svg")
-#let faCrow = icon("fontawesome/solid/crow.svg")
-#let faCrown = icon("fontawesome/solid/crown.svg")
-#let faCrutch = icon("fontawesome/solid/crutch.svg")
-#let faCruzeiroSign = icon("fontawesome/solid/cruzeiro-sign.svg")
-#let faCube = icon("fontawesome/solid/cube.svg")
-#let faCubesStacked = icon("fontawesome/solid/cubes-stacked.svg")
-#let faCubes = icon("fontawesome/solid/cubes.svg")
-#let faD = icon("fontawesome/solid/d.svg")
-#let faDatabase = icon("fontawesome/solid/database.svg")
-#let faDeleteLeft = icon("fontawesome/solid/delete-left.svg")
-#let faDemocrat = icon("fontawesome/solid/democrat.svg")
-#let faDesktop = icon("fontawesome/solid/desktop.svg")
-#let faDharmachakra = icon("fontawesome/solid/dharmachakra.svg")
-#let faDiagramNext = icon("fontawesome/solid/diagram-next.svg")
-#let faDiagramPredecessor = icon("fontawesome/solid/diagram-predecessor.svg")
-#let faDiagramProject = icon("fontawesome/solid/diagram-project.svg")
-#let faDiagramSuccessor = icon("fontawesome/solid/diagram-successor.svg")
-#let faDiamondTurnRight = icon("fontawesome/solid/diamond-turn-right.svg")
-#let faDiamond = icon("fontawesome/solid/diamond.svg")
-#let faDiceD6 = icon("fontawesome/solid/dice-d6.svg")
-#let faDiceD20 = icon("fontawesome/solid/dice-d20.svg")
-#let faDiceFive = icon("fontawesome/solid/dice-five.svg")
-#let faDiceFour = icon("fontawesome/solid/dice-four.svg")
-#let faDiceOne = icon("fontawesome/solid/dice-one.svg")
-#let faDiceSix = icon("fontawesome/solid/dice-six.svg")
-#let faDiceThree = icon("fontawesome/solid/dice-three.svg")
-#let faDiceTwo = icon("fontawesome/solid/dice-two.svg")
-#let faDice = icon("fontawesome/solid/dice.svg")
-#let faDisease = icon("fontawesome/solid/disease.svg")
-#let faDisplay = icon("fontawesome/solid/display.svg")
-#let faDivide = icon("fontawesome/solid/divide.svg")
-#let faDna = icon("fontawesome/solid/dna.svg")
-#let faDog = icon("fontawesome/solid/dog.svg")
-#let faDollarSign = icon("fontawesome/solid/dollar-sign.svg")
-#let faDolly = icon("fontawesome/solid/dolly.svg")
-#let faDongSign = icon("fontawesome/solid/dong-sign.svg")
-#let faDoorClosed = icon("fontawesome/solid/door-closed.svg")
-#let faDoorOpen = icon("fontawesome/solid/door-open.svg")
-#let faDove = icon("fontawesome/solid/dove.svg")
-#let faDownLeftAndUpRightToCenter = icon("fontawesome/solid/down-left-and-up-right-to-center.svg")
-#let faDownLong = icon("fontawesome/solid/down-long.svg")
-#let faDownload = icon("fontawesome/solid/download.svg")
-#let faDragon = icon("fontawesome/solid/dragon.svg")
-#let faDrawPolygon = icon("fontawesome/solid/draw-polygon.svg")
-#let faDropletSlash = icon("fontawesome/solid/droplet-slash.svg")
-#let faDroplet = icon("fontawesome/solid/droplet.svg")
-#let faDrumSteelpan = icon("fontawesome/solid/drum-steelpan.svg")
-#let faDrum = icon("fontawesome/solid/drum.svg")
-#let faDrumstickBite = icon("fontawesome/solid/drumstick-bite.svg")
-#let faDumbbell = icon("fontawesome/solid/dumbbell.svg")
-#let faDumpsterFire = icon("fontawesome/solid/dumpster-fire.svg")
-#let faDumpster = icon("fontawesome/solid/dumpster.svg")
-#let faDungeon = icon("fontawesome/solid/dungeon.svg")
-#let faE = icon("fontawesome/solid/e.svg")
-#let faEarDeaf = icon("fontawesome/solid/ear-deaf.svg")
-#let faEarListen = icon("fontawesome/solid/ear-listen.svg")
-#let faEarthAfrica = icon("fontawesome/solid/earth-africa.svg")
-#let faEarthAmericas = icon("fontawesome/solid/earth-americas.svg")
-#let faEarthAsia = icon("fontawesome/solid/earth-asia.svg")
-#let faEarthEurope = icon("fontawesome/solid/earth-europe.svg")
-#let faEarthOceania = icon("fontawesome/solid/earth-oceania.svg")
-#let faEgg = icon("fontawesome/solid/egg.svg")
-#let faEject = icon("fontawesome/solid/eject.svg")
-#let faElevator = icon("fontawesome/solid/elevator.svg")
-#let faEllipsisVertical = icon("fontawesome/solid/ellipsis-vertical.svg")
-#let faEllipsis = icon("fontawesome/solid/ellipsis.svg")
-#let faEnvelopeCircleCheck = icon("fontawesome/solid/envelope-circle-check.svg")
-#let faEnvelopeOpenText = icon("fontawesome/solid/envelope-open-text.svg")
-#let faEnvelopeOpen = icon("fontawesome/solid/envelope-open.svg")
-#let faEnvelope = icon("fontawesome/solid/envelope.svg")
-#let faEnvelopesBulk = icon("fontawesome/solid/envelopes-bulk.svg")
-#let faEquals = icon("fontawesome/solid/equals.svg")
-#let faEraser = icon("fontawesome/solid/eraser.svg")
-#let faEthernet = icon("fontawesome/solid/ethernet.svg")
-#let faEuroSign = icon("fontawesome/solid/euro-sign.svg")
-#let faExclamation = icon("fontawesome/solid/exclamation.svg")
-#let faExpand = icon("fontawesome/solid/expand.svg")
-#let faExplosion = icon("fontawesome/solid/explosion.svg")
-#let faEyeDropper = icon("fontawesome/solid/eye-dropper.svg")
-#let faEyeLowVision = icon("fontawesome/solid/eye-low-vision.svg")
-#let faEyeSlash = icon("fontawesome/solid/eye-slash.svg")
-#let faEye = icon("fontawesome/solid/eye.svg")
-#let faF = icon("fontawesome/solid/f.svg")
-#let faFaceAngry = icon("fontawesome/solid/face-angry.svg")
-#let faFaceDizzy = icon("fontawesome/solid/face-dizzy.svg")
-#let faFaceFlushed = icon("fontawesome/solid/face-flushed.svg")
-#let faFaceFrownOpen = icon("fontawesome/solid/face-frown-open.svg")
-#let faFaceFrown = icon("fontawesome/solid/face-frown.svg")
-#let faFaceGrimace = icon("fontawesome/solid/face-grimace.svg")
-#let faFaceGrinBeamSweat = icon("fontawesome/solid/face-grin-beam-sweat.svg")
-#let faFaceGrinBeam = icon("fontawesome/solid/face-grin-beam.svg")
-#let faFaceGrinHearts = icon("fontawesome/solid/face-grin-hearts.svg")
-#let faFaceGrinSquintTears = icon("fontawesome/solid/face-grin-squint-tears.svg")
-#let faFaceGrinSquint = icon("fontawesome/solid/face-grin-squint.svg")
-#let faFaceGrinStars = icon("fontawesome/solid/face-grin-stars.svg")
-#let faFaceGrinTears = icon("fontawesome/solid/face-grin-tears.svg")
-#let faFaceGrinTongueSquint = icon("fontawesome/solid/face-grin-tongue-squint.svg")
-#let faFaceGrinTongueWink = icon("fontawesome/solid/face-grin-tongue-wink.svg")
-#let faFaceGrinTongue = icon("fontawesome/solid/face-grin-tongue.svg")
-#let faFaceGrinWide = icon("fontawesome/solid/face-grin-wide.svg")
-#let faFaceGrinWink = icon("fontawesome/solid/face-grin-wink.svg")
-#let faFaceGrin = icon("fontawesome/solid/face-grin.svg")
-#let faFaceKissBeam = icon("fontawesome/solid/face-kiss-beam.svg")
-#let faFaceKissWinkHeart = icon("fontawesome/solid/face-kiss-wink-heart.svg")
-#let faFaceKiss = icon("fontawesome/solid/face-kiss.svg")
-#let faFaceLaughBeam = icon("fontawesome/solid/face-laugh-beam.svg")
-#let faFaceLaughSquint = icon("fontawesome/solid/face-laugh-squint.svg")
-#let faFaceLaughWink = icon("fontawesome/solid/face-laugh-wink.svg")
-#let faFaceLaugh = icon("fontawesome/solid/face-laugh.svg")
-#let faFaceMehBlank = icon("fontawesome/solid/face-meh-blank.svg")
-#let faFaceMeh = icon("fontawesome/solid/face-meh.svg")
-#let faFaceRollingEyes = icon("fontawesome/solid/face-rolling-eyes.svg")
-#let faFaceSadCry = icon("fontawesome/solid/face-sad-cry.svg")
-#let faFaceSadTear = icon("fontawesome/solid/face-sad-tear.svg")
-#let faFaceSmileBeam = icon("fontawesome/solid/face-smile-beam.svg")
-#let faFaceSmileWink = icon("fontawesome/solid/face-smile-wink.svg")
-#let faFaceSmile = icon("fontawesome/solid/face-smile.svg")
-#let faFaceSurprise = icon("fontawesome/solid/face-surprise.svg")
-#let faFaceTired = icon("fontawesome/solid/face-tired.svg")
-#let faFan = icon("fontawesome/solid/fan.svg")
-#let faFaucetDrip = icon("fontawesome/solid/faucet-drip.svg")
-#let faFaucet = icon("fontawesome/solid/faucet.svg")
-#let faFax = icon("fontawesome/solid/fax.svg")
-#let faFeatherPointed = icon("fontawesome/solid/feather-pointed.svg")
-#let faFeather = icon("fontawesome/solid/feather.svg")
-#let faFerry = icon("fontawesome/solid/ferry.svg")
-#let faFileArrowDown = icon("fontawesome/solid/file-arrow-down.svg")
-#let faFileArrowUp = icon("fontawesome/solid/file-arrow-up.svg")
-#let faFileAudio = icon("fontawesome/solid/file-audio.svg")
-#let faFileCircleCheck = icon("fontawesome/solid/file-circle-check.svg")
-#let faFileCircleExclamation = icon("fontawesome/solid/file-circle-exclamation.svg")
-#let faFileCircleMinus = icon("fontawesome/solid/file-circle-minus.svg")
-#let faFileCirclePlus = icon("fontawesome/solid/file-circle-plus.svg")
-#let faFileCircleQuestion = icon("fontawesome/solid/file-circle-question.svg")
-#let faFileCircleXmark = icon("fontawesome/solid/file-circle-xmark.svg")
-#let faFileCode = icon("fontawesome/solid/file-code.svg")
-#let faFileContract = icon("fontawesome/solid/file-contract.svg")
-#let faFileCsv = icon("fontawesome/solid/file-csv.svg")
-#let faFileExcel = icon("fontawesome/solid/file-excel.svg")
-#let faFileExport = icon("fontawesome/solid/file-export.svg")
-#let faFileImage = icon("fontawesome/solid/file-image.svg")
-#let faFileImport = icon("fontawesome/solid/file-import.svg")
-#let faFileInvoiceDollar = icon("fontawesome/solid/file-invoice-dollar.svg")
-#let faFileInvoice = icon("fontawesome/solid/file-invoice.svg")
-#let faFileLines = icon("fontawesome/solid/file-lines.svg")
-#let faFileMedical = icon("fontawesome/solid/file-medical.svg")
-#let faFilePdf = icon("fontawesome/solid/file-pdf.svg")
-#let faFilePen = icon("fontawesome/solid/file-pen.svg")
-#let faFilePowerpoint = icon("fontawesome/solid/file-powerpoint.svg")
-#let faFilePrescription = icon("fontawesome/solid/file-prescription.svg")
-#let faFileShield = icon("fontawesome/solid/file-shield.svg")
-#let faFileSignature = icon("fontawesome/solid/file-signature.svg")
-#let faFileVideo = icon("fontawesome/solid/file-video.svg")
-#let faFileWaveform = icon("fontawesome/solid/file-waveform.svg")
-#let faFileWord = icon("fontawesome/solid/file-word.svg")
-#let faFileZipper = icon("fontawesome/solid/file-zipper.svg")
-#let faFile = icon("fontawesome/solid/file.svg")
-#let faFillDrip = icon("fontawesome/solid/fill-drip.svg")
-#let faFill = icon("fontawesome/solid/fill.svg")
-#let faFilm = icon("fontawesome/solid/film.svg")
-#let faFilterCircleDollar = icon("fontawesome/solid/filter-circle-dollar.svg")
-#let faFilterCircleXmark = icon("fontawesome/solid/filter-circle-xmark.svg")
-#let faFilter = icon("fontawesome/solid/filter.svg")
-#let faFingerprint = icon("fontawesome/solid/fingerprint.svg")
-#let faFireBurner = icon("fontawesome/solid/fire-burner.svg")
-#let faFireExtinguisher = icon("fontawesome/solid/fire-extinguisher.svg")
-#let faFireFlameCurved = icon("fontawesome/solid/fire-flame-curved.svg")
-#let faFireFlameSimple = icon("fontawesome/solid/fire-flame-simple.svg")
-#let faFire = icon("fontawesome/solid/fire.svg")
-#let faFishFins = icon("fontawesome/solid/fish-fins.svg")
-#let faFish = icon("fontawesome/solid/fish.svg")
-#let faFlagCheckered = icon("fontawesome/solid/flag-checkered.svg")
-#let faFlagUsa = icon("fontawesome/solid/flag-usa.svg")
-#let faFlag = icon("fontawesome/solid/flag.svg")
-#let faFlaskVial = icon("fontawesome/solid/flask-vial.svg")
-#let faFlask = icon("fontawesome/solid/flask.svg")
-#let faFloppyDisk = icon("fontawesome/solid/floppy-disk.svg")
-#let faFlorinSign = icon("fontawesome/solid/florin-sign.svg")
-#let faFolderClosed = icon("fontawesome/solid/folder-closed.svg")
-#let faFolderMinus = icon("fontawesome/solid/folder-minus.svg")
-#let faFolderOpen = icon("fontawesome/solid/folder-open.svg")
-#let faFolderPlus = icon("fontawesome/solid/folder-plus.svg")
-#let faFolderTree = icon("fontawesome/solid/folder-tree.svg")
-#let faFolder = icon("fontawesome/solid/folder.svg")
-#let faFontAwesome = icon("fontawesome/solid/font-awesome.svg")
-#let faFont = icon("fontawesome/solid/font.svg")
-#let faFootball = icon("fontawesome/solid/football.svg")
-#let faForwardFast = icon("fontawesome/solid/forward-fast.svg")
-#let faForwardStep = icon("fontawesome/solid/forward-step.svg")
-#let faForward = icon("fontawesome/solid/forward.svg")
-#let faFrancSign = icon("fontawesome/solid/franc-sign.svg")
-#let faFrog = icon("fontawesome/solid/frog.svg")
-#let faFutbol = icon("fontawesome/solid/futbol.svg")
-#let faG = icon("fontawesome/solid/g.svg")
-#let faGamepad = icon("fontawesome/solid/gamepad.svg")
-#let faGasPump = icon("fontawesome/solid/gas-pump.svg")
-#let faGaugeHigh = icon("fontawesome/solid/gauge-high.svg")
-#let faGaugeSimpleHigh = icon("fontawesome/solid/gauge-simple-high.svg")
-#let faGaugeSimple = icon("fontawesome/solid/gauge-simple.svg")
-#let faGauge = icon("fontawesome/solid/gauge.svg")
-#let faGavel = icon("fontawesome/solid/gavel.svg")
-#let faGear = icon("fontawesome/solid/gear.svg")
-#let faGears = icon("fontawesome/solid/gears.svg")
-#let faGem = icon("fontawesome/solid/gem.svg")
-#let faGenderless = icon("fontawesome/solid/genderless.svg")
-#let faGhost = icon("fontawesome/solid/ghost.svg")
-#let faGift = icon("fontawesome/solid/gift.svg")
-#let faGifts = icon("fontawesome/solid/gifts.svg")
-#let faGlassWaterDroplet = icon("fontawesome/solid/glass-water-droplet.svg")
-#let faGlassWater = icon("fontawesome/solid/glass-water.svg")
-#let faGlasses = icon("fontawesome/solid/glasses.svg")
-#let faGlobe = icon("fontawesome/solid/globe.svg")
-#let faGolfBallTee = icon("fontawesome/solid/golf-ball-tee.svg")
-#let faGopuram = icon("fontawesome/solid/gopuram.svg")
-#let faGraduationCap = icon("fontawesome/solid/graduation-cap.svg")
-#let faGreaterThanEqual = icon("fontawesome/solid/greater-than-equal.svg")
-#let faGreaterThan = icon("fontawesome/solid/greater-than.svg")
-#let faGripLinesVertical = icon("fontawesome/solid/grip-lines-vertical.svg")
-#let faGripLines = icon("fontawesome/solid/grip-lines.svg")
-#let faGripVertical = icon("fontawesome/solid/grip-vertical.svg")
-#let faGrip = icon("fontawesome/solid/grip.svg")
-#let faGroupArrowsRotate = icon("fontawesome/solid/group-arrows-rotate.svg")
-#let faGuaraniSign = icon("fontawesome/solid/guarani-sign.svg")
-#let faGuitar = icon("fontawesome/solid/guitar.svg")
-#let faGun = icon("fontawesome/solid/gun.svg")
-#let faH = icon("fontawesome/solid/h.svg")
-#let faHammer = icon("fontawesome/solid/hammer.svg")
-#let faHamsa = icon("fontawesome/solid/hamsa.svg")
-#let faHandBackFist = icon("fontawesome/solid/hand-back-fist.svg")
-#let faHandDots = icon("fontawesome/solid/hand-dots.svg")
-#let faHandFist = icon("fontawesome/solid/hand-fist.svg")
-#let faHandHoldingDollar = icon("fontawesome/solid/hand-holding-dollar.svg")
-#let faHandHoldingDroplet = icon("fontawesome/solid/hand-holding-droplet.svg")
-#let faHandHoldingHand = icon("fontawesome/solid/hand-holding-hand.svg")
-#let faHandHoldingHeart = icon("fontawesome/solid/hand-holding-heart.svg")
-#let faHandHoldingMedical = icon("fontawesome/solid/hand-holding-medical.svg")
-#let faHandHolding = icon("fontawesome/solid/hand-holding.svg")
-#let faHandLizard = icon("fontawesome/solid/hand-lizard.svg")
-#let faHandMiddleFinger = icon("fontawesome/solid/hand-middle-finger.svg")
-#let faHandPeace = icon("fontawesome/solid/hand-peace.svg")
-#let faHandPointDown = icon("fontawesome/solid/hand-point-down.svg")
-#let faHandPointLeft = icon("fontawesome/solid/hand-point-left.svg")
-#let faHandPointRight = icon("fontawesome/solid/hand-point-right.svg")
-#let faHandPointUp = icon("fontawesome/solid/hand-point-up.svg")
-#let faHandPointer = icon("fontawesome/solid/hand-pointer.svg")
-#let faHandScissors = icon("fontawesome/solid/hand-scissors.svg")
-#let faHandSparkles = icon("fontawesome/solid/hand-sparkles.svg")
-#let faHandSpock = icon("fontawesome/solid/hand-spock.svg")
-#let faHand = icon("fontawesome/solid/hand.svg")
-#let faHandcuffs = icon("fontawesome/solid/handcuffs.svg")
-#let faHandsAslInterpreting = icon("fontawesome/solid/hands-asl-interpreting.svg")
-#let faHandsBound = icon("fontawesome/solid/hands-bound.svg")
-#let faHandsBubbles = icon("fontawesome/solid/hands-bubbles.svg")
-#let faHandsClapping = icon("fontawesome/solid/hands-clapping.svg")
-#let faHandsHoldingChild = icon("fontawesome/solid/hands-holding-child.svg")
-#let faHandsHoldingCircle = icon("fontawesome/solid/hands-holding-circle.svg")
-#let faHandsHolding = icon("fontawesome/solid/hands-holding.svg")
-#let faHandsPraying = icon("fontawesome/solid/hands-praying.svg")
-#let faHands = icon("fontawesome/solid/hands.svg")
-#let faHandshakeAngle = icon("fontawesome/solid/handshake-angle.svg")
-#let faHandshakeSimpleSlash = icon("fontawesome/solid/handshake-simple-slash.svg")
-#let faHandshakeSimple = icon("fontawesome/solid/handshake-simple.svg")
-#let faHandshakeSlash = icon("fontawesome/solid/handshake-slash.svg")
-#let faHandshake = icon("fontawesome/solid/handshake.svg")
-#let faHanukiah = icon("fontawesome/solid/hanukiah.svg")
-#let faHardDrive = icon("fontawesome/solid/hard-drive.svg")
-#let faHashtag = icon("fontawesome/solid/hashtag.svg")
-#let faHatCowboySide = icon("fontawesome/solid/hat-cowboy-side.svg")
-#let faHatCowboy = icon("fontawesome/solid/hat-cowboy.svg")
-#let faHatWizard = icon("fontawesome/solid/hat-wizard.svg")
-#let faHeadSideCoughSlash = icon("fontawesome/solid/head-side-cough-slash.svg")
-#let faHeadSideCough = icon("fontawesome/solid/head-side-cough.svg")
-#let faHeadSideMask = icon("fontawesome/solid/head-side-mask.svg")
-#let faHeadSideVirus = icon("fontawesome/solid/head-side-virus.svg")
-#let faHeading = icon("fontawesome/solid/heading.svg")
-#let faHeadphonesSimple = icon("fontawesome/solid/headphones-simple.svg")
-#let faHeadphones = icon("fontawesome/solid/headphones.svg")
-#let faHeadset = icon("fontawesome/solid/headset.svg")
-#let faHeartCircleBolt = icon("fontawesome/solid/heart-circle-bolt.svg")
-#let faHeartCircleCheck = icon("fontawesome/solid/heart-circle-check.svg")
-#let faHeartCircleExclamation = icon("fontawesome/solid/heart-circle-exclamation.svg")
-#let faHeartCircleMinus = icon("fontawesome/solid/heart-circle-minus.svg")
-#let faHeartCirclePlus = icon("fontawesome/solid/heart-circle-plus.svg")
-#let faHeartCircleXmark = icon("fontawesome/solid/heart-circle-xmark.svg")
-#let faHeartCrack = icon("fontawesome/solid/heart-crack.svg")
-#let faHeartPulse = icon("fontawesome/solid/heart-pulse.svg")
-#let faHeart = icon("fontawesome/solid/heart.svg")
-#let faHelicopterSymbol = icon("fontawesome/solid/helicopter-symbol.svg")
-#let faHelicopter = icon("fontawesome/solid/helicopter.svg")
-#let faHelmetSafety = icon("fontawesome/solid/helmet-safety.svg")
-#let faHelmetUn = icon("fontawesome/solid/helmet-un.svg")
-#let faHighlighter = icon("fontawesome/solid/highlighter.svg")
-#let faHillAvalanche = icon("fontawesome/solid/hill-avalanche.svg")
-#let faHillRockslide = icon("fontawesome/solid/hill-rockslide.svg")
-#let faHippo = icon("fontawesome/solid/hippo.svg")
-#let faHockeyPuck = icon("fontawesome/solid/hockey-puck.svg")
-#let faHollyBerry = icon("fontawesome/solid/holly-berry.svg")
-#let faHorseHead = icon("fontawesome/solid/horse-head.svg")
-#let faHorse = icon("fontawesome/solid/horse.svg")
-#let faHospitalUser = icon("fontawesome/solid/hospital-user.svg")
-#let faHospital = icon("fontawesome/solid/hospital.svg")
-#let faHotTubPerson = icon("fontawesome/solid/hot-tub-person.svg")
-#let faHotdog = icon("fontawesome/solid/hotdog.svg")
-#let faHotel = icon("fontawesome/solid/hotel.svg")
-#let faHourglassEnd = icon("fontawesome/solid/hourglass-end.svg")
-#let faHourglassHalf = icon("fontawesome/solid/hourglass-half.svg")
-#let faHourglassStart = icon("fontawesome/solid/hourglass-start.svg")
-#let faHourglass = icon("fontawesome/solid/hourglass.svg")
-#let faHouseChimneyCrack = icon("fontawesome/solid/house-chimney-crack.svg")
-#let faHouseChimneyMedical = icon("fontawesome/solid/house-chimney-medical.svg")
-#let faHouseChimneyUser = icon("fontawesome/solid/house-chimney-user.svg")
-#let faHouseChimneyWindow = icon("fontawesome/solid/house-chimney-window.svg")
-#let faHouseChimney = icon("fontawesome/solid/house-chimney.svg")
-#let faHouseCircleCheck = icon("fontawesome/solid/house-circle-check.svg")
-#let faHouseCircleExclamation = icon("fontawesome/solid/house-circle-exclamation.svg")
-#let faHouseCircleXmark = icon("fontawesome/solid/house-circle-xmark.svg")
-#let faHouseCrack = icon("fontawesome/solid/house-crack.svg")
-#let faHouseFire = icon("fontawesome/solid/house-fire.svg")
-#let faHouseFlag = icon("fontawesome/solid/house-flag.svg")
-#let faHouseFloodWaterCircleArrowRight = icon("fontawesome/solid/house-flood-water-circle-arrow-right.svg")
-#let faHouseFloodWater = icon("fontawesome/solid/house-flood-water.svg")
-#let faHouseLaptop = icon("fontawesome/solid/house-laptop.svg")
-#let faHouseLock = icon("fontawesome/solid/house-lock.svg")
-#let faHouseMedicalCircleCheck = icon("fontawesome/solid/house-medical-circle-check.svg")
-#let faHouseMedicalCircleExclamation = icon("fontawesome/solid/house-medical-circle-exclamation.svg")
-#let faHouseMedicalCircleXmark = icon("fontawesome/solid/house-medical-circle-xmark.svg")
-#let faHouseMedicalFlag = icon("fontawesome/solid/house-medical-flag.svg")
-#let faHouseMedical = icon("fontawesome/solid/house-medical.svg")
-#let faHouseSignal = icon("fontawesome/solid/house-signal.svg")
-#let faHouseTsunami = icon("fontawesome/solid/house-tsunami.svg")
-#let faHouseUser = icon("fontawesome/solid/house-user.svg")
-#let faHouse = icon("fontawesome/solid/house.svg")
-#let faHryvniaSign = icon("fontawesome/solid/hryvnia-sign.svg")
-#let faHurricane = icon("fontawesome/solid/hurricane.svg")
-#let faICursor = icon("fontawesome/solid/i-cursor.svg")
-#let faI = icon("fontawesome/solid/i.svg")
-#let faIceCream = icon("fontawesome/solid/ice-cream.svg")
-#let faIcicles = icon("fontawesome/solid/icicles.svg")
-#let faIcons = icon("fontawesome/solid/icons.svg")
-#let faIdBadge = icon("fontawesome/solid/id-badge.svg")
-#let faIdCardClip = icon("fontawesome/solid/id-card-clip.svg")
-#let faIdCard = icon("fontawesome/solid/id-card.svg")
-#let faIgloo = icon("fontawesome/solid/igloo.svg")
-#let faImagePortrait = icon("fontawesome/solid/image-portrait.svg")
-#let faImage = icon("fontawesome/solid/image.svg")
-#let faImages = icon("fontawesome/solid/images.svg")
-#let faInbox = icon("fontawesome/solid/inbox.svg")
-#let faIndent = icon("fontawesome/solid/indent.svg")
-#let faIndianRupeeSign = icon("fontawesome/solid/indian-rupee-sign.svg")
-#let faIndustry = icon("fontawesome/solid/industry.svg")
-#let faInfinity = icon("fontawesome/solid/infinity.svg")
-#let faInfo = icon("fontawesome/solid/info.svg")
-#let faItalic = icon("fontawesome/solid/italic.svg")
-#let faJ = icon("fontawesome/solid/j.svg")
-#let faJarWheat = icon("fontawesome/solid/jar-wheat.svg")
-#let faJar = icon("fontawesome/solid/jar.svg")
-#let faJedi = icon("fontawesome/solid/jedi.svg")
-#let faJetFighterUp = icon("fontawesome/solid/jet-fighter-up.svg")
-#let faJetFighter = icon("fontawesome/solid/jet-fighter.svg")
-#let faJoint = icon("fontawesome/solid/joint.svg")
-#let faJugDetergent = icon("fontawesome/solid/jug-detergent.svg")
-#let faK = icon("fontawesome/solid/k.svg")
-#let faKaaba = icon("fontawesome/solid/kaaba.svg")
-#let faKey = icon("fontawesome/solid/key.svg")
-#let faKeyboard = icon("fontawesome/solid/keyboard.svg")
-#let faKhanda = icon("fontawesome/solid/khanda.svg")
-#let faKipSign = icon("fontawesome/solid/kip-sign.svg")
-#let faKitMedical = icon("fontawesome/solid/kit-medical.svg")
-#let faKitchenSet = icon("fontawesome/solid/kitchen-set.svg")
-#let faKiwiBird = icon("fontawesome/solid/kiwi-bird.svg")
-#let faL = icon("fontawesome/solid/l.svg")
-#let faLandMineOn = icon("fontawesome/solid/land-mine-on.svg")
-#let faLandmarkDome = icon("fontawesome/solid/landmark-dome.svg")
-#let faLandmarkFlag = icon("fontawesome/solid/landmark-flag.svg")
-#let faLandmark = icon("fontawesome/solid/landmark.svg")
-#let faLanguage = icon("fontawesome/solid/language.svg")
-#let faLaptopCode = icon("fontawesome/solid/laptop-code.svg")
-#let faLaptopFile = icon("fontawesome/solid/laptop-file.svg")
-#let faLaptopMedical = icon("fontawesome/solid/laptop-medical.svg")
-#let faLaptop = icon("fontawesome/solid/laptop.svg")
-#let faLariSign = icon("fontawesome/solid/lari-sign.svg")
-#let faLayerGroup = icon("fontawesome/solid/layer-group.svg")
-#let faLeaf = icon("fontawesome/solid/leaf.svg")
-#let faLeftLong = icon("fontawesome/solid/left-long.svg")
-#let faLeftRight = icon("fontawesome/solid/left-right.svg")
-#let faLemon = icon("fontawesome/solid/lemon.svg")
-#let faLessThanEqual = icon("fontawesome/solid/less-than-equal.svg")
-#let faLessThan = icon("fontawesome/solid/less-than.svg")
-#let faLifeRing = icon("fontawesome/solid/life-ring.svg")
-#let faLightbulb = icon("fontawesome/solid/lightbulb.svg")
-#let faLinesLeaning = icon("fontawesome/solid/lines-leaning.svg")
-#let faLinkSlash = icon("fontawesome/solid/link-slash.svg")
-#let faLink = icon("fontawesome/solid/link.svg")
-#let faLiraSign = icon("fontawesome/solid/lira-sign.svg")
-#let faListCheck = icon("fontawesome/solid/list-check.svg")
-#let faListOl = icon("fontawesome/solid/list-ol.svg")
-#let faListUl = icon("fontawesome/solid/list-ul.svg")
-#let faList = icon("fontawesome/solid/list.svg")
-#let faLitecoinSign = icon("fontawesome/solid/litecoin-sign.svg")
-#let faLocationArrow = icon("fontawesome/solid/location-arrow.svg")
-#let faLocationCrosshairs = icon("fontawesome/solid/location-crosshairs.svg")
-#let faLocationDot = icon("fontawesome/solid/location-dot.svg")
-#let faLocationPinLock = icon("fontawesome/solid/location-pin-lock.svg")
-#let faLocationPin = icon("fontawesome/solid/location-pin.svg")
-#let faLockOpen = icon("fontawesome/solid/lock-open.svg")
-#let faLock = icon("fontawesome/solid/lock.svg")
-#let faLocust = icon("fontawesome/solid/locust.svg")
-#let faLungsVirus = icon("fontawesome/solid/lungs-virus.svg")
-#let faLungs = icon("fontawesome/solid/lungs.svg")
-#let faM = icon("fontawesome/solid/m.svg")
-#let faMagnet = icon("fontawesome/solid/magnet.svg")
-#let faMagnifyingGlassArrowRight = icon("fontawesome/solid/magnifying-glass-arrow-right.svg")
-#let faMagnifyingGlassChart = icon("fontawesome/solid/magnifying-glass-chart.svg")
-#let faMagnifyingGlassDollar = icon("fontawesome/solid/magnifying-glass-dollar.svg")
-#let faMagnifyingGlassLocation = icon("fontawesome/solid/magnifying-glass-location.svg")
-#let faMagnifyingGlassMinus = icon("fontawesome/solid/magnifying-glass-minus.svg")
-#let faMagnifyingGlassPlus = icon("fontawesome/solid/magnifying-glass-plus.svg")
-#let faMagnifyingGlass = icon("fontawesome/solid/magnifying-glass.svg")
-#let faManatSign = icon("fontawesome/solid/manat-sign.svg")
-#let faMapLocationDot = icon("fontawesome/solid/map-location-dot.svg")
-#let faMapLocation = icon("fontawesome/solid/map-location.svg")
-#let faMapPin = icon("fontawesome/solid/map-pin.svg")
-#let faMap = icon("fontawesome/solid/map.svg")
-#let faMarker = icon("fontawesome/solid/marker.svg")
-#let faMarsAndVenusBurst = icon("fontawesome/solid/mars-and-venus-burst.svg")
-#let faMarsAndVenus = icon("fontawesome/solid/mars-and-venus.svg")
-#let faMarsDouble = icon("fontawesome/solid/mars-double.svg")
-#let faMarsStrokeRight = icon("fontawesome/solid/mars-stroke-right.svg")
-#let faMarsStrokeUp = icon("fontawesome/solid/mars-stroke-up.svg")
-#let faMarsStroke = icon("fontawesome/solid/mars-stroke.svg")
-#let faMars = icon("fontawesome/solid/mars.svg")
-#let faMartiniGlassCitrus = icon("fontawesome/solid/martini-glass-citrus.svg")
-#let faMartiniGlassEmpty = icon("fontawesome/solid/martini-glass-empty.svg")
-#let faMartiniGlass = icon("fontawesome/solid/martini-glass.svg")
-#let faMaskFace = icon("fontawesome/solid/mask-face.svg")
-#let faMaskVentilator = icon("fontawesome/solid/mask-ventilator.svg")
-#let faMask = icon("fontawesome/solid/mask.svg")
-#let faMasksTheater = icon("fontawesome/solid/masks-theater.svg")
-#let faMattressPillow = icon("fontawesome/solid/mattress-pillow.svg")
-#let faMaximize = icon("fontawesome/solid/maximize.svg")
-#let faMedal = icon("fontawesome/solid/medal.svg")
-#let faMemory = icon("fontawesome/solid/memory.svg")
-#let faMenorah = icon("fontawesome/solid/menorah.svg")
-#let faMercury = icon("fontawesome/solid/mercury.svg")
-#let faMessage = icon("fontawesome/solid/message.svg")
-#let faMeteor = icon("fontawesome/solid/meteor.svg")
-#let faMicrochip = icon("fontawesome/solid/microchip.svg")
-#let faMicrophoneLinesSlash = icon("fontawesome/solid/microphone-lines-slash.svg")
-#let faMicrophoneLines = icon("fontawesome/solid/microphone-lines.svg")
-#let faMicrophoneSlash = icon("fontawesome/solid/microphone-slash.svg")
-#let faMicrophone = icon("fontawesome/solid/microphone.svg")
-#let faMicroscope = icon("fontawesome/solid/microscope.svg")
-#let faMillSign = icon("fontawesome/solid/mill-sign.svg")
-#let faMinimize = icon("fontawesome/solid/minimize.svg")
-#let faMinus = icon("fontawesome/solid/minus.svg")
-#let faMitten = icon("fontawesome/solid/mitten.svg")
-#let faMobileButton = icon("fontawesome/solid/mobile-button.svg")
-#let faMobileRetro = icon("fontawesome/solid/mobile-retro.svg")
-#let faMobileScreenButton = icon("fontawesome/solid/mobile-screen-button.svg")
-#let faMobileScreen = icon("fontawesome/solid/mobile-screen.svg")
-#let faMobile = icon("fontawesome/solid/mobile.svg")
-#let faMoneyBill1Wave = icon("fontawesome/solid/money-bill-1-wave.svg")
-#let faMoneyBill1 = icon("fontawesome/solid/money-bill-1.svg")
-#let faMoneyBillTransfer = icon("fontawesome/solid/money-bill-transfer.svg")
-#let faMoneyBillTrendUp = icon("fontawesome/solid/money-bill-trend-up.svg")
-#let faMoneyBillWave = icon("fontawesome/solid/money-bill-wave.svg")
-#let faMoneyBillWheat = icon("fontawesome/solid/money-bill-wheat.svg")
-#let faMoneyBill = icon("fontawesome/solid/money-bill.svg")
-#let faMoneyBills = icon("fontawesome/solid/money-bills.svg")
-#let faMoneyCheckDollar = icon("fontawesome/solid/money-check-dollar.svg")
-#let faMoneyCheck = icon("fontawesome/solid/money-check.svg")
-#let faMonument = icon("fontawesome/solid/monument.svg")
-#let faMoon = icon("fontawesome/solid/moon.svg")
-#let faMortarPestle = icon("fontawesome/solid/mortar-pestle.svg")
-#let faMosque = icon("fontawesome/solid/mosque.svg")
-#let faMosquitoNet = icon("fontawesome/solid/mosquito-net.svg")
-#let faMosquito = icon("fontawesome/solid/mosquito.svg")
-#let faMotorcycle = icon("fontawesome/solid/motorcycle.svg")
-#let faMound = icon("fontawesome/solid/mound.svg")
-#let faMountainCity = icon("fontawesome/solid/mountain-city.svg")
-#let faMountainSun = icon("fontawesome/solid/mountain-sun.svg")
-#let faMountain = icon("fontawesome/solid/mountain.svg")
-#let faMugHot = icon("fontawesome/solid/mug-hot.svg")
-#let faMugSaucer = icon("fontawesome/solid/mug-saucer.svg")
-#let faMusic = icon("fontawesome/solid/music.svg")
-#let faN = icon("fontawesome/solid/n.svg")
-#let faNairaSign = icon("fontawesome/solid/naira-sign.svg")
-#let faNetworkWired = icon("fontawesome/solid/network-wired.svg")
-#let faNeuter = icon("fontawesome/solid/neuter.svg")
-#let faNewspaper = icon("fontawesome/solid/newspaper.svg")
-#let faNotEqual = icon("fontawesome/solid/not-equal.svg")
-#let faNotdef = icon("fontawesome/solid/notdef.svg")
-#let faNoteSticky = icon("fontawesome/solid/note-sticky.svg")
-#let faNotesMedical = icon("fontawesome/solid/notes-medical.svg")
-#let faO = icon("fontawesome/solid/o.svg")
-#let faObjectGroup = icon("fontawesome/solid/object-group.svg")
-#let faObjectUngroup = icon("fontawesome/solid/object-ungroup.svg")
-#let faOilCan = icon("fontawesome/solid/oil-can.svg")
-#let faOilWell = icon("fontawesome/solid/oil-well.svg")
-#let faOm = icon("fontawesome/solid/om.svg")
-#let faOtter = icon("fontawesome/solid/otter.svg")
-#let faOutdent = icon("fontawesome/solid/outdent.svg")
-#let faP = icon("fontawesome/solid/p.svg")
-#let faPager = icon("fontawesome/solid/pager.svg")
-#let faPaintRoller = icon("fontawesome/solid/paint-roller.svg")
-#let faPaintbrush = icon("fontawesome/solid/paintbrush.svg")
-#let faPalette = icon("fontawesome/solid/palette.svg")
-#let faPallet = icon("fontawesome/solid/pallet.svg")
-#let faPanorama = icon("fontawesome/solid/panorama.svg")
-#let faPaperPlane = icon("fontawesome/solid/paper-plane.svg")
-#let faPaperclip = icon("fontawesome/solid/paperclip.svg")
-#let faParachuteBox = icon("fontawesome/solid/parachute-box.svg")
-#let faParagraph = icon("fontawesome/solid/paragraph.svg")
-#let faPassport = icon("fontawesome/solid/passport.svg")
-#let faPaste = icon("fontawesome/solid/paste.svg")
-#let faPause = icon("fontawesome/solid/pause.svg")
-#let faPaw = icon("fontawesome/solid/paw.svg")
-#let faPeace = icon("fontawesome/solid/peace.svg")
-#let faPenClip = icon("fontawesome/solid/pen-clip.svg")
-#let faPenFancy = icon("fontawesome/solid/pen-fancy.svg")
-#let faPenNib = icon("fontawesome/solid/pen-nib.svg")
-#let faPenRuler = icon("fontawesome/solid/pen-ruler.svg")
-#let faPenToSquare = icon("fontawesome/solid/pen-to-square.svg")
-#let faPen = icon("fontawesome/solid/pen.svg")
-#let faPencil = icon("fontawesome/solid/pencil.svg")
-#let faPeopleArrows = icon("fontawesome/solid/people-arrows.svg")
-#let faPeopleCarryBox = icon("fontawesome/solid/people-carry-box.svg")
-#let faPeopleGroup = icon("fontawesome/solid/people-group.svg")
-#let faPeopleLine = icon("fontawesome/solid/people-line.svg")
-#let faPeoplePulling = icon("fontawesome/solid/people-pulling.svg")
-#let faPeopleRobbery = icon("fontawesome/solid/people-robbery.svg")
-#let faPeopleRoof = icon("fontawesome/solid/people-roof.svg")
-#let faPepperHot = icon("fontawesome/solid/pepper-hot.svg")
-#let faPercent = icon("fontawesome/solid/percent.svg")
-#let faPersonArrowDownToLine = icon("fontawesome/solid/person-arrow-down-to-line.svg")
-#let faPersonArrowUpFromLine = icon("fontawesome/solid/person-arrow-up-from-line.svg")
-#let faPersonBiking = icon("fontawesome/solid/person-biking.svg")
-#let faPersonBooth = icon("fontawesome/solid/person-booth.svg")
-#let faPersonBreastfeeding = icon("fontawesome/solid/person-breastfeeding.svg")
-#let faPersonBurst = icon("fontawesome/solid/person-burst.svg")
-#let faPersonCane = icon("fontawesome/solid/person-cane.svg")
-#let faPersonChalkboard = icon("fontawesome/solid/person-chalkboard.svg")
-#let faPersonCircleCheck = icon("fontawesome/solid/person-circle-check.svg")
-#let faPersonCircleExclamation = icon("fontawesome/solid/person-circle-exclamation.svg")
-#let faPersonCircleMinus = icon("fontawesome/solid/person-circle-minus.svg")
-#let faPersonCirclePlus = icon("fontawesome/solid/person-circle-plus.svg")
-#let faPersonCircleQuestion = icon("fontawesome/solid/person-circle-question.svg")
-#let faPersonCircleXmark = icon("fontawesome/solid/person-circle-xmark.svg")
-#let faPersonDigging = icon("fontawesome/solid/person-digging.svg")
-#let faPersonDotsFromLine = icon("fontawesome/solid/person-dots-from-line.svg")
-#let faPersonDressBurst = icon("fontawesome/solid/person-dress-burst.svg")
-#let faPersonDress = icon("fontawesome/solid/person-dress.svg")
-#let faPersonDrowning = icon("fontawesome/solid/person-drowning.svg")
-#let faPersonFallingBurst = icon("fontawesome/solid/person-falling-burst.svg")
-#let faPersonFalling = icon("fontawesome/solid/person-falling.svg")
-#let faPersonHalfDress = icon("fontawesome/solid/person-half-dress.svg")
-#let faPersonHarassing = icon("fontawesome/solid/person-harassing.svg")
-#let faPersonHiking = icon("fontawesome/solid/person-hiking.svg")
-#let faPersonMilitaryPointing = icon("fontawesome/solid/person-military-pointing.svg")
-#let faPersonMilitaryRifle = icon("fontawesome/solid/person-military-rifle.svg")
-#let faPersonMilitaryToPerson = icon("fontawesome/solid/person-military-to-person.svg")
-#let faPersonPraying = icon("fontawesome/solid/person-praying.svg")
-#let faPersonPregnant = icon("fontawesome/solid/person-pregnant.svg")
-#let faPersonRays = icon("fontawesome/solid/person-rays.svg")
-#let faPersonRifle = icon("fontawesome/solid/person-rifle.svg")
-#let faPersonRunning = icon("fontawesome/solid/person-running.svg")
-#let faPersonShelter = icon("fontawesome/solid/person-shelter.svg")
-#let faPersonSkating = icon("fontawesome/solid/person-skating.svg")
-#let faPersonSkiingNordic = icon("fontawesome/solid/person-skiing-nordic.svg")
-#let faPersonSkiing = icon("fontawesome/solid/person-skiing.svg")
-#let faPersonSnowboarding = icon("fontawesome/solid/person-snowboarding.svg")
-#let faPersonSwimming = icon("fontawesome/solid/person-swimming.svg")
-#let faPersonThroughWindow = icon("fontawesome/solid/person-through-window.svg")
-#let faPersonWalkingArrowLoopLeft = icon("fontawesome/solid/person-walking-arrow-loop-left.svg")
-#let faPersonWalkingArrowRight = icon("fontawesome/solid/person-walking-arrow-right.svg")
-#let faPersonWalkingDashedLineArrowRight = icon("fontawesome/solid/person-walking-dashed-line-arrow-right.svg")
-#let faPersonWalkingLuggage = icon("fontawesome/solid/person-walking-luggage.svg")
-#let faPersonWalkingWithCane = icon("fontawesome/solid/person-walking-with-cane.svg")
-#let faPersonWalking = icon("fontawesome/solid/person-walking.svg")
-#let faPerson = icon("fontawesome/solid/person.svg")
-#let faPesetaSign = icon("fontawesome/solid/peseta-sign.svg")
-#let faPesoSign = icon("fontawesome/solid/peso-sign.svg")
-#let faPhoneFlip = icon("fontawesome/solid/phone-flip.svg")
-#let faPhoneSlash = icon("fontawesome/solid/phone-slash.svg")
-#let faPhoneVolume = icon("fontawesome/solid/phone-volume.svg")
-#let faPhone = icon("fontawesome/solid/phone.svg")
-#let faPhotoFilm = icon("fontawesome/solid/photo-film.svg")
-#let faPiggyBank = icon("fontawesome/solid/piggy-bank.svg")
-#let faPills = icon("fontawesome/solid/pills.svg")
-#let faPizzaSlice = icon("fontawesome/solid/pizza-slice.svg")
-#let faPlaceOfWorship = icon("fontawesome/solid/place-of-worship.svg")
-#let faPlaneArrival = icon("fontawesome/solid/plane-arrival.svg")
-#let faPlaneCircleCheck = icon("fontawesome/solid/plane-circle-check.svg")
-#let faPlaneCircleExclamation = icon("fontawesome/solid/plane-circle-exclamation.svg")
-#let faPlaneCircleXmark = icon("fontawesome/solid/plane-circle-xmark.svg")
-#let faPlaneDeparture = icon("fontawesome/solid/plane-departure.svg")
-#let faPlaneLock = icon("fontawesome/solid/plane-lock.svg")
-#let faPlaneSlash = icon("fontawesome/solid/plane-slash.svg")
-#let faPlaneUp = icon("fontawesome/solid/plane-up.svg")
-#let faPlane = icon("fontawesome/solid/plane.svg")
-#let faPlantWilt = icon("fontawesome/solid/plant-wilt.svg")
-#let faPlateWheat = icon("fontawesome/solid/plate-wheat.svg")
-#let faPlay = icon("fontawesome/solid/play.svg")
-#let faPlugCircleBolt = icon("fontawesome/solid/plug-circle-bolt.svg")
-#let faPlugCircleCheck = icon("fontawesome/solid/plug-circle-check.svg")
-#let faPlugCircleExclamation = icon("fontawesome/solid/plug-circle-exclamation.svg")
-#let faPlugCircleMinus = icon("fontawesome/solid/plug-circle-minus.svg")
-#let faPlugCirclePlus = icon("fontawesome/solid/plug-circle-plus.svg")
-#let faPlugCircleXmark = icon("fontawesome/solid/plug-circle-xmark.svg")
-#let faPlug = icon("fontawesome/solid/plug.svg")
-#let faPlusMinus = icon("fontawesome/solid/plus-minus.svg")
-#let faPlus = icon("fontawesome/solid/plus.svg")
-#let faPodcast = icon("fontawesome/solid/podcast.svg")
-#let faPooStorm = icon("fontawesome/solid/poo-storm.svg")
-#let faPoo = icon("fontawesome/solid/poo.svg")
-#let faPoop = icon("fontawesome/solid/poop.svg")
-#let faPowerOff = icon("fontawesome/solid/power-off.svg")
-#let faPrescriptionBottleMedical = icon("fontawesome/solid/prescription-bottle-medical.svg")
-#let faPrescriptionBottle = icon("fontawesome/solid/prescription-bottle.svg")
-#let faPrescription = icon("fontawesome/solid/prescription.svg")
-#let faPrint = icon("fontawesome/solid/print.svg")
-#let faPumpMedical = icon("fontawesome/solid/pump-medical.svg")
-#let faPumpSoap = icon("fontawesome/solid/pump-soap.svg")
-#let faPuzzlePiece = icon("fontawesome/solid/puzzle-piece.svg")
-#let faQ = icon("fontawesome/solid/q.svg")
-#let faQrcode = icon("fontawesome/solid/qrcode.svg")
-#let faQuestion = icon("fontawesome/solid/question.svg")
-#let faQuoteLeft = icon("fontawesome/solid/quote-left.svg")
-#let faQuoteRight = icon("fontawesome/solid/quote-right.svg")
-#let faR = icon("fontawesome/solid/r.svg")
-#let faRadiation = icon("fontawesome/solid/radiation.svg")
-#let faRadio = icon("fontawesome/solid/radio.svg")
-#let faRainbow = icon("fontawesome/solid/rainbow.svg")
-#let faRankingStar = icon("fontawesome/solid/ranking-star.svg")
-#let faReceipt = icon("fontawesome/solid/receipt.svg")
-#let faRecordVinyl = icon("fontawesome/solid/record-vinyl.svg")
-#let faRectangleAd = icon("fontawesome/solid/rectangle-ad.svg")
-#let faRectangleList = icon("fontawesome/solid/rectangle-list.svg")
-#let faRectangleXmark = icon("fontawesome/solid/rectangle-xmark.svg")
-#let faRecycle = icon("fontawesome/solid/recycle.svg")
-#let faRegistered = icon("fontawesome/solid/registered.svg")
-#let faRepeat = icon("fontawesome/solid/repeat.svg")
-#let faReplyAll = icon("fontawesome/solid/reply-all.svg")
-#let faReply = icon("fontawesome/solid/reply.svg")
-#let faRepublican = icon("fontawesome/solid/republican.svg")
-#let faRestroom = icon("fontawesome/solid/restroom.svg")
-#let faRetweet = icon("fontawesome/solid/retweet.svg")
-#let faRibbon = icon("fontawesome/solid/ribbon.svg")
-#let faRightFromBracket = icon("fontawesome/solid/right-from-bracket.svg")
-#let faRightLeft = icon("fontawesome/solid/right-left.svg")
-#let faRightLong = icon("fontawesome/solid/right-long.svg")
-#let faRightToBracket = icon("fontawesome/solid/right-to-bracket.svg")
-#let faRing = icon("fontawesome/solid/ring.svg")
-#let faRoadBarrier = icon("fontawesome/solid/road-barrier.svg")
-#let faRoadBridge = icon("fontawesome/solid/road-bridge.svg")
-#let faRoadCircleCheck = icon("fontawesome/solid/road-circle-check.svg")
-#let faRoadCircleExclamation = icon("fontawesome/solid/road-circle-exclamation.svg")
-#let faRoadCircleXmark = icon("fontawesome/solid/road-circle-xmark.svg")
-#let faRoadLock = icon("fontawesome/solid/road-lock.svg")
-#let faRoadSpikes = icon("fontawesome/solid/road-spikes.svg")
-#let faRoad = icon("fontawesome/solid/road.svg")
-#let faRobot = icon("fontawesome/solid/robot.svg")
-#let faRocket = icon("fontawesome/solid/rocket.svg")
-#let faRotateLeft = icon("fontawesome/solid/rotate-left.svg")
-#let faRotateRight = icon("fontawesome/solid/rotate-right.svg")
-#let faRotate = icon("fontawesome/solid/rotate.svg")
-#let faRoute = icon("fontawesome/solid/route.svg")
-#let faRss = icon("fontawesome/solid/rss.svg")
-#let faRubleSign = icon("fontawesome/solid/ruble-sign.svg")
-#let faRug = icon("fontawesome/solid/rug.svg")
-#let faRulerCombined = icon("fontawesome/solid/ruler-combined.svg")
-#let faRulerHorizontal = icon("fontawesome/solid/ruler-horizontal.svg")
-#let faRulerVertical = icon("fontawesome/solid/ruler-vertical.svg")
-#let faRuler = icon("fontawesome/solid/ruler.svg")
-#let faRupeeSign = icon("fontawesome/solid/rupee-sign.svg")
-#let faRupiahSign = icon("fontawesome/solid/rupiah-sign.svg")
-#let faS = icon("fontawesome/solid/s.svg")
-#let faSackDollar = icon("fontawesome/solid/sack-dollar.svg")
-#let faSackXmark = icon("fontawesome/solid/sack-xmark.svg")
-#let faSailboat = icon("fontawesome/solid/sailboat.svg")
-#let faSatelliteDish = icon("fontawesome/solid/satellite-dish.svg")
-#let faSatellite = icon("fontawesome/solid/satellite.svg")
-#let faScaleBalanced = icon("fontawesome/solid/scale-balanced.svg")
-#let faScaleUnbalancedFlip = icon("fontawesome/solid/scale-unbalanced-flip.svg")
-#let faScaleUnbalanced = icon("fontawesome/solid/scale-unbalanced.svg")
-#let faSchoolCircleCheck = icon("fontawesome/solid/school-circle-check.svg")
-#let faSchoolCircleExclamation = icon("fontawesome/solid/school-circle-exclamation.svg")
-#let faSchoolCircleXmark = icon("fontawesome/solid/school-circle-xmark.svg")
-#let faSchoolFlag = icon("fontawesome/solid/school-flag.svg")
-#let faSchoolLock = icon("fontawesome/solid/school-lock.svg")
-#let faSchool = icon("fontawesome/solid/school.svg")
-#let faScissors = icon("fontawesome/solid/scissors.svg")
-#let faScrewdriverWrench = icon("fontawesome/solid/screwdriver-wrench.svg")
-#let faScrewdriver = icon("fontawesome/solid/screwdriver.svg")
-#let faScrollTorah = icon("fontawesome/solid/scroll-torah.svg")
-#let faScroll = icon("fontawesome/solid/scroll.svg")
-#let faSdCard = icon("fontawesome/solid/sd-card.svg")
-#let faSection = icon("fontawesome/solid/section.svg")
-#let faSeedling = icon("fontawesome/solid/seedling.svg")
-#let faServer = icon("fontawesome/solid/server.svg")
-#let faShapes = icon("fontawesome/solid/shapes.svg")
-#let faShareFromSquare = icon("fontawesome/solid/share-from-square.svg")
-#let faShareNodes = icon("fontawesome/solid/share-nodes.svg")
-#let faShare = icon("fontawesome/solid/share.svg")
-#let faSheetPlastic = icon("fontawesome/solid/sheet-plastic.svg")
-#let faShekelSign = icon("fontawesome/solid/shekel-sign.svg")
-#let faShieldCat = icon("fontawesome/solid/shield-cat.svg")
-#let faShieldDog = icon("fontawesome/solid/shield-dog.svg")
-#let faShieldHalved = icon("fontawesome/solid/shield-halved.svg")
-#let faShieldHeart = icon("fontawesome/solid/shield-heart.svg")
-#let faShieldVirus = icon("fontawesome/solid/shield-virus.svg")
-#let faShield = icon("fontawesome/solid/shield.svg")
-#let faShip = icon("fontawesome/solid/ship.svg")
-#let faShirt = icon("fontawesome/solid/shirt.svg")
-#let faShoePrints = icon("fontawesome/solid/shoe-prints.svg")
-#let faShopLock = icon("fontawesome/solid/shop-lock.svg")
-#let faShopSlash = icon("fontawesome/solid/shop-slash.svg")
-#let faShop = icon("fontawesome/solid/shop.svg")
-#let faShower = icon("fontawesome/solid/shower.svg")
-#let faShrimp = icon("fontawesome/solid/shrimp.svg")
-#let faShuffle = icon("fontawesome/solid/shuffle.svg")
-#let faShuttleSpace = icon("fontawesome/solid/shuttle-space.svg")
-#let faSignHanging = icon("fontawesome/solid/sign-hanging.svg")
-#let faSignal = icon("fontawesome/solid/signal.svg")
-#let faSignature = icon("fontawesome/solid/signature.svg")
-#let faSignsPost = icon("fontawesome/solid/signs-post.svg")
-#let faSimCard = icon("fontawesome/solid/sim-card.svg")
-#let faSink = icon("fontawesome/solid/sink.svg")
-#let faSitemap = icon("fontawesome/solid/sitemap.svg")
-#let faSkullCrossbones = icon("fontawesome/solid/skull-crossbones.svg")
-#let faSkull = icon("fontawesome/solid/skull.svg")
-#let faSlash = icon("fontawesome/solid/slash.svg")
-#let faSleigh = icon("fontawesome/solid/sleigh.svg")
-#let faSliders = icon("fontawesome/solid/sliders.svg")
-#let faSmog = icon("fontawesome/solid/smog.svg")
-#let faSmoking = icon("fontawesome/solid/smoking.svg")
-#let faSnowflake = icon("fontawesome/solid/snowflake.svg")
-#let faSnowman = icon("fontawesome/solid/snowman.svg")
-#let faSnowplow = icon("fontawesome/solid/snowplow.svg")
-#let faSoap = icon("fontawesome/solid/soap.svg")
-#let faSocks = icon("fontawesome/solid/socks.svg")
-#let faSolarPanel = icon("fontawesome/solid/solar-panel.svg")
-#let faSortDown = icon("fontawesome/solid/sort-down.svg")
-#let faSortUp = icon("fontawesome/solid/sort-up.svg")
-#let faSort = icon("fontawesome/solid/sort.svg")
-#let faSpa = icon("fontawesome/solid/spa.svg")
-#let faSpaghettiMonsterFlying = icon("fontawesome/solid/spaghetti-monster-flying.svg")
-#let faSpellCheck = icon("fontawesome/solid/spell-check.svg")
-#let faSpider = icon("fontawesome/solid/spider.svg")
-#let faSpinner = icon("fontawesome/solid/spinner.svg")
-#let faSplotch = icon("fontawesome/solid/splotch.svg")
-#let faSpoon = icon("fontawesome/solid/spoon.svg")
-#let faSprayCanSparkles = icon("fontawesome/solid/spray-can-sparkles.svg")
-#let faSprayCan = icon("fontawesome/solid/spray-can.svg")
-#let faSquareArrowUpRight = icon("fontawesome/solid/square-arrow-up-right.svg")
-#let faSquareCaretDown = icon("fontawesome/solid/square-caret-down.svg")
-#let faSquareCaretLeft = icon("fontawesome/solid/square-caret-left.svg")
-#let faSquareCaretRight = icon("fontawesome/solid/square-caret-right.svg")
-#let faSquareCaretUp = icon("fontawesome/solid/square-caret-up.svg")
-#let faSquareCheck = icon("fontawesome/solid/square-check.svg")
-#let faSquareEnvelope = icon("fontawesome/solid/square-envelope.svg")
-#let faSquareFull = icon("fontawesome/solid/square-full.svg")
-#let faSquareH = icon("fontawesome/solid/square-h.svg")
-#let faSquareMinus = icon("fontawesome/solid/square-minus.svg")
-#let faSquareNfi = icon("fontawesome/solid/square-nfi.svg")
-#let faSquareParking = icon("fontawesome/solid/square-parking.svg")
-#let faSquarePen = icon("fontawesome/solid/square-pen.svg")
-#let faSquarePersonConfined = icon("fontawesome/solid/square-person-confined.svg")
-#let faSquarePhoneFlip = icon("fontawesome/solid/square-phone-flip.svg")
-#let faSquarePhone = icon("fontawesome/solid/square-phone.svg")
-#let faSquarePlus = icon("fontawesome/solid/square-plus.svg")
-#let faSquarePollHorizontal = icon("fontawesome/solid/square-poll-horizontal.svg")
-#let faSsquarePollVertical = icon("fontawesome/solid/square-poll-vertical.svg")
-#let faSquareRootVariable = icon("fontawesome/solid/square-root-variable.svg")
-#let faSquareRss = icon("fontawesome/solid/square-rss.svg")
-#let faSquareShareNodes = icon("fontawesome/solid/square-share-nodes.svg")
-#let faSquareUpRight = icon("fontawesome/solid/square-up-right.svg")
-#let faSquareVirus = icon("fontawesome/solid/square-virus.svg")
-#let faSquareXmark = icon("fontawesome/solid/square-xmark.svg")
-#let faSquare = icon("fontawesome/solid/square.svg")
-#let faStaffSnake = icon("fontawesome/solid/staff-snake.svg")
-#let faStairs = icon("fontawesome/solid/stairs.svg")
-#let faStamp = icon("fontawesome/solid/stamp.svg")
-#let faStapler = icon("fontawesome/solid/stapler.svg")
-#let faStarAndCrescent = icon("fontawesome/solid/star-and-crescent.svg")
-#let faStarHalfStroke = icon("fontawesome/solid/star-half-stroke.svg")
-#let faStarHalf = icon("fontawesome/solid/star-half.svg")
-#let faStarOfDavid = icon("fontawesome/solid/star-of-david.svg")
-#let faStarOfLife = icon("fontawesome/solid/star-of-life.svg")
-#let faStar = icon("fontawesome/solid/star.svg")
-#let faSterlingSign = icon("fontawesome/solid/sterling-sign.svg")
-#let faStethoscope = icon("fontawesome/solid/stethoscope.svg")
-#let faStop = icon("fontawesome/solid/stop.svg")
-#let faStopwatch-20 = icon("fontawesome/solid/stopwatch-20.svg")
-#let faStopwatch = icon("fontawesome/solid/stopwatch.svg")
-#let faStoreSlash = icon("fontawesome/solid/store-slash.svg")
-#let faStore = icon("fontawesome/solid/store.svg")
-#let faStreetView = icon("fontawesome/solid/street-view.svg")
-#let faStrikethrough = icon("fontawesome/solid/strikethrough.svg")
-#let faStroopwafel = icon("fontawesome/solid/stroopwafel.svg")
-#let faSubscript = icon("fontawesome/solid/subscript.svg")
-#let faSuitcaseMedical = icon("fontawesome/solid/suitcase-medical.svg")
-#let faSuitcaseRolling = icon("fontawesome/solid/suitcase-rolling.svg")
-#let faSuitcase = icon("fontawesome/solid/suitcase.svg")
-#let faSunPlantWilt = icon("fontawesome/solid/sun-plant-wilt.svg")
-#let faSun = icon("fontawesome/solid/sun.svg")
-#let faSuperscript = icon("fontawesome/solid/superscript.svg")
-#let faSwatchbook = icon("fontawesome/solid/swatchbook.svg")
-#let faSynagogue = icon("fontawesome/solid/synagogue.svg")
-#let faSyringe = icon("fontawesome/solid/syringe.svg")
-#let faT = icon("fontawesome/solid/t.svg")
-#let faTableCellsLarge = icon("fontawesome/solid/table-cells-large.svg")
-#let faTableCells = icon("fontawesome/solid/table-cells.svg")
-#let faTableColumns = icon("fontawesome/solid/table-columns.svg")
-#let faTableList = icon("fontawesome/solid/table-list.svg")
-#let faTableTennisPaddleBall = icon("fontawesome/solid/table-tennis-paddle-ball.svg")
-#let faTable = icon("fontawesome/solid/table.svg")
-#let faTabletButton = icon("fontawesome/solid/tablet-button.svg")
-#let faTabletScreenButton = icon("fontawesome/solid/tablet-screen-button.svg")
-#let faTablet = icon("fontawesome/solid/tablet.svg")
-#let faTablets = icon("fontawesome/solid/tablets.svg")
-#let faTachographDigital = icon("fontawesome/solid/tachograph-digital.svg")
-#let faTag = icon("fontawesome/solid/tag.svg")
-#let faTags = icon("fontawesome/solid/tags.svg")
-#let faTape = icon("fontawesome/solid/tape.svg")
-#let faTarpDroplet = icon("fontawesome/solid/tarp-droplet.svg")
-#let faTarp = icon("fontawesome/solid/tarp.svg")
-#let faTaxi = icon("fontawesome/solid/taxi.svg")
-#let faTeethOpen = icon("fontawesome/solid/teeth-open.svg")
-#let faTeeth = icon("fontawesome/solid/teeth.svg")
-#let faTemperatureArrowDown = icon("fontawesome/solid/temperature-arrow-down.svg")
-#let faTemperatureArrowUp = icon("fontawesome/solid/temperature-arrow-up.svg")
-#let faTemperatureEmpty = icon("fontawesome/solid/temperature-empty.svg")
-#let faTemperatureFull = icon("fontawesome/solid/temperature-full.svg")
-#let faTemperatureHalf = icon("fontawesome/solid/temperature-half.svg")
-#let faTemperatureHigh = icon("fontawesome/solid/temperature-high.svg")
-#let faTemperatureLow = icon("fontawesome/solid/temperature-low.svg")
-#let faTemperatureQuarter = icon("fontawesome/solid/temperature-quarter.svg")
-#let faTemperatureThreeQuarters = icon("fontawesome/solid/temperature-three-quarters.svg")
-#let faTengeSign = icon("fontawesome/solid/tenge-sign.svg")
-#let faTentArrowDownToLine = icon("fontawesome/solid/tent-arrow-down-to-line.svg")
-#let faTentArrowLeftRight = icon("fontawesome/solid/tent-arrow-left-right.svg")
-#let faTentArrowTurnLeft = icon("fontawesome/solid/tent-arrow-turn-left.svg")
-#let faTentArrowsDown = icon("fontawesome/solid/tent-arrows-down.svg")
-#let faTent = icon("fontawesome/solid/tent.svg")
-#let faTents = icon("fontawesome/solid/tents.svg")
-#let faTerminal = icon("fontawesome/solid/terminal.svg")
-#let faTextHeight = icon("fontawesome/solid/text-height.svg")
-#let faTextSlash = icon("fontawesome/solid/text-slash.svg")
-#let faTextWidth = icon("fontawesome/solid/text-width.svg")
-#let faThermometer = icon("fontawesome/solid/thermometer.svg")
-#let faThumbsDown = icon("fontawesome/solid/thumbs-down.svg")
-#let faThumbsUp = icon("fontawesome/solid/thumbs-up.svg")
-#let faThumbtack = icon("fontawesome/solid/thumbtack.svg")
-#let faTicketSimple = icon("fontawesome/solid/ticket-simple.svg")
-#let faTicket = icon("fontawesome/solid/ticket.svg")
-#let faTimeline = icon("fontawesome/solid/timeline.svg")
-#let faToggleOff = icon("fontawesome/solid/toggle-off.svg")
-#let faToggleOn = icon("fontawesome/solid/toggle-on.svg")
-#let faToiletPaperSlash = icon("fontawesome/solid/toilet-paper-slash.svg")
-#let faToiletPaper = icon("fontawesome/solid/toilet-paper.svg")
-#let faToiletPortable = icon("fontawesome/solid/toilet-portable.svg")
-#let faToilet = icon("fontawesome/solid/toilet.svg")
-#let faToiletsPortable = icon("fontawesome/solid/toilets-portable.svg")
-#let faToolbox = icon("fontawesome/solid/toolbox.svg")
-#let faTooth = icon("fontawesome/solid/tooth.svg")
-#let faToriiGate = icon("fontawesome/solid/torii-gate.svg")
-#let faTornado = icon("fontawesome/solid/tornado.svg")
-#let faTowerBroadcast = icon("fontawesome/solid/tower-broadcast.svg")
-#let faTowerCell = icon("fontawesome/solid/tower-cell.svg")
-#let faTowerObservation = icon("fontawesome/solid/tower-observation.svg")
-#let faTractor = icon("fontawesome/solid/tractor.svg")
-#let faTrademark = icon("fontawesome/solid/trademark.svg")
-#let faTrafficLight = icon("fontawesome/solid/traffic-light.svg")
-#let faTrailer = icon("fontawesome/solid/trailer.svg")
-#let faTrainSubway = icon("fontawesome/solid/train-subway.svg")
-#let faTrainTram = icon("fontawesome/solid/train-tram.svg")
-#let faTrain = icon("fontawesome/solid/train.svg")
-#let faTransgender = icon("fontawesome/solid/transgender.svg")
-#let faTrashArrowUp = icon("fontawesome/solid/trash-arrow-up.svg")
-#let faTrashCanArrowUp = icon("fontawesome/solid/trash-can-arrow-up.svg")
-#let faTrashCan = icon("fontawesome/solid/trash-can.svg")
-#let faTrash = icon("fontawesome/solid/trash.svg")
-#let faTreeCity = icon("fontawesome/solid/tree-city.svg")
-#let faTree = icon("fontawesome/solid/tree.svg")
-#let faTriangleExclamation = icon("fontawesome/solid/triangle-exclamation.svg")
-#let faTrophy = icon("fontawesome/solid/trophy.svg")
-#let faTrowelBricks = icon("fontawesome/solid/trowel-bricks.svg")
-#let faTrowel = icon("fontawesome/solid/trowel.svg")
-#let faTruckArrowRight = icon("fontawesome/solid/truck-arrow-right.svg")
-#let faTruckDroplet = icon("fontawesome/solid/truck-droplet.svg")
-#let faTruckFast = icon("fontawesome/solid/truck-fast.svg")
-#let faTruckFieldUn = icon("fontawesome/solid/truck-field-un.svg")
-#let faTruckField = icon("fontawesome/solid/truck-field.svg")
-#let faTruckFront = icon("fontawesome/solid/truck-front.svg")
-#let faTruckMedical = icon("fontawesome/solid/truck-medical.svg")
-#let faTruckMonster = icon("fontawesome/solid/truck-monster.svg")
-#let faTruckMoving = icon("fontawesome/solid/truck-moving.svg")
-#let faTruckPickup = icon("fontawesome/solid/truck-pickup.svg")
-#let faTruckPlane = icon("fontawesome/solid/truck-plane.svg")
-#let faTruckRampBox = icon("fontawesome/solid/truck-ramp-box.svg")
-#let faTruck = icon("fontawesome/solid/truck.svg")
-#let faTty = icon("fontawesome/solid/tty.svg")
-#let faTurkishLiraSign = icon("fontawesome/solid/turkish-lira-sign.svg")
-#let faTurnDown = icon("fontawesome/solid/turn-down.svg")
-#let faTurnUp = icon("fontawesome/solid/turn-up.svg")
-#let faTv = icon("fontawesome/solid/tv.svg")
-#let faU = icon("fontawesome/solid/u.svg")
-#let faUmbrellaBeach = icon("fontawesome/solid/umbrella-beach.svg")
-#let faUmbrella = icon("fontawesome/solid/umbrella.svg")
-#let faUnderline = icon("fontawesome/solid/underline.svg")
-#let faUniversalAccess = icon("fontawesome/solid/universal-access.svg")
-#let faUnlockKeyhole = icon("fontawesome/solid/unlock-keyhole.svg")
-#let faUnlock = icon("fontawesome/solid/unlock.svg")
-#let faUpDownLeftRight = icon("fontawesome/solid/up-down-left-right.svg")
-#let faUpDown = icon("fontawesome/solid/up-down.svg")
-#let faUpLong = icon("fontawesome/solid/up-long.svg")
-#let faUpRightAndDownLeftFromCenter = icon("fontawesome/solid/up-right-and-down-left-from-center.svg")
-#let faUpRightFromSquare = icon("fontawesome/solid/up-right-from-square.svg")
-#let faUpload = icon("fontawesome/solid/upload.svg")
-#let faUserAstronaut = icon("fontawesome/solid/user-astronaut.svg")
-#let faUserCheck = icon("fontawesome/solid/user-check.svg")
-#let faUserClock = icon("fontawesome/solid/user-clock.svg")
-#let faUserDoctor = icon("fontawesome/solid/user-doctor.svg")
-#let faUserGear = icon("fontawesome/solid/user-gear.svg")
-#let faUserGraduate = icon("fontawesome/solid/user-graduate.svg")
-#let faUserGroup = icon("fontawesome/solid/user-group.svg")
-#let faUserInjured = icon("fontawesome/solid/user-injured.svg")
-#let faUserLargeSlash = icon("fontawesome/solid/user-large-slash.svg")
-#let faUserLarge = icon("fontawesome/solid/user-large.svg")
-#let faUserLock = icon("fontawesome/solid/user-lock.svg")
-#let faUserMinus = icon("fontawesome/solid/user-minus.svg")
-#let faUserNinja = icon("fontawesome/solid/user-ninja.svg")
-#let faUserNurse = icon("fontawesome/solid/user-nurse.svg")
-#let faUserPen = icon("fontawesome/solid/user-pen.svg")
-#let faUserPlus = icon("fontawesome/solid/user-plus.svg")
-#let faUserSecret = icon("fontawesome/solid/user-secret.svg")
-#let faUserShield = icon("fontawesome/solid/user-shield.svg")
-#let faUserSlash = icon("fontawesome/solid/user-slash.svg")
-#let faUserTag = icon("fontawesome/solid/user-tag.svg")
-#let faUserTie = icon("fontawesome/solid/user-tie.svg")
-#let faUserXmark = icon("fontawesome/solid/user-xmark.svg")
-#let faUser = icon("fontawesome/solid/user.svg")
-#let faUsersBetweenLines = icon("fontawesome/solid/users-between-lines.svg")
-#let faUsersGear = icon("fontawesome/solid/users-gear.svg")
-#let faUsersLine = icon("fontawesome/solid/users-line.svg")
-#let faUsersRays = icon("fontawesome/solid/users-rays.svg")
-#let faUsersRectangle = icon("fontawesome/solid/users-rectangle.svg")
-#let faUsersSlash = icon("fontawesome/solid/users-slash.svg")
-#let faUsersViewfinder = icon("fontawesome/solid/users-viewfinder.svg")
-#let faUsers = icon("fontawesome/solid/users.svg")
-#let faUtensils = icon("fontawesome/solid/utensils.svg")
-#let faV = icon("fontawesome/solid/v.svg")
-#let faVanShuttle = icon("fontawesome/solid/van-shuttle.svg")
-#let faVault = icon("fontawesome/solid/vault.svg")
-#let faVectorSquare = icon("fontawesome/solid/vector-square.svg")
-#let faVenusDouble = icon("fontawesome/solid/venus-double.svg")
-#let faVenusMars = icon("fontawesome/solid/venus-mars.svg")
-#let faVenus = icon("fontawesome/solid/venus.svg")
-#let faVestPatches = icon("fontawesome/solid/vest-patches.svg")
-#let faVest = icon("fontawesome/solid/vest.svg")
-#let faVialCircleCheck = icon("fontawesome/solid/vial-circle-check.svg")
-#let faVialVirus = icon("fontawesome/solid/vial-virus.svg")
-#let faVial = icon("fontawesome/solid/vial.svg")
-#let faVials = icon("fontawesome/solid/vials.svg")
-#let faVideoSlash = icon("fontawesome/solid/video-slash.svg")
-#let faVideo = icon("fontawesome/solid/video.svg")
-#let faVihara = icon("fontawesome/solid/vihara.svg")
-#let faVirusCovidSlash = icon("fontawesome/solid/virus-covid-slash.svg")
-#let faVirusCovid = icon("fontawesome/solid/virus-covid.svg")
-#let faVirusSlash = icon("fontawesome/solid/virus-slash.svg")
-#let faVirus = icon("fontawesome/solid/virus.svg")
-#let faViruses = icon("fontawesome/solid/viruses.svg")
-#let faVoicemail = icon("fontawesome/solid/voicemail.svg")
-#let faVolcano = icon("fontawesome/solid/volcano.svg")
-#let faVolleyball = icon("fontawesome/solid/volleyball.svg")
-#let faVolumeHigh = icon("fontawesome/solid/volume-high.svg")
-#let faVolumeLow = icon("fontawesome/solid/volume-low.svg")
-#let faVolumeOff = icon("fontawesome/solid/volume-off.svg")
-#let faVolumeXmark = icon("fontawesome/solid/volume-xmark.svg")
-#let faVrCardboard = icon("fontawesome/solid/vr-cardboard.svg")
-#let faW = icon("fontawesome/solid/w.svg")
-#let faWalkieTalkie = icon("fontawesome/solid/walkie-talkie.svg")
-#let faWallet = icon("fontawesome/solid/wallet.svg")
-#let faWandMagicSparkles = icon("fontawesome/solid/wand-magic-sparkles.svg")
-#let faWandMagic = icon("fontawesome/solid/wand-magic.svg")
-#let faWandSparkles = icon("fontawesome/solid/wand-sparkles.svg")
-#let faWarehouse = icon("fontawesome/solid/warehouse.svg")
-#let faWaterLadder = icon("fontawesome/solid/water-ladder.svg")
-#let faWater = icon("fontawesome/solid/water.svg")
-#let faWaveSquare = icon("fontawesome/solid/wave-square.svg")
-#let faWeightHanging = icon("fontawesome/solid/weight-hanging.svg")
-#let faWeightScale = icon("fontawesome/solid/weight-scale.svg")
-#let faWheatAwnCircleExclamation = icon("fontawesome/solid/wheat-awn-circle-exclamation.svg")
-#let faWheatAwn = icon("fontawesome/solid/wheat-awn.svg")
-#let faWheelchairMove = icon("fontawesome/solid/wheelchair-move.svg")
-#let faWheelchair = icon("fontawesome/solid/wheelchair.svg")
-#let faWhiskeyGlass = icon("fontawesome/solid/whiskey-glass.svg")
-#let faWifi = icon("fontawesome/solid/wifi.svg")
-#let faWind = icon("fontawesome/solid/wind.svg")
-#let faWindowMaximize = icon("fontawesome/solid/window-maximize.svg")
-#let faWindowMinimize = icon("fontawesome/solid/window-minimize.svg")
-#let faWindowRestore = icon("fontawesome/solid/window-restore.svg")
-#let faWineBottle = icon("fontawesome/solid/wine-bottle.svg")
-#let faWineGlassEmpty = icon("fontawesome/solid/wine-glass-empty.svg")
-#let faWineGlass = icon("fontawesome/solid/wine-glass.svg")
-#let faWonSign = icon("fontawesome/solid/won-sign.svg")
-#let faWorm = icon("fontawesome/solid/worm.svg")
-#let faWrench = icon("fontawesome/solid/wrench.svg")
-#let faXRay = icon("fontawesome/solid/x-ray.svg")
-#let faX = icon("fontawesome/solid/x.svg")
-#let faXmark = icon("fontawesome/solid/xmark.svg")
-#let faXmarksLines = icon("fontawesome/solid/xmarks-lines.svg")
-#let faY = icon("fontawesome/solid/y.svg")
-#let faYenSign = icon("fontawesome/solid/yen-sign.svg")
-#let faYinYang = icon("fontawesome/solid/yin-yang.svg")
-#let faZ = icon("fontawesome/solid/z.svg")
+  // solid
+  fa0S: icon("fontawesome/solid/0.svg"),
+  fa1S: icon("fontawesome/solid/1.svg"),
+  fa2S: icon("fontawesome/solid/2.svg"),
+  fa3S: icon("fontawesome/solid/3.svg"),
+  fa4S: icon("fontawesome/solid/4.svg"),
+  fa5S: icon("fontawesome/solid/5.svg"),
+  fa6S: icon("fontawesome/solid/6.svg"),
+  fa7S: icon("fontawesome/solid/7.svg"),
+  fa8S: icon("fontawesome/solid/8.svg"),
+  fa9S: icon("fontawesome/solid/9.svg"),
+  faAS: icon("fontawesome/solid/a.svg"),
+  faAddressBookS: icon("fontawesome/solid/address-book.svg"),
+  faAddressCardS: icon("fontawesome/solid/address-card.svg"),
+  faAlignCenterS: icon("fontawesome/solid/align-center.svg"),
+  faAlignJustifyS: icon("fontawesome/solid/align-justify.svg"),
+  faAlignLeftS: icon("fontawesome/solid/align-left.svg"),
+  faAlignRightS: icon("fontawesome/solid/align-right.svg"),
+  faAnchorCircleCheckS: icon("fontawesome/solid/anchor-circle-check.svg"),
+  faAnchorCircleExclamationS: icon("fontawesome/solid/anchor-circle-exclamation.svg"),
+  faAnchorCircleXmarkS: icon("fontawesome/solid/anchor-circle-xmark.svg"),
+  faAnchorLockS: icon("fontawesome/solid/anchor-lock.svg"),
+  faAnchorS: icon("fontawesome/solid/anchor.svg"),
+  faAngleDownS: icon("fontawesome/solid/angle-down.svg"),
+  faAngleLeftS: icon("fontawesome/solid/angle-left.svg"),
+  faAngleRightS: icon("fontawesome/solid/angle-right.svg"),
+  faAngleUpS: icon("fontawesome/solid/angle-up.svg"),
+  faAnglesDownS: icon("fontawesome/solid/angles-down.svg"),
+  faAnglesLeftS: icon("fontawesome/solid/angles-left.svg"),
+  faAnglesRightS: icon("fontawesome/solid/angles-right.svg"),
+  faAnglesUpS: icon("fontawesome/solid/angles-up.svg"),
+  faAnkhS: icon("fontawesome/solid/ankh.svg"),
+  faAppleWholeS: icon("fontawesome/solid/apple-whole.svg"),
+  faArchwayS: icon("fontawesome/solid/archway.svg"),
+  faArrowDown19S: icon("fontawesome/solid/arrow-down-1-9.svg"),
+  faArrowDown91S: icon("fontawesome/solid/arrow-down-9-1.svg"),
+  faArrowDownAZS: icon("fontawesome/solid/arrow-down-a-z.svg"),
+  faArrowDownLongS: icon("fontawesome/solid/arrow-down-long.svg"),
+  faArrowDownShortWideS: icon("fontawesome/solid/arrow-down-short-wide.svg"),
+  faArrowDownUpAcrossLineS: icon("fontawesome/solid/arrow-down-up-across-line.svg"),
+  faArrowDownUpLockS: icon("fontawesome/solid/arrow-down-up-lock.svg"),
+  faArrowDownWideShortS: icon("fontawesome/solid/arrow-down-wide-short.svg"),
+  faArrowDownZAS: icon("fontawesome/solid/arrow-down-z-a.svg"),
+  faArrowDownS: icon("fontawesome/solid/arrow-down.svg"),
+  faArrowLeftLongS: icon("fontawesome/solid/arrow-left-long.svg"),
+  faArrowLeftS: icon("fontawesome/solid/arrow-left.svg"),
+  faArrowPointerS: icon("fontawesome/solid/arrow-pointer.svg"),
+  faArrowRightArrowLeftS: icon("fontawesome/solid/arrow-right-arrow-left.svg"),
+  faArrowRightFromBracketS: icon("fontawesome/solid/arrow-right-from-bracket.svg"),
+  faArrowRightLongS: icon("fontawesome/solid/arrow-right-long.svg"),
+  faArrowRightToBracketS: icon("fontawesome/solid/arrow-right-to-bracket.svg"),
+  faArrowRightToCityS: icon("fontawesome/solid/arrow-right-to-city.svg"),
+  faArrowRightS: icon("fontawesome/solid/arrow-right.svg"),
+  faArrowRotateLeftS: icon("fontawesome/solid/arrow-rotate-left.svg"),
+  faArrowRotateRightS: icon("fontawesome/solid/arrow-rotate-right.svg"),
+  faArrowTrendDownS: icon("fontawesome/solid/arrow-trend-down.svg"),
+  faArrowTrendUpS: icon("fontawesome/solid/arrow-trend-up.svg"),
+  faArrowTurnDownS: icon("fontawesome/solid/arrow-turn-down.svg"),
+  faArrowTurnUpS: icon("fontawesome/solid/arrow-turn-up.svg"),
+  faArrowUp19S: icon("fontawesome/solid/arrow-up-1-9.svg"),
+  faArrowUp91S: icon("fontawesome/solid/arrow-up-9-1.svg"),
+  faArrowUpAZS: icon("fontawesome/solid/arrow-up-a-z.svg"),
+  faArrowUpFromBracketS: icon("fontawesome/solid/arrow-up-from-bracket.svg"),
+  faArrowUpFromGroundWaterS: icon("fontawesome/solid/arrow-up-from-ground-water.svg"),
+  faArrowUpFromWaterPumpS: icon("fontawesome/solid/arrow-up-from-water-pump.svg"),
+  faArrowUpLongS: icon("fontawesome/solid/arrow-up-long.svg"),
+  faArrowUpRightDotsS: icon("fontawesome/solid/arrow-up-right-dots.svg"),
+  faArrowUpRightFromSquareS: icon("fontawesome/solid/arrow-up-right-from-square.svg"),
+  faArrowUpShortWideS: icon("fontawesome/solid/arrow-up-short-wide.svg"),
+  faArrowUpWideShortS: icon("fontawesome/solid/arrow-up-wide-short.svg"),
+  faArrowUpZAS: icon("fontawesome/solid/arrow-up-z-a.svg"),
+  faArrowUpS: icon("fontawesome/solid/arrow-up.svg"),
+  faArrowsDownToLineS: icon("fontawesome/solid/arrows-down-to-line.svg"),
+  faArrowsDownToPeopleS: icon("fontawesome/solid/arrows-down-to-people.svg"),
+  faArrowsLeftRightToLineS: icon("fontawesome/solid/arrows-left-right-to-line.svg"),
+  faArrowsLeftRightS: icon("fontawesome/solid/arrows-left-right.svg"),
+  faArrowsRotateS: icon("fontawesome/solid/arrows-rotate.svg"),
+  faArrowsSpinS: icon("fontawesome/solid/arrows-spin.svg"),
+  faArrowsSplitUpAndLeftS: icon("fontawesome/solid/arrows-split-up-and-left.svg"),
+  faArrowsToCircleS: icon("fontawesome/solid/arrows-to-circle.svg"),
+  faArrowsToDotS: icon("fontawesome/solid/arrows-to-dot.svg"),
+  faArrowsToEyeS: icon("fontawesome/solid/arrows-to-eye.svg"),
+  faArrowsTurnRightS: icon("fontawesome/solid/arrows-turn-right.svg"),
+  faArrowsTurnToDotsS: icon("fontawesome/solid/arrows-turn-to-dots.svg"),
+  faArrowsUpDownLeftRightS: icon("fontawesome/solid/arrows-up-down-left-right.svg"),
+  faArrowsUpDownS: icon("fontawesome/solid/arrows-up-down.svg"),
+  faArrowsUpToLineS: icon("fontawesome/solid/arrows-up-to-line.svg"),
+  faAsteriskS: icon("fontawesome/solid/asterisk.svg"),
+  faAtS: icon("fontawesome/solid/at.svg"),
+  faAtomS: icon("fontawesome/solid/atom.svg"),
+  faAudioDescriptionS: icon("fontawesome/solid/audio-description.svg"),
+  faAustralSignS: icon("fontawesome/solid/austral-sign.svg"),
+  faAwardS: icon("fontawesome/solid/award.svg"),
+  faBS: icon("fontawesome/solid/b.svg"),
+  faBabyCarriageS: icon("fontawesome/solid/baby-carriage.svg"),
+  faBabyS: icon("fontawesome/solid/baby.svg"),
+  faBackwardFastS: icon("fontawesome/solid/backward-  fast.svg"),
+  faBackwardStepS: icon("fontawesome/solid/backward-step.svg"),
+  faBackwardS: icon("fontawesome/solid/backward.svg"),
+  faBaconS: icon("fontawesome/solid/bacon.svg"),
+  faBacteriaS: icon("fontawesome/solid/bacteria.svg"),
+  faBacteriumS: icon("fontawesome/solid/bacterium.svg"),
+  faBagShoppingS: icon("fontawesome/solid/bag-shopping.svg"),
+  faBahaiS: icon("fontawesome/solid/bahai.svg"),
+  faBahtSignS: icon("fontawesome/solid/baht-sign.svg"),
+  faBanSmokingS: icon("fontawesome/solid/ban-smoking.svg"),
+  faBanS: icon("fontawesome/solid/ban.svg"),
+  faBandageS: icon("fontawesome/solid/bandage.svg"),
+  faSbangladeshiTakaSignS: icon("fontawesome/solid/bangladeshi-taka-sign.svg"),
+  faBarcodeS: icon("fontawesome/solid/barcode.svg"),
+  faBarsProgressS: icon("fontawesome/solid/bars-progress.svg"),
+  faBarsStaggeredS: icon("fontawesome/solid/bars-staggered.svg"),
+  faBarsS: icon("fontawesome/solid/bars.svg"),
+  faBaseballBatBallS: icon("fontawesome/solid/baseball-bat-ball.svg"),
+  faBaseballS: icon("fontawesome/solid/baseball.svg"),
+  faBasketShoppingS: icon("fontawesome/solid/basket-shopping.svg"),
+  faBasketballS: icon("fontawesome/solid/basketball.svg"),
+  faBathS: icon("fontawesome/solid/bath.svg"),
+  faBatteryEmptyS: icon("fontawesome/solid/battery-empty.svg"),
+  faBatteryFullS: icon("fontawesome/solid/battery-full.svg"),
+  faBatteryHalfS: icon("fontawesome/solid/battery-half.svg"),
+  faBatteryQuarterS: icon("fontawesome/solid/battery-quarter.svg"),
+  faBatteryThreeQuartersS: icon("fontawesome/solid/battery-three-quarters.svg"),
+  faBedPulseS: icon("fontawesome/solid/bed-pulse.svg"),
+  faBedS: icon("fontawesome/solid/bed.svg"),
+  faBeerMugEmptyS: icon("fontawesome/solid/beer-mug-empty.svg"),
+  faBellConciergeS: icon("fontawesome/solid/bell-concierge.svg"),
+  faBellSlashS: icon("fontawesome/solid/bell-slash.svg"),
+  faBellS: icon("fontawesome/solid/bell.svg"),
+  faBezierCurveS: icon("fontawesome/solid/bezier-curve.svg"),
+  faBicycleS: icon("fontawesome/solid/bicycle.svg"),
+  faBinocularsS: icon("fontawesome/solid/binoculars.svg"),
+  faBiohazardS: icon("fontawesome/solid/biohazard.svg"),
+  faBitcoinSignS: icon("fontawesome/solid/bitcoin-sign.svg"),
+  faBlenderPhoneS: icon("fontawesome/solid/blender-phone.svg"),
+  faBlenderS: icon("fontawesome/solid/blender.svg"),
+  faBlogS: icon("fontawesome/solid/blog.svg"),
+  faBoldS: icon("fontawesome/solid/bold.svg"),
+  faBoltLightningS: icon("fontawesome/solid/bolt-lightning.svg"),
+  faBoltS: icon("fontawesome/solid/bolt.svg"),
+  faBombS: icon("fontawesome/solid/bomb.svg"),
+  faBoneS: icon("fontawesome/solid/bone.svg"),
+  faBongS: icon("fontawesome/solid/bong.svg"),
+  faBookAtlasS: icon("fontawesome/solid/book-atlas.svg"),
+  faBookBibleS: icon("fontawesome/solid/book-bible.svg"),
+  faBookBookmarkS: icon("fontawesome/solid/book-bookmark.svg"),
+  faBookJournalWhillsS: icon("fontawesome/solid/book-journal-whills.svg"),
+  faBookMedicalS: icon("fontawesome/solid/book-medical.svg"),
+  faBookOpenReaderS: icon("fontawesome/solid/book-open-reader.svg"),
+  faBookOpenS: icon("fontawesome/solid/book-open.svg"),
+  faBookQuranS: icon("fontawesome/solid/book-quran.svg"),
+  faBookSkullS: icon("fontawesome/solid/book-skull.svg"),
+  faBookTanakhS: icon("fontawesome/solid/book-tanakh.svg"),
+  faBookS: icon("fontawesome/solid/book.svg"),
+  faBookmarkS: icon("fontawesome/solid/bookmark.svg"),
+  faBorderAllS: icon("fontawesome/solid/border-all.svg"),
+  faBorderNoneS: icon("fontawesome/solid/border-none.svg"),
+  faBorderTopLeftS: icon("fontawesome/solid/border-top-left.svg"),
+  faBoreHoleS: icon("fontawesome/solid/bore-hole.svg"),
+  faBottleDropletS: icon("fontawesome/solid/bottle-droplet.svg"),
+  faBottleWaterS: icon("fontawesome/solid/bottle-water.svg"),
+  faBowlFoodS: icon("fontawesome/solid/bowl-food.svg"),
+  faBowlRiceS: icon("fontawesome/solid/bowl-rice.svg"),
+  faBowlingBallS: icon("fontawesome/solid/bowling-ball.svg"),
+  faBoxArchiveS: icon("fontawesome/solid/box-archive.svg"),
+  faBoxOpenS: icon("fontawesome/solid/box-open.svg"),
+  faBoxTissueS: icon("fontawesome/solid/box-tissue.svg"),
+  faBoxS: icon("fontawesome/solid/box.svg"),
+  faBoxesPackingS: icon("fontawesome/solid/boxes-packing.svg"),
+  faBoxesStackedS: icon("fontawesome/solid/boxes-stacked.svg"),
+  faBrailleS: icon("fontawesome/solid/braille.svg"),
+  faBrainS: icon("fontawesome/solid/brain.svg"),
+  faBrazilianRealSignS: icon("fontawesome/solid/brazilian-real-sign.svg"),
+  faBreadSliceS: icon("fontawesome/solid/bread-slice.svg"),
+  faBridgeCircleCheckS: icon("fontawesome/solid/bridge-circle-check.svg"),
+  faBridgeCircleExclamationS: icon("fontawesome/solid/bridge-circle-exclamation.svg"),
+  faBridgeCircleXmarkS: icon("fontawesome/solid/bridge-circle-xmark.svg"),
+  faBridgeLockS: icon("fontawesome/solid/bridge-lock.svg"),
+  faBridgeWaterS: icon("fontawesome/solid/bridge-water.svg"),
+  faBridgeS: icon("fontawesome/solid/bridge.svg"),
+  faBriefcaseMedicalS: icon("fontawesome/solid/briefcase-medical.svg"),
+  faBriefcaseS: icon("fontawesome/solid/briefcase.svg"),
+  faBroomBallS: icon("fontawesome/solid/broom-ball.svg"),
+  faBroomS: icon("fontawesome/solid/broom.svg"),
+  faBrushS: icon("fontawesome/solid/brush.svg"),
+  faBucketS: icon("fontawesome/solid/bucket.svg"),
+  faBugSlashS: icon("fontawesome/solid/bug-slash.svg"),
+  faBugS: icon("fontawesome/solid/bug.svg"),
+  faBugsS: icon("fontawesome/solid/bugs.svg"),
+  faBuildingCircleArrowRightS: icon("fontawesome/solid/building-circle-arrow-right.svg"),
+  faBuildingCircleCheckS: icon("fontawesome/solid/building-circle-check.svg"),
+  faBuildingCircleExclamationS: icon("fontawesome/solid/building-circle-exclamation.svg"),
+  faBuildingCircleXmarkS: icon("fontawesome/solid/building-circle-xmark.svg"),
+  faBuildingColumnsS: icon("fontawesome/solid/building-columns.svg"),
+  faBuildingFlagS: icon("fontawesome/solid/building-flag.svg"),
+  faBuildingLockS: icon("fontawesome/solid/building-lock.svg"),
+  faBuildingNgoS: icon("fontawesome/solid/building-ngo.svg"),
+  faBuildingShieldS: icon("fontawesome/solid/building-shield.svg"),
+  faBuildingUnS: icon("fontawesome/solid/building-un.svg"),
+  faBuildingUserS: icon("fontawesome/solid/building-user.svg"),
+  faBuildingWheatS: icon("fontawesome/solid/building-wheat.svg"),
+  faBuildingS: icon("fontawesome/solid/building.svg"),
+  faBullhornS: icon("fontawesome/solid/bullhorn.svg"),
+  faBullseyeS: icon("fontawesome/solid/bullseye.svg"),
+  faBurgerS: icon("fontawesome/solid/burger.svg"),
+  faBurstS: icon("fontawesome/solid/burst.svg"),
+  faBusSimpleS: icon("fontawesome/solid/bus-simple.svg"),
+  faBusS: icon("fontawesome/solid/bus.svg"),
+  faBusinessTimeS: icon("fontawesome/solid/business-time.svg"),
+  faCS: icon("fontawesome/solid/c.svg"),
+  faCableCarS: icon("fontawesome/solid/cable-car.svg"),
+  faCakeCandlesS: icon("fontawesome/solid/cake-candles.svg"),
+  faCalculatorS: icon("fontawesome/solid/calculator.svg"),
+  faCalendarCheckS: icon("fontawesome/solid/calendar-check.svg"),
+  faCalendarDayS: icon("fontawesome/solid/calendar-day.svg"),
+  faCalendarDaysS: icon("fontawesome/solid/calendar-days.svg"),
+  faCalendarMinusS: icon("fontawesome/solid/calendar-minus.svg"),
+  faCalendarPlusS: icon("fontawesome/solid/calendar-plus.svg"),
+  faCalendarWeekS: icon("fontawesome/solid/calendar-week.svg"),
+  faCalendarXmarkS: icon("fontawesome/solid/calendar-xmark.svg"),
+  faCalendarS: icon("fontawesome/solid/calendar.svg"),
+  faCameraRetroS: icon("fontawesome/solid/camera-retro.svg"),
+  faCameraRotateS: icon("fontawesome/solid/camera-rotate.svg"),
+  faCameraS: icon("fontawesome/solid/camera.svg"),
+  faCampgroundS: icon("fontawesome/solid/campground.svg"),
+  faCandyCaneS: icon("fontawesome/solid/candy-cane.svg"),
+  faCannabisS: icon("fontawesome/solid/cannabis.svg"),
+  faCapsulesS: icon("fontawesome/solid/capsules.svg"),
+  faCarBatteryS: icon("fontawesome/solid/car-battery.svg"),
+  faCarBurstS: icon("fontawesome/solid/car-burst.svg"),
+  faCarOnS: icon("fontawesome/solid/car-on.svg"),
+  faCarRearS: icon("fontawesome/solid/car-rear.svg"),
+  faCarSideS: icon("fontawesome/solid/car-side.svg"),
+  faCarTunnelS: icon("fontawesome/solid/car-tunnel.svg"),
+  faCarS: icon("fontawesome/solid/car.svg"),
+  faCaravanS: icon("fontawesome/solid/caravan.svg"),
+  faCaretDownS: icon("fontawesome/solid/caret-down.svg"),
+  faCaretLeftS: icon("fontawesome/solid/caret-left.svg"),
+  faCaretRightS: icon("fontawesome/solid/caret-right.svg"),
+  faCaretUpS: icon("fontawesome/solid/caret-up.svg"),
+  faCarrotS: icon("fontawesome/solid/carrot.svg"),
+  faCartArrowDownS: icon("fontawesome/solid/cart-arrow-down.svg"),
+  faCartFlatbedSuitcaseS: icon("fontawesome/solid/cart-flatbed-suitcase.svg"),
+  faCartFlatbedS: icon("fontawesome/solid/cart-flatbed.svg"),
+  faCartPlusS: icon("fontawesome/solid/cart-plus.svg"),
+  faCartShoppingS: icon("fontawesome/solid/cart-shopping.svg"),
+  faCashRegisterS: icon("fontawesome/solid/cash-register.svg"),
+  faCatS: icon("fontawesome/solid/cat.svg"),
+  faCediSignS: icon("fontawesome/solid/cedi-sign.svg"),
+  faCentSignS: icon("fontawesome/solid/cent-sign.svg"),
+  faCertificateS: icon("fontawesome/solid/certificate.svg"),
+  faChairS: icon("fontawesome/solid/chair.svg"),
+  faChalkboardUserS: icon("fontawesome/solid/chalkboard-user.svg"),
+  faChalkboardS: icon("fontawesome/solid/chalkboard.svg"),
+  faChampagneGlassesS: icon("fontawesome/solid/champagne-glasses.svg"),
+  faChargingStationS: icon("fontawesome/solid/charging-station.svg"),
+  faChartAreaS: icon("fontawesome/solid/chart-area.svg"),
+  faChartBarS: icon("fontawesome/solid/chart-bar.svg"),
+  faChartColumnS: icon("fontawesome/solid/chart-column.svg"),
+  faChartGanttS: icon("fontawesome/solid/chart-gantt.svg"),
+  faChartLineS: icon("fontawesome/solid/chart-line.svg"),
+  faChartPieS: icon("fontawesome/solid/chart-pie.svg"),
+  faChartSimpleS: icon("fontawesome/solid/chart-simple.svg"),
+  faCheckDoubleS: icon("fontawesome/solid/check-double.svg"),
+  faCheckToSlotS: icon("fontawesome/solid/check-to-slot.svg"),
+  faCheckS: icon("fontawesome/solid/check.svg"),
+  faCheeseS: icon("fontawesome/solid/cheese.svg"),
+  faChessBishopS: icon("fontawesome/solid/chess-bishop.svg"),
+  faChessBoardS: icon("fontawesome/solid/chess-board.svg"),
+  faChessKingS: icon("fontawesome/solid/chess-king.svg"),
+  faChessKnightS: icon("fontawesome/solid/chess-knight.svg"),
+  faChessPawnS: icon("fontawesome/solid/chess-pawn.svg"),
+  faChessQueenS: icon("fontawesome/solid/chess-queen.svg"),
+  faChessRookS: icon("fontawesome/solid/chess-rook.svg"),
+  faChessS: icon("fontawesome/solid/chess.svg"),
+  faChevronDownS: icon("fontawesome/solid/chevron-down.svg"),
+  faChevronLeftS: icon("fontawesome/solid/chevron-left.svg"),
+  faChevronRightS: icon("fontawesome/solid/chevron-right.svg"),
+  faChevronUpS: icon("fontawesome/solid/chevron-up.svg"),
+  faChildCombatantS: icon("fontawesome/solid/child-combatant.svg"),
+  faChildDressS: icon("fontawesome/solid/child-dress.svg"),
+  faChildReachingS: icon("fontawesome/solid/child-reaching.svg"),
+  faChildS: icon("fontawesome/solid/child.svg"),
+  faChildrenS: icon("fontawesome/solid/children.svg"),
+  faChurchS: icon("fontawesome/solid/church.svg"),
+  faCircleArrowDownS: icon("fontawesome/solid/circle-arrow-down.svg"),
+  faCircleArrowLeftS: icon("fontawesome/solid/circle-arrow-left.svg"),
+  faCircleArrowRightS: icon("fontawesome/solid/circle-arrow-right.svg"),
+  faCircleArrowUpS: icon("fontawesome/solid/circle-arrow-up.svg"),
+  faCircleCheckS: icon("fontawesome/solid/circle-check.svg"),
+  faCircleChevronDownS: icon("fontawesome/solid/circle-chevron-down.svg"),
+  faCircleChevronLeftS: icon("fontawesome/solid/circle-chevron-left.svg"),
+  faCircleChevronRightS: icon("fontawesome/solid/circle-chevron-right.svg"),
+  faCircleChevronUpS: icon("fontawesome/solid/circle-chevron-up.svg"),
+  faCircleDollarToSlotS: icon("fontawesome/solid/circle-dollar-to-slot.svg"),
+  faCircleDotS: icon("fontawesome/solid/circle-dot.svg"),
+  faCircleDownS: icon("fontawesome/solid/circle-down.svg"),
+  faCircleExclamationS: icon("fontawesome/solid/circle-exclamation.svg"),
+  faCircleHS: icon("fontawesome/solid/circle-h.svg"),
+  faCircleHalfStrokeS: icon("fontawesome/solid/circle-half-stroke.svg"),
+  faCircleInfoS: icon("fontawesome/solid/circle-info.svg"),
+  faCircleLeftS: icon("fontawesome/solid/circle-left.svg"),
+  faCircleMinusS: icon("fontawesome/solid/circle-minus.svg"),
+  faCircleNodesS: icon("fontawesome/solid/circle-nodes.svg"),
+  faCircleNotchS: icon("fontawesome/solid/circle-notch.svg"),
+  faCirclePauseS: icon("fontawesome/solid/circle-pause.svg"),
+  faCirclePlayS: icon("fontawesome/solid/circle-play.svg"),
+  faCirclePlusS: icon("fontawesome/solid/circle-plus.svg"),
+  faCircleQuestionS: icon("fontawesome/solid/circle-question.svg"),
+  faCircleRadiationS: icon("fontawesome/solid/circle-radiation.svg"),
+  faCircleRightS: icon("fontawesome/solid/circle-right.svg"),
+  faCircleStopS: icon("fontawesome/solid/circle-stop.svg"),
+  faCircleUpS: icon("fontawesome/solid/circle-up.svg"),
+  faCircleUserS: icon("fontawesome/solid/circle-user.svg"),
+  faCircleXmarkS: icon("fontawesome/solid/circle-xmark.svg"),
+  faCircleS: icon("fontawesome/solid/circle.svg"),
+  faCityS: icon("fontawesome/solid/city.svg"),
+  faClapperboardS: icon("fontawesome/solid/clapperboard.svg"),
+  faClipboardCheckS: icon("fontawesome/solid/clipboard-check.svg"),
+  faClipboardListS: icon("fontawesome/solid/clipboard-list.svg"),
+  faClipboardQuestionS: icon("fontawesome/solid/clipboard-question.svg"),
+  faClipboardUserS: icon("fontawesome/solid/clipboard-user.svg"),
+  faClipboardS: icon("fontawesome/solid/clipboard.svg"),
+  faClockRotateLeftS: icon("fontawesome/solid/clock-rotate-left.svg"),
+  faClockS: icon("fontawesome/solid/clock.svg"),
+  faCloneS: icon("fontawesome/solid/clone.svg"),
+  faClosedCaptioningS: icon("fontawesome/solid/closed-captioning.svg"),
+  faCloudArrowDownS: icon("fontawesome/solid/cloud-arrow-down.svg"),
+  faCloudArrowUpS: icon("fontawesome/solid/cloud-arrow-up.svg"),
+  faCloudBoltS: icon("fontawesome/solid/cloud-bolt.svg"),
+  faCloudMeatballS: icon("fontawesome/solid/cloud-meatball.svg"),
+  faCloudMoonRainS: icon("fontawesome/solid/cloud-moon-rain.svg"),
+  faCloudMoonS: icon("fontawesome/solid/cloud-moon.svg"),
+  faCloudRainS: icon("fontawesome/solid/cloud-rain.svg"),
+  faCloudShowersHeavyS: icon("fontawesome/solid/cloud-showers-heavy.svg"),
+  faCloudShowersWaterS: icon("fontawesome/solid/cloud-showers-water.svg"),
+  faCloudSunRainS: icon("fontawesome/solid/cloud-sun-rain.svg"),
+  faCloudSunS: icon("fontawesome/solid/cloud-sun.svg"),
+  faCloudS: icon("fontawesome/solid/cloud.svg"),
+  faCloverS: icon("fontawesome/solid/clover.svg"),
+  faCodeBranchS: icon("fontawesome/solid/code-branch.svg"),
+  faCodeCommitS: icon("fontawesome/solid/code-commit.svg"),
+  faCodeCompareS: icon("fontawesome/solid/code-compare.svg"),
+  faCodeForkS: icon("fontawesome/solid/code-fork.svg"),
+  faCodeMergeS: icon("fontawesome/solid/code-merge.svg"),
+  faCodePullRequestS: icon("fontawesome/solid/code-pull-request.svg"),
+  faCodeS: icon("fontawesome/solid/code.svg"),
+  faCoinsS: icon("fontawesome/solid/coins.svg"),
+  faColonSignS: icon("fontawesome/solid/colon-sign.svg"),
+  faCommentDollarS: icon("fontawesome/solid/comment-dollar.svg"),
+  faCommentDotsS: icon("fontawesome/solid/comment-dots.svg"),
+  faCommentMedicalS: icon("fontawesome/solid/comment-medical.svg"),
+  faCommentSlashS: icon("fontawesome/solid/comment-slash.svg"),
+  faCommentSmsS: icon("fontawesome/solid/comment-sms.svg"),
+  faCommentS: icon("fontawesome/solid/comment.svg"),
+  faCommentsDollarS: icon("fontawesome/solid/comments-dollar.svg"),
+  faCommentsS: icon("fontawesome/solid/comments.svg"),
+  faCompactDiscS: icon("fontawesome/solid/compact-disc.svg"),
+  faCompassDraftingS: icon("fontawesome/solid/compass-drafting.svg"),
+  faCompassS: icon("fontawesome/solid/compass.svg"),
+  faCompressS: icon("fontawesome/solid/compress.svg"),
+  faComputerMouseS: icon("fontawesome/solid/computer-mouse.svg"),
+  faComputerS: icon("fontawesome/solid/computer.svg"),
+  faCookieBiteS: icon("fontawesome/solid/cookie-bite.svg"),
+  faCookieS: icon("fontawesome/solid/cookie.svg"),
+  faCopyS: icon("fontawesome/solid/copy.svg"),
+  faCopyrightS: icon("fontawesome/solid/copyright.svg"),
+  faCouchS: icon("fontawesome/solid/couch.svg"),
+  faCowS: icon("fontawesome/solid/cow.svg"),
+  faCreditCardS: icon("fontawesome/solid/credit-card.svg"),
+  faCropSimpleS: icon("fontawesome/solid/crop-simple.svg"),
+  faCropS: icon("fontawesome/solid/crop.svg"),
+  faCrossS: icon("fontawesome/solid/cross.svg"),
+  faCrosshairsS: icon("fontawesome/solid/crosshairs.svg"),
+  faCrowS: icon("fontawesome/solid/crow.svg"),
+  faCrownS: icon("fontawesome/solid/crown.svg"),
+  faCrutchS: icon("fontawesome/solid/crutch.svg"),
+  faCruzeiroSignS: icon("fontawesome/solid/cruzeiro-sign.svg"),
+  faCubeS: icon("fontawesome/solid/cube.svg"),
+  faCubesStackedS: icon("fontawesome/solid/cubes-stacked.svg"),
+  faCubesS: icon("fontawesome/solid/cubes.svg"),
+  faDS: icon("fontawesome/solid/d.svg"),
+  faDatabaseS: icon("fontawesome/solid/database.svg"),
+  faDeleteLeftS: icon("fontawesome/solid/delete-left.svg"),
+  faDemocratS: icon("fontawesome/solid/democrat.svg"),
+  faDesktopS: icon("fontawesome/solid/desktop.svg"),
+  faDharmachakraS: icon("fontawesome/solid/dharmachakra.svg"),
+  faDiagramNextS: icon("fontawesome/solid/diagram-next.svg"),
+  faDiagramPredecessorS: icon("fontawesome/solid/diagram-predecessor.svg"),
+  faDiagramProjectS: icon("fontawesome/solid/diagram-project.svg"),
+  faDiagramSuccessorS: icon("fontawesome/solid/diagram-successor.svg"),
+  faDiamondTurnRightS: icon("fontawesome/solid/diamond-turn-right.svg"),
+  faDiamondS: icon("fontawesome/solid/diamond.svg"),
+  faDiceD6S: icon("fontawesome/solid/dice-d6.svg"),
+  faDiceD20S: icon("fontawesome/solid/dice-d20.svg"),
+  faDiceFiveS: icon("fontawesome/solid/dice-five.svg"),
+  faDiceFourS: icon("fontawesome/solid/dice-four.svg"),
+  faDiceOneS: icon("fontawesome/solid/dice-one.svg"),
+  faDiceSixS: icon("fontawesome/solid/dice-six.svg"),
+  faDiceThreeS: icon("fontawesome/solid/dice-three.svg"),
+  faDiceTwoS: icon("fontawesome/solid/dice-two.svg"),
+  faDiceS: icon("fontawesome/solid/dice.svg"),
+  faDiseaseS: icon("fontawesome/solid/disease.svg"),
+  faDisplayS: icon("fontawesome/solid/display.svg"),
+  faDivideS: icon("fontawesome/solid/divide.svg"),
+  faDnaS: icon("fontawesome/solid/dna.svg"),
+  faDogS: icon("fontawesome/solid/dog.svg"),
+  faDollarSignS: icon("fontawesome/solid/dollar-sign.svg"),
+  faDollyS: icon("fontawesome/solid/dolly.svg"),
+  faDongSignS: icon("fontawesome/solid/dong-sign.svg"),
+  faDoorClosedS: icon("fontawesome/solid/door-closed.svg"),
+  faDoorOpenS: icon("fontawesome/solid/door-open.svg"),
+  faDoveS: icon("fontawesome/solid/dove.svg"),
+  faDownLeftAndUpRightToCenterS: icon("fontawesome/solid/down-left-and-up-right-to-center.svg"),
+  faDownLongS: icon("fontawesome/solid/down-long.svg"),
+  faDownloadS: icon("fontawesome/solid/download.svg"),
+  faDragonS: icon("fontawesome/solid/dragon.svg"),
+  faDrawPolygonS: icon("fontawesome/solid/draw-polygon.svg"),
+  faDropletSlashS: icon("fontawesome/solid/droplet-slash.svg"),
+  faDropletS: icon("fontawesome/solid/droplet.svg"),
+  faDrumSteelpanS: icon("fontawesome/solid/drum-steelpan.svg"),
+  faDrumS: icon("fontawesome/solid/drum.svg"),
+  faDrumstickBiteS: icon("fontawesome/solid/drumstick-bite.svg"),
+  faDumbbellS: icon("fontawesome/solid/dumbbell.svg"),
+  faDumpsterFireS: icon("fontawesome/solid/dumpster-fire.svg"),
+  faDumpsterS: icon("fontawesome/solid/dumpster.svg"),
+  faDungeonS: icon("fontawesome/solid/dungeon.svg"),
+  faES: icon("fontawesome/solid/e.svg"),
+  faEarDeafS: icon("fontawesome/solid/ear-deaf.svg"),
+  faEarListenS: icon("fontawesome/solid/ear-listen.svg"),
+  faEarthAfricaS: icon("fontawesome/solid/earth-africa.svg"),
+  faEarthAmericasS: icon("fontawesome/solid/earth-americas.svg"),
+  faEarthAsiaS: icon("fontawesome/solid/earth-asia.svg"),
+  faEarthEuropeS: icon("fontawesome/solid/earth-europe.svg"),
+  faEarthOceaniaS: icon("fontawesome/solid/earth-oceania.svg"),
+  faEggS: icon("fontawesome/solid/egg.svg"),
+  faEjectS: icon("fontawesome/solid/eject.svg"),
+  faElevatorS: icon("fontawesome/solid/elevator.svg"),
+  faEllipsisVerticalS: icon("fontawesome/solid/ellipsis-vertical.svg"),
+  faEllipsisS: icon("fontawesome/solid/ellipsis.svg"),
+  faEnvelopeCircleCheckS: icon("fontawesome/solid/envelope-circle-check.svg"),
+  faEnvelopeOpenTextS: icon("fontawesome/solid/envelope-open-text.svg"),
+  faEnvelopeOpenS: icon("fontawesome/solid/envelope-open.svg"),
+  faEnvelopeS: icon("fontawesome/solid/envelope.svg"),
+  faEnvelopesBulkS: icon("fontawesome/solid/envelopes-bulk.svg"),
+  faEqualsS: icon("fontawesome/solid/equals.svg"),
+  faEraserS: icon("fontawesome/solid/eraser.svg"),
+  faEthernetS: icon("fontawesome/solid/ethernet.svg"),
+  faEuroSignS: icon("fontawesome/solid/euro-sign.svg"),
+  faExclamationS: icon("fontawesome/solid/exclamation.svg"),
+  faExpandS: icon("fontawesome/solid/expand.svg"),
+  faExplosionS: icon("fontawesome/solid/explosion.svg"),
+  faEyeDropperS: icon("fontawesome/solid/eye-dropper.svg"),
+  faEyeLowVisionS: icon("fontawesome/solid/eye-low-vision.svg"),
+  faEyeSlashS: icon("fontawesome/solid/eye-slash.svg"),
+  faEyeS: icon("fontawesome/solid/eye.svg"),
+  faFS: icon("fontawesome/solid/f.svg"),
+  faFaceAngryS: icon("fontawesome/solid/  face-angry.svg"),
+  faFaceDizzyS: icon("fontawesome/solid/  face-dizzy.svg"),
+  faFaceFlushedS: icon("fontawesome/solid/  face-flushed.svg"),
+  faFaceFrownOpenS: icon("fontawesome/solid/  face-frown-open.svg"),
+  faFaceFrownS: icon("fontawesome/solid/  face-frown.svg"),
+  faFaceGrimaceS: icon("fontawesome/solid/  face-grimace.svg"),
+  faFaceGrinBeamSweatS: icon("fontawesome/solid/  face-grin-beam-sweat.svg"),
+  faFaceGrinBeamS: icon("fontawesome/solid/ face-grin-beam.svg"),
+  faFaceGrinHeartsS: icon("fontawesome/solid/ face-grin-hearts.svg"),
+  faFaceGrinSquintTearsS: icon("fontawesome/solid/  face-grin-squint-tears.svg"),
+  faFaceGrinSquintS: icon("fontawesome/solid/ face-grin-squint.svg"),
+  faFaceGrinStarsS: icon("fontawesome/solid/  face-grin-stars.svg"),
+  faFaceGrinTearsS: icon("fontawesome/solid/  face-grin-tears.svg"),
+  faFaceGrinTongueSquintS: icon("fontawesome/solid/ face-grin-tongue-squint.svg"),
+  faFaceGrinTongueWinkS: icon("fontawesome/solid/ face-grin-tongue-wink.svg"),
+  faFaceGrinTongueS: icon("fontawesome/solid/ face-grin-tongue.svg"),
+  faFaceGrinWideS: icon("fontawesome/solid/ face-grin-wide.svg"),
+  faFaceGrinWinkS: icon("fontawesome/solid/ face-grin-wink.svg"),
+  faFaceGrinS: icon("fontawesome/solid/ face-grin.svg"),
+  faFaceKissBeamS: icon("fontawesome/solid/ face-kiss-beam.svg"),
+  faFaceKissWinkHeartS: icon("fontawesome/solid/  face-kiss-wink-heart.svg"),
+  faFaceKissS: icon("fontawesome/solid/ face-kiss.svg"),
+  faFaceLaughBeamS: icon("fontawesome/solid/  face-laugh-beam.svg"),
+  faFaceLaughSquintS: icon("fontawesome/solid/  face-laugh-squint.svg"),
+  faFaceLaughWinkS: icon("fontawesome/solid/  face-laugh-wink.svg"),
+  faFaceLaughS: icon("fontawesome/solid/  face-laugh.svg"),
+  faFaceMehBlankS: icon("fontawesome/solid/ face-meh-blank.svg"),
+  faFaceMehS: icon("fontawesome/solid/  face-meh.svg"),
+  faFaceRollingEyesS: icon("fontawesome/solid/  face-rolling-eyes.svg"),
+  faFaceSadCryS: icon("fontawesome/solid/ face-sad-cry.svg"),
+  faFaceSadTearS: icon("fontawesome/solid/  face-sad-tear.svg"),
+  faFaceSmileBeamS: icon("fontawesome/solid/  face-smile-beam.svg"),
+  faFaceSmileWinkS: icon("fontawesome/solid/  face-smile-wink.svg"),
+  faFaceSmileS: icon("fontawesome/solid/  face-smile.svg"),
+  faFaceSurpriseS: icon("fontawesome/solid/ face-surprise.svg"),
+  faFaceTiredS: icon("fontawesome/solid/  face-tired.svg"),
+  faFanS: icon("fontawesome/solid/  fan.svg"),
+  faFaucetDripS: icon("fontawesome/solid/ faucet-drip.svg"),
+  faFaucetS: icon("fontawesome/solid/ faucet.svg"),
+  faFaxS: icon("fontawesome/solid/  fax.svg"),
+  faFeatherPointedS: icon("fontawesome/solid/feather-pointed.svg"),
+  faFeatherS: icon("fontawesome/solid/feather.svg"),
+  faFerryS: icon("fontawesome/solid/ferry.svg"),
+  faFileArrowDownS: icon("fontawesome/solid/file-arrow-down.svg"),
+  faFileArrowUpS: icon("fontawesome/solid/file-arrow-up.svg"),
+  faFileAudioS: icon("fontawesome/solid/file-audio.svg"),
+  faFileCircleCheckS: icon("fontawesome/solid/file-circle-check.svg"),
+  faFileCircleExclamationS: icon("fontawesome/solid/file-circle-exclamation.svg"),
+  faFileCircleMinusS: icon("fontawesome/solid/file-circle-minus.svg"),
+  faFileCirclePlusS: icon("fontawesome/solid/file-circle-plus.svg"),
+  faFileCircleQuestionS: icon("fontawesome/solid/file-circle-question.svg"),
+  faFileCircleXmarkS: icon("fontawesome/solid/file-circle-xmark.svg"),
+  faFileCodeS: icon("fontawesome/solid/file-code.svg"),
+  faFileContractS: icon("fontawesome/solid/file-contract.svg"),
+  faFileCsvS: icon("fontawesome/solid/file-csv.svg"),
+  faFileExcelS: icon("fontawesome/solid/file-excel.svg"),
+  faFileExportS: icon("fontawesome/solid/file-export.svg"),
+  faFileImageS: icon("fontawesome/solid/file-image.svg"),
+  faFileImportS: icon("fontawesome/solid/file-import.svg"),
+  faFileInvoiceDollarS: icon("fontawesome/solid/file-invoice-dollar.svg"),
+  faFileInvoiceS: icon("fontawesome/solid/file-invoice.svg"),
+  faFileLinesS: icon("fontawesome/solid/file-lines.svg"),
+  faFileMedicalS: icon("fontawesome/solid/file-medical.svg"),
+  faFilePdfS: icon("fontawesome/solid/file-pdf.svg"),
+  faFilePenS: icon("fontawesome/solid/file-pen.svg"),
+  faFilePowerpointS: icon("fontawesome/solid/file-powerpoint.svg"),
+  faFilePrescriptionS: icon("fontawesome/solid/file-prescription.svg"),
+  faFileShieldS: icon("fontawesome/solid/file-shield.svg"),
+  faFileSignatureS: icon("fontawesome/solid/file-signature.svg"),
+  faFileVideoS: icon("fontawesome/solid/file-video.svg"),
+  faFileWaveformS: icon("fontawesome/solid/file-waveform.svg"),
+  faFileWordS: icon("fontawesome/solid/file-word.svg"),
+  faFileZipperS: icon("fontawesome/solid/file-zipper.svg"),
+  faFileS: icon("fontawesome/solid/file.svg"),
+  faFillDripS: icon("fontawesome/solid/fill-drip.svg"),
+  faFillS: icon("fontawesome/solid/fill.svg"),
+  faFilmS: icon("fontawesome/solid/film.svg"),
+  faFilterCircleDollarS: icon("fontawesome/solid/filter-circle-dollar.svg"),
+  faFilterCircleXmarkS: icon("fontawesome/solid/filter-circle-xmark.svg"),
+  faFilterS: icon("fontawesome/solid/filter.svg"),
+  faFingerprintS: icon("fontawesome/solid/fingerprint.svg"),
+  faFireBurnerS: icon("fontawesome/solid/fire-burner.svg"),
+  faFireExtinguisherS: icon("fontawesome/solid/fire-extinguisher.svg"),
+  faFireFlameCurvedS: icon("fontawesome/solid/fire-flame-curved.svg"),
+  faFireFlameSimpleS: icon("fontawesome/solid/fire-flame-simple.svg"),
+  faFireS: icon("fontawesome/solid/fire.svg"),
+  faFishFinsS: icon("fontawesome/solid/fish-fins.svg"),
+  faFishS: icon("fontawesome/solid/fish.svg"),
+  faFlagCheckeredS: icon("fontawesome/solid/flag-checkered.svg"),
+  faFlagUsaS: icon("fontawesome/solid/flag-usa.svg"),
+  faFlagS: icon("fontawesome/solid/flag.svg"),
+  faFlaskVialS: icon("fontawesome/solid/flask-vial.svg"),
+  faFlaskS: icon("fontawesome/solid/flask.svg"),
+  faFloppyDiskS: icon("fontawesome/solid/floppy-disk.svg"),
+  faFlorinSignS: icon("fontawesome/solid/florin-sign.svg"),
+  faFolderClosedS: icon("fontawesome/solid/folder-closed.svg"),
+  faFolderMinusS: icon("fontawesome/solid/folder-minus.svg"),
+  faFolderOpenS: icon("fontawesome/solid/folder-open.svg"),
+  faFolderPlusS: icon("fontawesome/solid/folder-plus.svg"),
+  faFolderTreeS: icon("fontawesome/solid/folder-tree.svg"),
+  faFolderS: icon("fontawesome/solid/folder.svg"),
+  faFontAwesomeS: icon("fontawesome/solid/font-awesome.svg"),
+  faFontS: icon("fontawesome/solid/font.svg"),
+  faFootballS: icon("fontawesome/solid/football.svg"),
+  faForwardFastS: icon("fontawesome/solid/forward-  fast.svg"),
+  faForwardStepS: icon("fontawesome/solid/forward-step.svg"),
+  faForwardS: icon("fontawesome/solid/forward.svg"),
+  faFrancSignS: icon("fontawesome/solid/franc-sign.svg"),
+  faFrogS: icon("fontawesome/solid/frog.svg"),
+  faFutbolS: icon("fontawesome/solid/futbol.svg"),
+  faGS: icon("fontawesome/solid/g.svg"),
+  faGamepadS: icon("fontawesome/solid/gamepad.svg"),
+  faGasPumpS: icon("fontawesome/solid/gas-pump.svg"),
+  faGaugeHighS: icon("fontawesome/solid/gauge-high.svg"),
+  faGaugeSimpleHighS: icon("fontawesome/solid/gauge-simple-high.svg"),
+  faGaugeSimpleS: icon("fontawesome/solid/gauge-simple.svg"),
+  faGaugeS: icon("fontawesome/solid/gauge.svg"),
+  faGavelS: icon("fontawesome/solid/gavel.svg"),
+  faGearS: icon("fontawesome/solid/gear.svg"),
+  faGearsS: icon("fontawesome/solid/gears.svg"),
+  faGemS: icon("fontawesome/solid/gem.svg"),
+  faGenderlessS: icon("fontawesome/solid/genderless.svg"),
+  faGhostS: icon("fontawesome/solid/ghost.svg"),
+  faGiftS: icon("fontawesome/solid/gift.svg"),
+  faGiftsS: icon("fontawesome/solid/gifts.svg"),
+  faGlassWaterDropletS: icon("fontawesome/solid/glass-water-droplet.svg"),
+  faGlassWaterS: icon("fontawesome/solid/glass-water.svg"),
+  faGlassesS: icon("fontawesome/solid/glasses.svg"),
+  faGlobeS: icon("fontawesome/solid/globe.svg"),
+  faGolfBallTeeS: icon("fontawesome/solid/golf-ball-tee.svg"),
+  faGopuramS: icon("fontawesome/solid/gopuram.svg"),
+  faGraduationCapS: icon("fontawesome/solid/graduation-cap.svg"),
+  faGreaterThanEqualS: icon("fontawesome/solid/greater-than-equal.svg"),
+  faGreaterThanS: icon("fontawesome/solid/greater-than.svg"),
+  faGripLinesVerticalS: icon("fontawesome/solid/grip-lines-vertical.svg"),
+  faGripLinesS: icon("fontawesome/solid/grip-lines.svg"),
+  faGripVerticalS: icon("fontawesome/solid/grip-vertical.svg"),
+  faGripS: icon("fontawesome/solid/grip.svg"),
+  faGroupArrowsRotateS: icon("fontawesome/solid/group-arrows-rotate.svg"),
+  faGuaraniSignS: icon("fontawesome/solid/guarani-sign.svg"),
+  faGuitarS: icon("fontawesome/solid/guitar.svg"),
+  faGunS: icon("fontawesome/solid/gun.svg"),
+  faHS: icon("fontawesome/solid/h.svg"),
+  faHammerS: icon("fontawesome/solid/hammer.svg"),
+  faHamsaS: icon("fontawesome/solid/hamsa.svg"),
+  faHandBackFistS: icon("fontawesome/solid/hand-back-fist.svg"),
+  faHandDotsS: icon("fontawesome/solid/hand-dots.svg"),
+  faHandFistS: icon("fontawesome/solid/hand-fist.svg"),
+  faHandHoldingDollarS: icon("fontawesome/solid/hand-holding-dollar.svg"),
+  faHandHoldingDropletS: icon("fontawesome/solid/hand-holding-droplet.svg"),
+  faHandHoldingHandS: icon("fontawesome/solid/hand-holding-hand.svg"),
+  faHandHoldingHeartS: icon("fontawesome/solid/hand-holding-heart.svg"),
+  faHandHoldingMedicalS: icon("fontawesome/solid/hand-holding-medical.svg"),
+  faHandHoldingS: icon("fontawesome/solid/hand-holding.svg"),
+  faHandLizardS: icon("fontawesome/solid/hand-lizard.svg"),
+  faHandMiddleFingerS: icon("fontawesome/solid/hand-middle-finger.svg"),
+  faHandPeaceS: icon("fontawesome/solid/hand-peace.svg"),
+  faHandPointDownS: icon("fontawesome/solid/hand-point-down.svg"),
+  faHandPointLeftS: icon("fontawesome/solid/hand-point-left.svg"),
+  faHandPointRightS: icon("fontawesome/solid/hand-point-right.svg"),
+  faHandPointUpS: icon("fontawesome/solid/hand-point-up.svg"),
+  faHandPointerS: icon("fontawesome/solid/hand-pointer.svg"),
+  faHandScissorsS: icon("fontawesome/solid/hand-scissors.svg"),
+  faHandSparklesS: icon("fontawesome/solid/hand-sparkles.svg"),
+  faHandSpockS: icon("fontawesome/solid/hand-spock.svg"),
+  faHandS: icon("fontawesome/solid/hand.svg"),
+  faHandcuffsS: icon("fontawesome/solid/handcuffs.svg"),
+  faHandsAslInterpretingS: icon("fontawesome/solid/hands-asl-interpreting.svg"),
+  faHandsBoundS: icon("fontawesome/solid/hands-bound.svg"),
+  faHandsBubblesS: icon("fontawesome/solid/hands-bubbles.svg"),
+  faHandsClappingS: icon("fontawesome/solid/hands-clapping.svg"),
+  faHandsHoldingChildS: icon("fontawesome/solid/hands-holding-child.svg"),
+  faHandsHoldingCircleS: icon("fontawesome/solid/hands-holding-circle.svg"),
+  faHandsHoldingS: icon("fontawesome/solid/hands-holding.svg"),
+  faHandsPrayingS: icon("fontawesome/solid/hands-praying.svg"),
+  faHandsS: icon("fontawesome/solid/hands.svg"),
+  faHandshakeAngleS: icon("fontawesome/solid/handshake-angle.svg"),
+  faHandshakeSimpleSlashS: icon("fontawesome/solid/handshake-simple-slash.svg"),
+  faHandshakeSimpleS: icon("fontawesome/solid/handshake-simple.svg"),
+  faHandshakeSlashS: icon("fontawesome/solid/handshake-slash.svg"),
+  faHandshakeS: icon("fontawesome/solid/handshake.svg"),
+  faHanukiahS: icon("fontawesome/solid/hanukiah.svg"),
+  faHardDriveS: icon("fontawesome/solid/hard-drive.svg"),
+  faHashtagS: icon("fontawesome/solid/hashtag.svg"),
+  faHatCowboySideS: icon("fontawesome/solid/hat-cowboy-side.svg"),
+  faHatCowboyS: icon("fontawesome/solid/hat-cowboy.svg"),
+  faHatWizardS: icon("fontawesome/solid/hat-wizard.svg"),
+  faHeadSideCoughSlashS: icon("fontawesome/solid/head-side-cough-slash.svg"),
+  faHeadSideCoughS: icon("fontawesome/solid/head-side-cough.svg"),
+  faHeadSideMaskS: icon("fontawesome/solid/head-side-mask.svg"),
+  faHeadSideVirusS: icon("fontawesome/solid/head-side-virus.svg"),
+  faHeadingS: icon("fontawesome/solid/heading.svg"),
+  faHeadphonesSimpleS: icon("fontawesome/solid/headphones-simple.svg"),
+  faHeadphonesS: icon("fontawesome/solid/headphones.svg"),
+  faHeadsetS: icon("fontawesome/solid/headset.svg"),
+  faHeartCircleBoltS: icon("fontawesome/solid/heart-circle-bolt.svg"),
+  faHeartCircleCheckS: icon("fontawesome/solid/heart-circle-check.svg"),
+  faHeartCircleExclamationS: icon("fontawesome/solid/heart-circle-exclamation.svg"),
+  faHeartCircleMinusS: icon("fontawesome/solid/heart-circle-minus.svg"),
+  faHeartCirclePlusS: icon("fontawesome/solid/heart-circle-plus.svg"),
+  faHeartCircleXmarkS: icon("fontawesome/solid/heart-circle-xmark.svg"),
+  faHeartCrackS: icon("fontawesome/solid/heart-crack.svg"),
+  faHeartPulseS: icon("fontawesome/solid/heart-pulse.svg"),
+  faHeartS: icon("fontawesome/solid/heart.svg"),
+  faHelicopterSymbolS: icon("fontawesome/solid/helicopter-symbol.svg"),
+  faHelicopterS: icon("fontawesome/solid/helicopter.svg"),
+  faHelmetSafetyS: icon("fontawesome/solid/helmet-safety.svg"),
+  faHelmetUnS: icon("fontawesome/solid/helmet-un.svg"),
+  faHighlighterS: icon("fontawesome/solid/highlighter.svg"),
+  faHillAvalancheS: icon("fontawesome/solid/hill-avalanche.svg"),
+  faHillRockslideS: icon("fontawesome/solid/hill-rockslide.svg"),
+  faHippoS: icon("fontawesome/solid/hippo.svg"),
+  faHockeyPuckS: icon("fontawesome/solid/hockey-puck.svg"),
+  faHollyBerryS: icon("fontawesome/solid/holly-berry.svg"),
+  faHorseHeadS: icon("fontawesome/solid/horse-head.svg"),
+  faHorseS: icon("fontawesome/solid/horse.svg"),
+  faHospitalUserS: icon("fontawesome/solid/hospital-user.svg"),
+  faHospitalS: icon("fontawesome/solid/hospital.svg"),
+  faHotTubPersonS: icon("fontawesome/solid/hot-tub-person.svg"),
+  faHotdogS: icon("fontawesome/solid/hotdog.svg"),
+  faHotelS: icon("fontawesome/solid/hotel.svg"),
+  faHourglassEndS: icon("fontawesome/solid/hourglass-end.svg"),
+  faHourglassHalfS: icon("fontawesome/solid/hourglass-half.svg"),
+  faHourglassStartS: icon("fontawesome/solid/hourglass-start.svg"),
+  faHourglassS: icon("fontawesome/solid/hourglass.svg"),
+  faHouseChimneyCrackS: icon("fontawesome/solid/house-chimney-crack.svg"),
+  faHouseChimneyMedicalS: icon("fontawesome/solid/house-chimney-medical.svg"),
+  faHouseChimneyUserS: icon("fontawesome/solid/house-chimney-user.svg"),
+  faHouseChimneyWindowS: icon("fontawesome/solid/house-chimney-window.svg"),
+  faHouseChimneyS: icon("fontawesome/solid/house-chimney.svg"),
+  faHouseCircleCheckS: icon("fontawesome/solid/house-circle-check.svg"),
+  faHouseCircleExclamationS: icon("fontawesome/solid/house-circle-exclamation.svg"),
+  faHouseCircleXmarkS: icon("fontawesome/solid/house-circle-xmark.svg"),
+  faHouseCrackS: icon("fontawesome/solid/house-crack.svg"),
+  faHouseFireS: icon("fontawesome/solid/house-fire.svg"),
+  faHouseFlagS: icon("fontawesome/solid/house-flag.svg"),
+  faHouseFloodWaterCircleArrowRightS: icon("fontawesome/solid/house-flood-water-circle-arrow-right.svg"),
+  faHouseFloodWaterS: icon("fontawesome/solid/house-flood-water.svg"),
+  faHouseLaptopS: icon("fontawesome/solid/house-laptop.svg"),
+  faHouseLockS: icon("fontawesome/solid/house-lock.svg"),
+  faHouseMedicalCircleCheckS: icon("fontawesome/solid/house-medical-circle-check.svg"),
+  faHouseMedicalCircleExclamationS: icon("fontawesome/solid/house-medical-circle-exclamation.svg"),
+  faHouseMedicalCircleXmarkS: icon("fontawesome/solid/house-medical-circle-xmark.svg"),
+  faHouseMedicalFlagS: icon("fontawesome/solid/house-medical-flag.svg"),
+  faHouseMedicalS: icon("fontawesome/solid/house-medical.svg"),
+  faHouseSignalS: icon("fontawesome/solid/house-signal.svg"),
+  faHouseTsunamiS: icon("fontawesome/solid/house-tsunami.svg"),
+  faHouseUserS: icon("fontawesome/solid/house-user.svg"),
+  faHouseS: icon("fontawesome/solid/house.svg"),
+  faHryvniaSignS: icon("fontawesome/solid/hryvnia-sign.svg"),
+  faHurricaneS: icon("fontawesome/solid/hurricane.svg"),
+  faICursorS: icon("fontawesome/solid/i-cursor.svg"),
+  faIS: icon("fontawesome/solid/i.svg"),
+  faIceCreamS: icon("fontawesome/solid/ice-cream.svg"),
+  faIciclesS: icon("fontawesome/solid/icicles.svg"),
+  faIconsS: icon("fontawesome/solid/icons.svg"),
+  faIdBadgeS: icon("fontawesome/solid/id-badge.svg"),
+  faIdCardClipS: icon("fontawesome/solid/id-card-clip.svg"),
+  faIdCardS: icon("fontawesome/solid/id-card.svg"),
+  faIglooS: icon("fontawesome/solid/igloo.svg"),
+  faImagePortraitS: icon("fontawesome/solid/image-portrait.svg"),
+  faImageS: icon("fontawesome/solid/image.svg"),
+  faImagesS: icon("fontawesome/solid/images.svg"),
+  faInboxS: icon("fontawesome/solid/inbox.svg"),
+  faIndentS: icon("fontawesome/solid/indent.svg"),
+  faIndianRupeeSignS: icon("fontawesome/solid/indian-rupee-sign.svg"),
+  faIndustryS: icon("fontawesome/solid/industry.svg"),
+  faInfinityS: icon("fontawesome/solid/infinity.svg"),
+  faInfoS: icon("fontawesome/solid/info.svg"),
+  faItalicS: icon("fontawesome/solid/italic.svg"),
+  faJS: icon("fontawesome/solid/j.svg"),
+  faJarWheatS: icon("fontawesome/solid/jar-wheat.svg"),
+  faJarS: icon("fontawesome/solid/jar.svg"),
+  faJediS: icon("fontawesome/solid/jedi.svg"),
+  faJetFighterUpS: icon("fontawesome/solid/jet-fighter-up.svg"),
+  faJetFighterS: icon("fontawesome/solid/jet-fighter.svg"),
+  faJointS: icon("fontawesome/solid/joint.svg"),
+  faJugDetergentS: icon("fontawesome/solid/jug-detergent.svg"),
+  faKS: icon("fontawesome/solid/k.svg"),
+  faKaabaS: icon("fontawesome/solid/kaaba.svg"),
+  faKeyS: icon("fontawesome/solid/key.svg"),
+  faKeyboardS: icon("fontawesome/solid/keyboard.svg"),
+  faKhandaS: icon("fontawesome/solid/khanda.svg"),
+  faKipSignS: icon("fontawesome/solid/kip-sign.svg"),
+  faKitMedicalS: icon("fontawesome/solid/kit-medical.svg"),
+  faKitchenSetS: icon("fontawesome/solid/kitchen-set.svg"),
+  faKiwiBirdS: icon("fontawesome/solid/kiwi-bird.svg"),
+  faLS: icon("fontawesome/solid/l.svg"),
+  faLandMineOnS: icon("fontawesome/solid/land-mine-on.svg"),
+  faLandmarkDomeS: icon("fontawesome/solid/landmark-dome.svg"),
+  faLandmarkFlagS: icon("fontawesome/solid/landmark-flag.svg"),
+  faLandmarkS: icon("fontawesome/solid/landmark.svg"),
+  faLanguageS: icon("fontawesome/solid/language.svg"),
+  faLaptopCodeS: icon("fontawesome/solid/laptop-code.svg"),
+  faLaptopFileS: icon("fontawesome/solid/laptop-file.svg"),
+  faLaptopMedicalS: icon("fontawesome/solid/laptop-medical.svg"),
+  faLaptopS: icon("fontawesome/solid/laptop.svg"),
+  faLariSignS: icon("fontawesome/solid/lari-sign.svg"),
+  faLayerGroupS: icon("fontawesome/solid/layer-group.svg"),
+  faLeafS: icon("fontawesome/solid/leaf.svg"),
+  faLeftLongS: icon("fontawesome/solid/left-long.svg"),
+  faLeftRightS: icon("fontawesome/solid/left-right.svg"),
+  faLemonS: icon("fontawesome/solid/lemon.svg"),
+  faLessThanEqualS: icon("fontawesome/solid/less-than-equal.svg"),
+  faLessThanS: icon("fontawesome/solid/less-than.svg"),
+  faLifeRingS: icon("fontawesome/solid/life-ring.svg"),
+  faLightbulbS: icon("fontawesome/solid/lightbulb.svg"),
+  faLinesLeaningS: icon("fontawesome/solid/lines-leaning.svg"),
+  faLinkSlashS: icon("fontawesome/solid/link-slash.svg"),
+  faLinkS: icon("fontawesome/solid/link.svg"),
+  faLiraSignS: icon("fontawesome/solid/lira-sign.svg"),
+  faListCheckS: icon("fontawesome/solid/list-check.svg"),
+  faListOlS: icon("fontawesome/solid/list-ol.svg"),
+  faListUlS: icon("fontawesome/solid/list-ul.svg"),
+  faListS: icon("fontawesome/solid/list.svg"),
+  faLitecoinSignS: icon("fontawesome/solid/litecoin-sign.svg"),
+  faLocationArrowS: icon("fontawesome/solid/location-arrow.svg"),
+  faLocationCrosshairsS: icon("fontawesome/solid/location-crosshairs.svg"),
+  faLocationDotS: icon("fontawesome/solid/location-dot.svg"),
+  faLocationPinLockS: icon("fontawesome/solid/location-pin-lock.svg"),
+  faLocationPinS: icon("fontawesome/solid/location-pin.svg"),
+  faLockOpenS: icon("fontawesome/solid/lock-open.svg"),
+  faLockS: icon("fontawesome/solid/lock.svg"),
+  faLocustS: icon("fontawesome/solid/locust.svg"),
+  faLungsVirusS: icon("fontawesome/solid/lungs-virus.svg"),
+  faLungsS: icon("fontawesome/solid/lungs.svg"),
+  faMS: icon("fontawesome/solid/m.svg"),
+  faMagnetS: icon("fontawesome/solid/magnet.svg"),
+  faMagnifyingGlassArrowRightS: icon("fontawesome/solid/magnifying-glass-arrow-right.svg"),
+  faMagnifyingGlassChartS: icon("fontawesome/solid/magnifying-glass-chart.svg"),
+  faMagnifyingGlassDollarS: icon("fontawesome/solid/magnifying-glass-dollar.svg"),
+  faMagnifyingGlassLocationS: icon("fontawesome/solid/magnifying-glass-location.svg"),
+  faMagnifyingGlassMinusS: icon("fontawesome/solid/magnifying-glass-minus.svg"),
+  faMagnifyingGlassPlusS: icon("fontawesome/solid/magnifying-glass-plus.svg"),
+  faMagnifyingGlassS: icon("fontawesome/solid/magnifying-glass.svg"),
+  faManatSignS: icon("fontawesome/solid/manat-sign.svg"),
+  faMapLocationDotS: icon("fontawesome/solid/map-location-dot.svg"),
+  faMapLocationS: icon("fontawesome/solid/map-location.svg"),
+  faMapPinS: icon("fontawesome/solid/map-pin.svg"),
+  faMapS: icon("fontawesome/solid/map.svg"),
+  faMarkerS: icon("fontawesome/solid/marker.svg"),
+  faMarsAndVenusBurstS: icon("fontawesome/solid/mars-and-venus-burst.svg"),
+  faMarsAndVenusS: icon("fontawesome/solid/mars-and-venus.svg"),
+  faMarsDoubleS: icon("fontawesome/solid/mars-double.svg"),
+  faMarsStrokeRightS: icon("fontawesome/solid/mars-stroke-right.svg"),
+  faMarsStrokeUpS: icon("fontawesome/solid/mars-stroke-up.svg"),
+  faMarsStrokeS: icon("fontawesome/solid/mars-stroke.svg"),
+  faMarsS: icon("fontawesome/solid/mars.svg"),
+  faMartiniGlassCitrusS: icon("fontawesome/solid/martini-glass-citrus.svg"),
+  faMartiniGlassEmptyS: icon("fontawesome/solid/martini-glass-empty.svg"),
+  faMartiniGlassS: icon("fontawesome/solid/martini-glass.svg"),
+  //  faMaskFaceS: icon("fontawesome/solid/mask- face.svg"),
+  faMaskVentilatorS: icon("fontawesome/solid/mask-ventilator.svg"),
+  faMaskS: icon("fontawesome/solid/mask.svg"),
+  faMasksTheaterS: icon("fontawesome/solid/masks-theater.svg"),
+  faMattressPillowS: icon("fontawesome/solid/mattress-pillow.svg"),
+  faMaximizeS: icon("fontawesome/solid/maximize.svg"),
+  faMedalS: icon("fontawesome/solid/medal.svg"),
+  faMemoryS: icon("fontawesome/solid/memory.svg"),
+  faMenorahS: icon("fontawesome/solid/menorah.svg"),
+  faMercuryS: icon("fontawesome/solid/mercury.svg"),
+  faMessageS: icon("fontawesome/solid/message.svg"),
+  faMeteorS: icon("fontawesome/solid/meteor.svg"),
+  faMicrochipS: icon("fontawesome/solid/microchip.svg"),
+  faMicrophoneLinesSlashS: icon("fontawesome/solid/microphone-lines-slash.svg"),
+  faMicrophoneLinesS: icon("fontawesome/solid/microphone-lines.svg"),
+  faMicrophoneSlashS: icon("fontawesome/solid/microphone-slash.svg"),
+  faMicrophoneS: icon("fontawesome/solid/microphone.svg"),
+  faMicroscopeS: icon("fontawesome/solid/microscope.svg"),
+  faMillSignS: icon("fontawesome/solid/mill-sign.svg"),
+  faMinimizeS: icon("fontawesome/solid/minimize.svg"),
+  faMinusS: icon("fontawesome/solid/minus.svg"),
+  faMittenS: icon("fontawesome/solid/mitten.svg"),
+  faMobileButtonS: icon("fontawesome/solid/mobile-button.svg"),
+  faMobileRetroS: icon("fontawesome/solid/mobile-retro.svg"),
+  faMobileScreenButtonS: icon("fontawesome/solid/mobile-screen-button.svg"),
+  faMobileScreenS: icon("fontawesome/solid/mobile-screen.svg"),
+  faMobileS: icon("fontawesome/solid/mobile.svg"),
+  faMoneyBill1WaveS: icon("fontawesome/solid/money-bill-1-wave.svg"),
+  faMoneyBill1S: icon("fontawesome/solid/money-bill-1.svg"),
+  faMoneyBillTransferS: icon("fontawesome/solid/money-bill-transfer.svg"),
+  faMoneyBillTrendUpS: icon("fontawesome/solid/money-bill-trend-up.svg"),
+  faMoneyBillWaveS: icon("fontawesome/solid/money-bill-wave.svg"),
+  faMoneyBillWheatS: icon("fontawesome/solid/money-bill-wheat.svg"),
+  faMoneyBillS: icon("fontawesome/solid/money-bill.svg"),
+  faMoneyBillsS: icon("fontawesome/solid/money-bills.svg"),
+  faMoneyCheckDollarS: icon("fontawesome/solid/money-check-dollar.svg"),
+  faMoneyCheckS: icon("fontawesome/solid/money-check.svg"),
+  faMonumentS: icon("fontawesome/solid/monument.svg"),
+  faMoonS: icon("fontawesome/solid/moon.svg"),
+  faMortarPestleS: icon("fontawesome/solid/mortar-pestle.svg"),
+  faMosqueS: icon("fontawesome/solid/mosque.svg"),
+  faMosquitoNetS: icon("fontawesome/solid/mosquito-net.svg"),
+  faMosquitoS: icon("fontawesome/solid/mosquito.svg"),
+  faMotorcycleS: icon("fontawesome/solid/motorcycle.svg"),
+  faMoundS: icon("fontawesome/solid/mound.svg"),
+  faMountainCityS: icon("fontawesome/solid/mountain-city.svg"),
+  faMountainSunS: icon("fontawesome/solid/mountain-sun.svg"),
+  faMountainS: icon("fontawesome/solid/mountain.svg"),
+  faMugHotS: icon("fontawesome/solid/mug-hot.svg"),
+  faMugSaucerS: icon("fontawesome/solid/mug-saucer.svg"),
+  faMusicS: icon("fontawesome/solid/music.svg"),
+  faNS: icon("fontawesome/solid/n.svg"),
+  faNairaSignS: icon("fontawesome/solid/naira-sign.svg"),
+  faNetworkWiredS: icon("fontawesome/solid/network-wired.svg"),
+  faNeuterS: icon("fontawesome/solid/neuter.svg"),
+  faNewspaperS: icon("fontawesome/solid/newspaper.svg"),
+  faNotEqualS: icon("fontawesome/solid/not-equal.svg"),
+  faNotdefS: icon("fontawesome/solid/notdef.svg"),
+  faNoteStickyS: icon("fontawesome/solid/note-sticky.svg"),
+  faNotesMedicalS: icon("fontawesome/solid/notes-medical.svg"),
+  faOS: icon("fontawesome/solid/o.svg"),
+  faObjectGroupS: icon("fontawesome/solid/object-group.svg"),
+  faObjectUngroupS: icon("fontawesome/solid/object-ungroup.svg"),
+  faOilCanS: icon("fontawesome/solid/oil-can.svg"),
+  faOilWellS: icon("fontawesome/solid/oil-well.svg"),
+  faOmS: icon("fontawesome/solid/om.svg"),
+  faOtterS: icon("fontawesome/solid/otter.svg"),
+  faOutdentS: icon("fontawesome/solid/outdent.svg"),
+  faPS: icon("fontawesome/solid/p.svg"),
+  faPagerS: icon("fontawesome/solid/pager.svg"),
+  faPaintRollerS: icon("fontawesome/solid/paint-roller.svg"),
+  faPaintbrushS: icon("fontawesome/solid/paintbrush.svg"),
+  faPaletteS: icon("fontawesome/solid/palette.svg"),
+  faPalletS: icon("fontawesome/solid/pallet.svg"),
+  faPanoramaS: icon("fontawesome/solid/panorama.svg"),
+  faPaperPlaneS: icon("fontawesome/solid/paper-plane.svg"),
+  faPaperclipS: icon("fontawesome/solid/paperclip.svg"),
+  faParachuteBoxS: icon("fontawesome/solid/parachute-box.svg"),
+  faParagraphS: icon("fontawesome/solid/paragraph.svg"),
+  faPassportS: icon("fontawesome/solid/passport.svg"),
+  faPasteS: icon("fontawesome/solid/paste.svg"),
+  faPauseS: icon("fontawesome/solid/pause.svg"),
+  faPawS: icon("fontawesome/solid/paw.svg"),
+  faPeaceS: icon("fontawesome/solid/peace.svg"),
+  faPenClipS: icon("fontawesome/solid/pen-clip.svg"),
+  faPenFancyS: icon("fontawesome/solid/pen- fancy.svg"),
+  faPenNibS: icon("fontawesome/solid/pen-nib.svg"),
+  faPenRulerS: icon("fontawesome/solid/pen-ruler.svg"),
+  faPenToSquareS: icon("fontawesome/solid/pen-to-square.svg"),
+  faPenS: icon("fontawesome/solid/pen.svg"),
+  faPencilS: icon("fontawesome/solid/pencil.svg"),
+  faPeopleArrowsS: icon("fontawesome/solid/people-arrows.svg"),
+  faPeopleCarryBoxS: icon("fontawesome/solid/people-carry-box.svg"),
+  faPeopleGroupS: icon("fontawesome/solid/people-group.svg"),
+  faPeopleLineS: icon("fontawesome/solid/people-line.svg"),
+  faPeoplePullingS: icon("fontawesome/solid/people-pulling.svg"),
+  faPeopleRobberyS: icon("fontawesome/solid/people-robbery.svg"),
+  faPeopleRoofS: icon("fontawesome/solid/people-roof.svg"),
+  faPepperHotS: icon("fontawesome/solid/pepper-hot.svg"),
+  faPercentS: icon("fontawesome/solid/percent.svg"),
+  faPersonArrowDownToLineS: icon("fontawesome/solid/person-arrow-down-to-line.svg"),
+  faPersonArrowUpFromLineS: icon("fontawesome/solid/person-arrow-up-from-line.svg"),
+  faPersonBikingS: icon("fontawesome/solid/person-biking.svg"),
+  faPersonBoothS: icon("fontawesome/solid/person-booth.svg"),
+  faPersonBreastfeedingS: icon("fontawesome/solid/person-breastfeeding.svg"),
+  faPersonBurstS: icon("fontawesome/solid/person-burst.svg"),
+  faPersonCaneS: icon("fontawesome/solid/person-cane.svg"),
+  faPersonChalkboardS: icon("fontawesome/solid/person-chalkboard.svg"),
+  faPersonCircleCheckS: icon("fontawesome/solid/person-circle-check.svg"),
+  faPersonCircleExclamationS: icon("fontawesome/solid/person-circle-exclamation.svg"),
+  faPersonCircleMinusS: icon("fontawesome/solid/person-circle-minus.svg"),
+  faPersonCirclePlusS: icon("fontawesome/solid/person-circle-plus.svg"),
+  faPersonCircleQuestionS: icon("fontawesome/solid/person-circle-question.svg"),
+  faPersonCircleXmarkS: icon("fontawesome/solid/person-circle-xmark.svg"),
+  faPersonDiggingS: icon("fontawesome/solid/person-digging.svg"),
+  faPersonDotsFromLineS: icon("fontawesome/solid/person-dots-from-line.svg"),
+  faPersonDressBurstS: icon("fontawesome/solid/person-dress-burst.svg"),
+  faPersonDressS: icon("fontawesome/solid/person-dress.svg"),
+  faPersonDrowningS: icon("fontawesome/solid/person-drowning.svg"),
+  //  faPersonFallingBurstS: icon("fontawesome/solid/person- falling-burst.svg"),
+  //  faPersonFallingS: icon("fontawesome/solid/person-  falling.svg"),
+  faPersonHalfDressS: icon("fontawesome/solid/person-half-dress.svg"),
+  faPersonHarassingS: icon("fontawesome/solid/person-harassing.svg"),
+  faPersonHikingS: icon("fontawesome/solid/person-hiking.svg"),
+  faPersonMilitaryPointingS: icon("fontawesome/solid/person-military-pointing.svg"),
+  faPersonMilitaryRifleS: icon("fontawesome/solid/person-military-rifle.svg"),
+  faPersonMilitaryToPersonS: icon("fontawesome/solid/person-military-to-person.svg"),
+  faPersonPrayingS: icon("fontawesome/solid/person-praying.svg"),
+  faPersonPregnantS: icon("fontawesome/solid/person-pregnant.svg"),
+  faPersonRaysS: icon("fontawesome/solid/person-rays.svg"),
+  faPersonRifleS: icon("fontawesome/solid/person-rifle.svg"),
+  faPersonRunningS: icon("fontawesome/solid/person-running.svg"),
+  faPersonShelterS: icon("fontawesome/solid/person-shelter.svg"),
+  faPersonSkatingS: icon("fontawesome/solid/person-skating.svg"),
+  faPersonSkiingNordicS: icon("fontawesome/solid/person-skiing-nordic.svg"),
+  faPersonSkiingS: icon("fontawesome/solid/person-skiing.svg"),
+  faPersonSnowboardingS: icon("fontawesome/solid/person-snowboarding.svg"),
+  faPersonSwimmingS: icon("fontawesome/solid/person-swimming.svg"),
+  faPersonThroughWindowS: icon("fontawesome/solid/person-through-window.svg"),
+  faPersonWalkingArrowLoopLeftS: icon("fontawesome/solid/person-walking-arrow-loop-left.svg"),
+  faPersonWalkingArrowRightS: icon("fontawesome/solid/person-walking-arrow-right.svg"),
+  faPersonWalkingDashedLineArrowRightS: icon("fontawesome/solid/person-walking-dashed-line-arrow-right.svg"),
+  faPersonWalkingLuggageS: icon("fontawesome/solid/person-walking-luggage.svg"),
+  faPersonWalkingWithCaneS: icon("fontawesome/solid/person-walking-with-cane.svg"),
+  faPersonWalkingS: icon("fontawesome/solid/person-walking.svg"),
+  faPersonS: icon("fontawesome/solid/person.svg"),
+  faPesetaSignS: icon("fontawesome/solid/peseta-sign.svg"),
+  faPesoSignS: icon("fontawesome/solid/peso-sign.svg"),
+  faPhoneFlipS: icon("fontawesome/solid/phone-flip.svg"),
+  faPhoneSlashS: icon("fontawesome/solid/phone-slash.svg"),
+  faPhoneVolumeS: icon("fontawesome/solid/phone-volume.svg"),
+  faPhoneS: icon("fontawesome/solid/phone.svg"),
+  faPhotoFilmS: icon("fontawesome/solid/photo-film.svg"),
+  faPiggyBankS: icon("fontawesome/solid/piggy-bank.svg"),
+  faPillsS: icon("fontawesome/solid/pills.svg"),
+  faPizzaSliceS: icon("fontawesome/solid/pizza-slice.svg"),
+  faPlaceOfWorshipS: icon("fontawesome/solid/place-of-worship.svg"),
+  faPlaneArrivalS: icon("fontawesome/solid/plane-arrival.svg"),
+  faPlaneCircleCheckS: icon("fontawesome/solid/plane-circle-check.svg"),
+  faPlaneCircleExclamationS: icon("fontawesome/solid/plane-circle-exclamation.svg"),
+  faPlaneCircleXmarkS: icon("fontawesome/solid/plane-circle-xmark.svg"),
+  faPlaneDepartureS: icon("fontawesome/solid/plane-departure.svg"),
+  faPlaneLockS: icon("fontawesome/solid/plane-lock.svg"),
+  faPlaneSlashS: icon("fontawesome/solid/plane-slash.svg"),
+  faPlaneUpS: icon("fontawesome/solid/plane-up.svg"),
+  faPlaneS: icon("fontawesome/solid/plane.svg"),
+  faPlantWiltS: icon("fontawesome/solid/plant-wilt.svg"),
+  faPlateWheatS: icon("fontawesome/solid/plate-wheat.svg"),
+  faPlayS: icon("fontawesome/solid/play.svg"),
+  faPlugCircleBoltS: icon("fontawesome/solid/plug-circle-bolt.svg"),
+  faPlugCircleCheckS: icon("fontawesome/solid/plug-circle-check.svg"),
+  faPlugCircleExclamationS: icon("fontawesome/solid/plug-circle-exclamation.svg"),
+  faPlugCircleMinusS: icon("fontawesome/solid/plug-circle-minus.svg"),
+  faPlugCirclePlusS: icon("fontawesome/solid/plug-circle-plus.svg"),
+  faPlugCircleXmarkS: icon("fontawesome/solid/plug-circle-xmark.svg"),
+  faPlugS: icon("fontawesome/solid/plug.svg"),
+  faPlusMinusS: icon("fontawesome/solid/plus-minus.svg"),
+  faPlusS: icon("fontawesome/solid/plus.svg"),
+  faPodcastS: icon("fontawesome/solid/podcast.svg"),
+  faPooStormS: icon("fontawesome/solid/poo-storm.svg"),
+  faPooS: icon("fontawesome/solid/poo.svg"),
+  faPoopS: icon("fontawesome/solid/poop.svg"),
+  faPowerOffS: icon("fontawesome/solid/power-off.svg"),
+  faPrescriptionBottleMedicalS: icon("fontawesome/solid/prescription-bottle-medical.svg"),
+  faPrescriptionBottleS: icon("fontawesome/solid/prescription-bottle.svg"),
+  faPrescriptionS: icon("fontawesome/solid/prescription.svg"),
+  faPrintS: icon("fontawesome/solid/print.svg"),
+  faPumpMedicalS: icon("fontawesome/solid/pump-medical.svg"),
+  faPumpSoapS: icon("fontawesome/solid/pump-soap.svg"),
+  faPuzzlePieceS: icon("fontawesome/solid/puzzle-piece.svg"),
+  faQS: icon("fontawesome/solid/q.svg"),
+  faQrcodeS: icon("fontawesome/solid/qrcode.svg"),
+  faQuestionS: icon("fontawesome/solid/question.svg"),
+  faQuoteLeftS: icon("fontawesome/solid/quote-left.svg"),
+  faQuoteRightS: icon("fontawesome/solid/quote-right.svg"),
+  faRS: icon("fontawesome/solid/r.svg"),
+  faRadiationS: icon("fontawesome/solid/radiation.svg"),
+  faRadioS: icon("fontawesome/solid/radio.svg"),
+  faRainbowS: icon("fontawesome/solid/rainbow.svg"),
+  faRankingStarS: icon("fontawesome/solid/ranking-star.svg"),
+  faReceiptS: icon("fontawesome/solid/receipt.svg"),
+  faRecordVinylS: icon("fontawesome/solid/record-vinyl.svg"),
+  faRectangleAdS: icon("fontawesome/solid/rectangle-ad.svg"),
+  faRectangleListS: icon("fontawesome/solid/rectangle-list.svg"),
+  faRectangleXmarkS: icon("fontawesome/solid/rectangle-xmark.svg"),
+  faRecycleS: icon("fontawesome/solid/recycle.svg"),
+  faRegisteredS: icon("fontawesome/solid/registered.svg"),
+  faRepeatS: icon("fontawesome/solid/repeat.svg"),
+  faReplyAllS: icon("fontawesome/solid/reply-all.svg"),
+  faReplyS: icon("fontawesome/solid/reply.svg"),
+  faRepublicanS: icon("fontawesome/solid/republican.svg"),
+  faRestroomS: icon("fontawesome/solid/restroom.svg"),
+  faRetweetS: icon("fontawesome/solid/retweet.svg"),
+  faRibbonS: icon("fontawesome/solid/ribbon.svg"),
+  faRightFromBracketS: icon("fontawesome/solid/right-from-bracket.svg"),
+  faRightLeftS: icon("fontawesome/solid/right-left.svg"),
+  faRightLongS: icon("fontawesome/solid/right-long.svg"),
+  faRightToBracketS: icon("fontawesome/solid/right-to-bracket.svg"),
+  faRingS: icon("fontawesome/solid/ring.svg"),
+  faRoadBarrierS: icon("fontawesome/solid/road-barrier.svg"),
+  faRoadBridgeS: icon("fontawesome/solid/road-bridge.svg"),
+  faRoadCircleCheckS: icon("fontawesome/solid/road-circle-check.svg"),
+  faRoadCircleExclamationS: icon("fontawesome/solid/road-circle-exclamation.svg"),
+  faRoadCircleXmarkS: icon("fontawesome/solid/road-circle-xmark.svg"),
+  faRoadLockS: icon("fontawesome/solid/road-lock.svg"),
+  faRoadSpikesS: icon("fontawesome/solid/road-spikes.svg"),
+  faRoadS: icon("fontawesome/solid/road.svg"),
+  faRobotS: icon("fontawesome/solid/robot.svg"),
+  faRocketS: icon("fontawesome/solid/rocket.svg"),
+  faRotateLeftS: icon("fontawesome/solid/rotate-left.svg"),
+  faRotateRightS: icon("fontawesome/solid/rotate-right.svg"),
+  faRotateS: icon("fontawesome/solid/rotate.svg"),
+  faRouteS: icon("fontawesome/solid/route.svg"),
+  faRssS: icon("fontawesome/solid/rss.svg"),
+  faRubleSignS: icon("fontawesome/solid/ruble-sign.svg"),
+  faRugS: icon("fontawesome/solid/rug.svg"),
+  faRulerCombinedS: icon("fontawesome/solid/ruler-combined.svg"),
+  faRulerHorizontalS: icon("fontawesome/solid/ruler-horizontal.svg"),
+  faRulerVerticalS: icon("fontawesome/solid/ruler-vertical.svg"),
+  faRulerS: icon("fontawesome/solid/ruler.svg"),
+  faRupeeSignS: icon("fontawesome/solid/rupee-sign.svg"),
+  faRupiahSignS: icon("fontawesome/solid/rupiah-sign.svg"),
+  faSS: icon("fontawesome/solid/s.svg"),
+  faSackDollarS: icon("fontawesome/solid/sack-dollar.svg"),
+  faSackXmarkS: icon("fontawesome/solid/sack-xmark.svg"),
+  faSailboatS: icon("fontawesome/solid/sailboat.svg"),
+  faSatelliteDishS: icon("fontawesome/solid/satellite-dish.svg"),
+  faSatelliteS: icon("fontawesome/solid/satellite.svg"),
+  faScaleBalancedS: icon("fontawesome/solid/scale-balanced.svg"),
+  faScaleUnbalancedFlipS: icon("fontawesome/solid/scale-unbalanced-flip.svg"),
+  faScaleUnbalancedS: icon("fontawesome/solid/scale-unbalanced.svg"),
+  faSchoolCircleCheckS: icon("fontawesome/solid/school-circle-check.svg"),
+  faSchoolCircleExclamationS: icon("fontawesome/solid/school-circle-exclamation.svg"),
+  faSchoolCircleXmarkS: icon("fontawesome/solid/school-circle-xmark.svg"),
+  faSchoolFlagS: icon("fontawesome/solid/school-flag.svg"),
+  faSchoolLockS: icon("fontawesome/solid/school-lock.svg"),
+  faSchoolS: icon("fontawesome/solid/school.svg"),
+  faScissorsS: icon("fontawesome/solid/scissors.svg"),
+  faScrewdriverWrenchS: icon("fontawesome/solid/screwdriver-wrench.svg"),
+  faScrewdriverS: icon("fontawesome/solid/screwdriver.svg"),
+  faScrollTorahS: icon("fontawesome/solid/scroll-torah.svg"),
+  faScrollS: icon("fontawesome/solid/scroll.svg"),
+  faSdCardS: icon("fontawesome/solid/sd-card.svg"),
+  faSectionS: icon("fontawesome/solid/section.svg"),
+  faSeedlingS: icon("fontawesome/solid/seedling.svg"),
+  faServerS: icon("fontawesome/solid/server.svg"),
+  faShapesS: icon("fontawesome/solid/shapes.svg"),
+  faShareFromSquareS: icon("fontawesome/solid/share-from-square.svg"),
+  faShareNodesS: icon("fontawesome/solid/share-nodes.svg"),
+  faShareS: icon("fontawesome/solid/share.svg"),
+  faSheetPlasticS: icon("fontawesome/solid/sheet-plastic.svg"),
+  faShekelSignS: icon("fontawesome/solid/shekel-sign.svg"),
+  faShieldCatS: icon("fontawesome/solid/shield-cat.svg"),
+  faShieldDogS: icon("fontawesome/solid/shield-dog.svg"),
+  faShieldHalvedS: icon("fontawesome/solid/shield-halved.svg"),
+  faShieldHeartS: icon("fontawesome/solid/shield-heart.svg"),
+  faShieldVirusS: icon("fontawesome/solid/shield-virus.svg"),
+  faShieldS: icon("fontawesome/solid/shield.svg"),
+  faShipS: icon("fontawesome/solid/ship.svg"),
+  faShirtS: icon("fontawesome/solid/shirt.svg"),
+  faShoePrintsS: icon("fontawesome/solid/shoe-prints.svg"),
+  faShopLockS: icon("fontawesome/solid/shop-lock.svg"),
+  faShopSlashS: icon("fontawesome/solid/shop-slash.svg"),
+  faShopS: icon("fontawesome/solid/shop.svg"),
+  faShowerS: icon("fontawesome/solid/shower.svg"),
+  faShrimpS: icon("fontawesome/solid/shrimp.svg"),
+  faShuffleS: icon("fontawesome/solid/shuffle.svg"),
+  faShuttleSpaceS: icon("fontawesome/solid/shuttle-space.svg"),
+  faSignHangingS: icon("fontawesome/solid/sign-hanging.svg"),
+  faSignalS: icon("fontawesome/solid/signal.svg"),
+  faSignatureS: icon("fontawesome/solid/signature.svg"),
+  faSignsPostS: icon("fontawesome/solid/signs-post.svg"),
+  faSimCardS: icon("fontawesome/solid/sim-card.svg"),
+  faSinkS: icon("fontawesome/solid/sink.svg"),
+  faSitemapS: icon("fontawesome/solid/sitemap.svg"),
+  faSkullCrossbonesS: icon("fontawesome/solid/skull-crossbones.svg"),
+  faSkullS: icon("fontawesome/solid/skull.svg"),
+  faSlashS: icon("fontawesome/solid/slash.svg"),
+  faSleighS: icon("fontawesome/solid/sleigh.svg"),
+  faSlidersS: icon("fontawesome/solid/sliders.svg"),
+  faSmogS: icon("fontawesome/solid/smog.svg"),
+  faSmokingS: icon("fontawesome/solid/smoking.svg"),
+  faSnowflakeS: icon("fontawesome/solid/snowflake.svg"),
+  faSnowmanS: icon("fontawesome/solid/snowman.svg"),
+  faSnowplowS: icon("fontawesome/solid/snowplow.svg"),
+  faSoapS: icon("fontawesome/solid/soap.svg"),
+  faSocksS: icon("fontawesome/solid/socks.svg"),
+  faSolarPanelS: icon("fontawesome/solid/solar-panel.svg"),
+  faSortDownS: icon("fontawesome/solid/sort-down.svg"),
+  faSortUpS: icon("fontawesome/solid/sort-up.svg"),
+  faSortS: icon("fontawesome/solid/sort.svg"),
+  faSpaS: icon("fontawesome/solid/spa.svg"),
+  faSpaghettiMonsterFlyingS: icon("fontawesome/solid/spaghetti-monster-flying.svg"),
+  faSpellCheckS: icon("fontawesome/solid/spell-check.svg"),
+  faSpiderS: icon("fontawesome/solid/spider.svg"),
+  faSpinnerS: icon("fontawesome/solid/spinner.svg"),
+  faSplotchS: icon("fontawesome/solid/splotch.svg"),
+  faSpoonS: icon("fontawesome/solid/spoon.svg"),
+  faSprayCanSparklesS: icon("fontawesome/solid/spray-can-sparkles.svg"),
+  faSprayCanS: icon("fontawesome/solid/spray-can.svg"),
+  faSquareArrowUpRightS: icon("fontawesome/solid/square-arrow-up-right.svg"),
+  faSquareCaretDownS: icon("fontawesome/solid/square-caret-down.svg"),
+  faSquareCaretLeftS: icon("fontawesome/solid/square-caret-left.svg"),
+  faSquareCaretRightS: icon("fontawesome/solid/square-caret-right.svg"),
+  faSquareCaretUpS: icon("fontawesome/solid/square-caret-up.svg"),
+  faSquareCheckS: icon("fontawesome/solid/square-check.svg"),
+  faSquareEnvelopeS: icon("fontawesome/solid/square-envelope.svg"),
+  faSquareFullS: icon("fontawesome/solid/square-full.svg"),
+  faSquareHS: icon("fontawesome/solid/square-h.svg"),
+  faSquareMinusS: icon("fontawesome/solid/square-minus.svg"),
+  faSquareNfiS: icon("fontawesome/solid/square-nfi.svg"),
+  faSquareParkingS: icon("fontawesome/solid/square-parking.svg"),
+  faSquarePenS: icon("fontawesome/solid/square-pen.svg"),
+  faSquarePersonConfinedS: icon("fontawesome/solid/square-person-confined.svg"),
+  faSquarePhoneFlipS: icon("fontawesome/solid/square-phone-flip.svg"),
+  faSquarePhoneS: icon("fontawesome/solid/square-phone.svg"),
+  faSquarePlusS: icon("fontawesome/solid/square-plus.svg"),
+  faSquarePollHorizontalS: icon("fontawesome/solid/square-poll-horizontal.svg"),
+  faSsquarePollVerticalS: icon("fontawesome/solid/square-poll-vertical.svg"),
+  faSquareRootVariableS: icon("fontawesome/solid/square-root-variable.svg"),
+  faSquareRssS: icon("fontawesome/solid/square-rss.svg"),
+  faSquareShareNodesS: icon("fontawesome/solid/square-share-nodes.svg"),
+  faSquareUpRightS: icon("fontawesome/solid/square-up-right.svg"),
+  faSquareVirusS: icon("fontawesome/solid/square-virus.svg"),
+  faSquareXmarkS: icon("fontawesome/solid/square-xmark.svg"),
+  faSquareS: icon("fontawesome/solid/square.svg"),
+  faStaffSnakeS: icon("fontawesome/solid/staff-snake.svg"),
+  faStairsS: icon("fontawesome/solid/stairs.svg"),
+  faStampS: icon("fontawesome/solid/stamp.svg"),
+  faStaplerS: icon("fontawesome/solid/stapler.svg"),
+  faStarAndCrescentS: icon("fontawesome/solid/star-and-crescent.svg"),
+  faStarHalfStrokeS: icon("fontawesome/solid/star-half-stroke.svg"),
+  faStarHalfS: icon("fontawesome/solid/star-half.svg"),
+  faStarOfDavidS: icon("fontawesome/solid/star-of-david.svg"),
+  faStarOfLifeS: icon("fontawesome/solid/star-of-life.svg"),
+  faStarS: icon("fontawesome/solid/star.svg"),
+  faSterlingSignS: icon("fontawesome/solid/sterling-sign.svg"),
+  faStethoscopeS: icon("fontawesome/solid/stethoscope.svg"),
+  faStopS: icon("fontawesome/solid/stop.svg"),
+  faStopwatch20: icon("fontawesome/solid/stopwatch-20.svg"),
+  faStopwatchS: icon("fontawesome/solid/stopwatch.svg"),
+  faStoreSlashS: icon("fontawesome/solid/store-slash.svg"),
+  faStoreS: icon("fontawesome/solid/store.svg"),
+  faStreetViewS: icon("fontawesome/solid/street-view.svg"),
+  faStrikethroughS: icon("fontawesome/solid/strikethrough.svg"),
+  faStroopwafelS: icon("fontawesome/solid/stroopwafel.svg"),
+  faSubscriptS: icon("fontawesome/solid/subscript.svg"),
+  faSuitcaseMedicalS: icon("fontawesome/solid/suitcase-medical.svg"),
+  faSuitcaseRollingS: icon("fontawesome/solid/suitcase-rolling.svg"),
+  faSuitcaseS: icon("fontawesome/solid/suitcase.svg"),
+  faSunPlantWiltS: icon("fontawesome/solid/sun-plant-wilt.svg"),
+  faSunS: icon("fontawesome/solid/sun.svg"),
+  faSuperscriptS: icon("fontawesome/solid/superscript.svg"),
+  faSwatchbookS: icon("fontawesome/solid/swatchbook.svg"),
+  faSynagogueS: icon("fontawesome/solid/synagogue.svg"),
+  faSyringeS: icon("fontawesome/solid/syringe.svg"),
+  faTS: icon("fontawesome/solid/t.svg"),
+  faTableCellsLargeS: icon("fontawesome/solid/table-cells-large.svg"),
+  faTableCellsS: icon("fontawesome/solid/table-cells.svg"),
+  faTableColumnsS: icon("fontawesome/solid/table-columns.svg"),
+  faTableListS: icon("fontawesome/solid/table-list.svg"),
+  faTableTennisPaddleBallS: icon("fontawesome/solid/table-tennis-paddle-ball.svg"),
+  faTableS: icon("fontawesome/solid/table.svg"),
+  faTabletButtonS: icon("fontawesome/solid/tablet-button.svg"),
+  faTabletScreenButtonS: icon("fontawesome/solid/tablet-screen-button.svg"),
+  faTabletS: icon("fontawesome/solid/tablet.svg"),
+  faTabletsS: icon("fontawesome/solid/tablets.svg"),
+  faTachographDigitalS: icon("fontawesome/solid/tachograph-digital.svg"),
+  faTagS: icon("fontawesome/solid/tag.svg"),
+  faTagsS: icon("fontawesome/solid/tags.svg"),
+  faTapeS: icon("fontawesome/solid/tape.svg"),
+  faTarpDropletS: icon("fontawesome/solid/tarp-droplet.svg"),
+  faTarpS: icon("fontawesome/solid/tarp.svg"),
+  faTaxiS: icon("fontawesome/solid/taxi.svg"),
+  faTeethOpenS: icon("fontawesome/solid/teeth-open.svg"),
+  faTeethS: icon("fontawesome/solid/teeth.svg"),
+  faTemperatureArrowDownS: icon("fontawesome/solid/temperature-arrow-down.svg"),
+  faTemperatureArrowUpS: icon("fontawesome/solid/temperature-arrow-up.svg"),
+  faTemperatureEmptyS: icon("fontawesome/solid/temperature-empty.svg"),
+  faTemperatureFullS: icon("fontawesome/solid/temperature-full.svg"),
+  faTemperatureHalfS: icon("fontawesome/solid/temperature-half.svg"),
+  faTemperatureHighS: icon("fontawesome/solid/temperature-high.svg"),
+  faTemperatureLowS: icon("fontawesome/solid/temperature-low.svg"),
+  faTemperatureQuarterS: icon("fontawesome/solid/temperature-quarter.svg"),
+  faTemperatureThreeQuartersS: icon("fontawesome/solid/temperature-three-quarters.svg"),
+  faTengeSignS: icon("fontawesome/solid/tenge-sign.svg"),
+  faTentArrowDownToLineS: icon("fontawesome/solid/tent-arrow-down-to-line.svg"),
+  faTentArrowLeftRightS: icon("fontawesome/solid/tent-arrow-left-right.svg"),
+  faTentArrowTurnLeftS: icon("fontawesome/solid/tent-arrow-turn-left.svg"),
+  faTentArrowsDownS: icon("fontawesome/solid/tent-arrows-down.svg"),
+  faTentS: icon("fontawesome/solid/tent.svg"),
+  faTentsS: icon("fontawesome/solid/tents.svg"),
+  faTerminalS: icon("fontawesome/solid/terminal.svg"),
+  faTextHeightS: icon("fontawesome/solid/text-height.svg"),
+  faTextSlashS: icon("fontawesome/solid/text-slash.svg"),
+  faTextWidthS: icon("fontawesome/solid/text-width.svg"),
+  faThermometerS: icon("fontawesome/solid/thermometer.svg"),
+  faThumbsDownS: icon("fontawesome/solid/thumbs-down.svg"),
+  faThumbsUpS: icon("fontawesome/solid/thumbs-up.svg"),
+  faThumbtackS: icon("fontawesome/solid/thumbtack.svg"),
+  faTicketSimpleS: icon("fontawesome/solid/ticket-simple.svg"),
+  faTicketS: icon("fontawesome/solid/ticket.svg"),
+  faTimelineS: icon("fontawesome/solid/timeline.svg"),
+  faToggleOffS: icon("fontawesome/solid/toggle-off.svg"),
+  faToggleOnS: icon("fontawesome/solid/toggle-on.svg"),
+  faToiletPaperSlashS: icon("fontawesome/solid/toilet-paper-slash.svg"),
+  faToiletPaperS: icon("fontawesome/solid/toilet-paper.svg"),
+  faToiletPortableS: icon("fontawesome/solid/toilet-portable.svg"),
+  faToiletS: icon("fontawesome/solid/toilet.svg"),
+  faToiletsPortableS: icon("fontawesome/solid/toilets-portable.svg"),
+  faToolboxS: icon("fontawesome/solid/toolbox.svg"),
+  faToothS: icon("fontawesome/solid/tooth.svg"),
+  faToriiGateS: icon("fontawesome/solid/torii-gate.svg"),
+  faTornadoS: icon("fontawesome/solid/tornado.svg"),
+  faTowerBroadcastS: icon("fontawesome/solid/tower-broadcast.svg"),
+  faTowerCellS: icon("fontawesome/solid/tower-cell.svg"),
+  faTowerObservationS: icon("fontawesome/solid/tower-observation.svg"),
+  faTractorS: icon("fontawesome/solid/tractor.svg"),
+  faTrademarkS: icon("fontawesome/solid/trademark.svg"),
+  faTrafficLightS: icon("fontawesome/solid/traffic-light.svg"),
+  faTrailerS: icon("fontawesome/solid/trailer.svg"),
+  faTrainSubwayS: icon("fontawesome/solid/train-subway.svg"),
+  faTrainTramS: icon("fontawesome/solid/train-tram.svg"),
+  faTrainS: icon("fontawesome/solid/train.svg"),
+  faTransgenderS: icon("fontawesome/solid/transgender.svg"),
+  faTrashArrowUpS: icon("fontawesome/solid/trash-arrow-up.svg"),
+  faTrashCanArrowUpS: icon("fontawesome/solid/trash-can-arrow-up.svg"),
+  faTrashCanS: icon("fontawesome/solid/trash-can.svg"),
+  faTrashS: icon("fontawesome/solid/trash.svg"),
+  faTreeCityS: icon("fontawesome/solid/tree-city.svg"),
+  faTreeS: icon("fontawesome/solid/tree.svg"),
+  faTriangleExclamationS: icon("fontawesome/solid/triangle-exclamation.svg"),
+  faTrophyS: icon("fontawesome/solid/trophy.svg"),
+  faTrowelBricksS: icon("fontawesome/solid/trowel-bricks.svg"),
+  faTrowelS: icon("fontawesome/solid/trowel.svg"),
+  faTruckArrowRightS: icon("fontawesome/solid/truck-arrow-right.svg"),
+  faTruckDropletS: icon("fontawesome/solid/truck-droplet.svg"),
+  //  faTruckFastS: icon("fontawesome/solid/truck- fast.svg"),
+  faTruckFieldUnS: icon("fontawesome/solid/truck-field-un.svg"),
+  faTruckFieldS: icon("fontawesome/solid/truck-field.svg"),
+  faTruckFrontS: icon("fontawesome/solid/truck-front.svg"),
+  faTruckMedicalS: icon("fontawesome/solid/truck-medical.svg"),
+  faTruckMonsterS: icon("fontawesome/solid/truck-monster.svg"),
+  faTruckMovingS: icon("fontawesome/solid/truck-moving.svg"),
+  faTruckPickupS: icon("fontawesome/solid/truck-pickup.svg"),
+  faTruckPlaneS: icon("fontawesome/solid/truck-plane.svg"),
+  faTruckRampBoxS: icon("fontawesome/solid/truck-ramp-box.svg"),
+  faTruckS: icon("fontawesome/solid/truck.svg"),
+  faTtyS: icon("fontawesome/solid/tty.svg"),
+  faTurkishLiraSignS: icon("fontawesome/solid/turkish-lira-sign.svg"),
+  faTurnDownS: icon("fontawesome/solid/turn-down.svg"),
+  faTurnUpS: icon("fontawesome/solid/turn-up.svg"),
+  faTvS: icon("fontawesome/solid/tv.svg"),
+  faUS: icon("fontawesome/solid/u.svg"),
+  faUmbrellaBeachS: icon("fontawesome/solid/umbrella-beach.svg"),
+  faUmbrellaS: icon("fontawesome/solid/umbrella.svg"),
+  faUnderlineS: icon("fontawesome/solid/underline.svg"),
+  faUniversalAccessS: icon("fontawesome/solid/universal-access.svg"),
+  faUnlockKeyholeS: icon("fontawesome/solid/unlock-keyhole.svg"),
+  faUnlockS: icon("fontawesome/solid/unlock.svg"),
+  faUpDownLeftRightS: icon("fontawesome/solid/up-down-left-right.svg"),
+  faUpDownS: icon("fontawesome/solid/up-down.svg"),
+  faUpLongS: icon("fontawesome/solid/up-long.svg"),
+  faUpRightAndDownLeftFromCenterS: icon("fontawesome/solid/up-right-and-down-left-from-center.svg"),
+  faUpRightFromSquareS: icon("fontawesome/solid/up-right-from-square.svg"),
+  faUploadS: icon("fontawesome/solid/upload.svg"),
+  faUserAstronautS: icon("fontawesome/solid/user-astronaut.svg"),
+  faUserCheckS: icon("fontawesome/solid/user-check.svg"),
+  faUserClockS: icon("fontawesome/solid/user-clock.svg"),
+  faUserDoctorS: icon("fontawesome/solid/user-doctor.svg"),
+  faUserGearS: icon("fontawesome/solid/user-gear.svg"),
+  faUserGraduateS: icon("fontawesome/solid/user-graduate.svg"),
+  faUserGroupS: icon("fontawesome/solid/user-group.svg"),
+  faUserInjuredS: icon("fontawesome/solid/user-injured.svg"),
+  faUserLargeSlashS: icon("fontawesome/solid/user-large-slash.svg"),
+  faUserLargeS: icon("fontawesome/solid/user-large.svg"),
+  faUserLockS: icon("fontawesome/solid/user-lock.svg"),
+  faUserMinusS: icon("fontawesome/solid/user-minus.svg"),
+  faUserNinjaS: icon("fontawesome/solid/user-ninja.svg"),
+  faUserNurseS: icon("fontawesome/solid/user-nurse.svg"),
+  faUserPenS: icon("fontawesome/solid/user-pen.svg"),
+  faUserPlusS: icon("fontawesome/solid/user-plus.svg"),
+  faUserSecretS: icon("fontawesome/solid/user-secret.svg"),
+  faUserShieldS: icon("fontawesome/solid/user-shield.svg"),
+  faUserSlashS: icon("fontawesome/solid/user-slash.svg"),
+  faUserTagS: icon("fontawesome/solid/user-tag.svg"),
+  faUserTieS: icon("fontawesome/solid/user-tie.svg"),
+  faUserXmarkS: icon("fontawesome/solid/user-xmark.svg"),
+  faUserS: icon("fontawesome/solid/user.svg"),
+  faUsersBetweenLinesS: icon("fontawesome/solid/users-between-lines.svg"),
+  faUsersGearS: icon("fontawesome/solid/users-gear.svg"),
+  faUsersLineS: icon("fontawesome/solid/users-line.svg"),
+  faUsersRaysS: icon("fontawesome/solid/users-rays.svg"),
+  faUsersRectangleS: icon("fontawesome/solid/users-rectangle.svg"),
+  faUsersSlashS: icon("fontawesome/solid/users-slash.svg"),
+  faUsersViewfinderS: icon("fontawesome/solid/users-viewfinder.svg"),
+  faUsersS: icon("fontawesome/solid/users.svg"),
+  faUtensilsS: icon("fontawesome/solid/utensils.svg"),
+  faVS: icon("fontawesome/solid/v.svg"),
+  faVanShuttleS: icon("fontawesome/solid/van-shuttle.svg"),
+  faVaultS: icon("fontawesome/solid/vault.svg"),
+  faVectorSquareS: icon("fontawesome/solid/vector-square.svg"),
+  faVenusDoubleS: icon("fontawesome/solid/venus-double.svg"),
+  faVenusMarsS: icon("fontawesome/solid/venus-mars.svg"),
+  faVenusS: icon("fontawesome/solid/venus.svg"),
+  faVestPatchesS: icon("fontawesome/solid/vest-patches.svg"),
+  faVestS: icon("fontawesome/solid/vest.svg"),
+  faVialCircleCheckS: icon("fontawesome/solid/vial-circle-check.svg"),
+  faVialVirusS: icon("fontawesome/solid/vial-virus.svg"),
+  faVialS: icon("fontawesome/solid/vial.svg"),
+  faVialsS: icon("fontawesome/solid/vials.svg"),
+  faVideoSlashS: icon("fontawesome/solid/video-slash.svg"),
+  faVideoS: icon("fontawesome/solid/video.svg"),
+  faViharaS: icon("fontawesome/solid/vihara.svg"),
+  faVirusCovidSlashS: icon("fontawesome/solid/virus-covid-slash.svg"),
+  faVirusCovidS: icon("fontawesome/solid/virus-covid.svg"),
+  faVirusSlashS: icon("fontawesome/solid/virus-slash.svg"),
+  faVirusS: icon("fontawesome/solid/virus.svg"),
+  faVirusesS: icon("fontawesome/solid/viruses.svg"),
+  faVoicemailS: icon("fontawesome/solid/voicemail.svg"),
+  faVolcanoS: icon("fontawesome/solid/volcano.svg"),
+  faVolleyballS: icon("fontawesome/solid/volleyball.svg"),
+  faVolumeHighS: icon("fontawesome/solid/volume-high.svg"),
+  faVolumeLowS: icon("fontawesome/solid/volume-low.svg"),
+  faVolumeOffS: icon("fontawesome/solid/volume-off.svg"),
+  faVolumeXmarkS: icon("fontawesome/solid/volume-xmark.svg"),
+  faVrCardboardS: icon("fontawesome/solid/vr-cardboard.svg"),
+  faWS: icon("fontawesome/solid/w.svg"),
+  faWalkieTalkieS: icon("fontawesome/solid/walkie-talkie.svg"),
+  faWalletS: icon("fontawesome/solid/wallet.svg"),
+  faWandMagicSparklesS: icon("fontawesome/solid/wand-magic-sparkles.svg"),
+  faWandMagicS: icon("fontawesome/solid/wand-magic.svg"),
+  faWandSparklesS: icon("fontawesome/solid/wand-sparkles.svg"),
+  faWarehouseS: icon("fontawesome/solid/warehouse.svg"),
+  faWaterLadderS: icon("fontawesome/solid/water-ladder.svg"),
+  faWaterS: icon("fontawesome/solid/water.svg"),
+  faWaveSquareS: icon("fontawesome/solid/wave-square.svg"),
+  faWeightHangingS: icon("fontawesome/solid/weight-hanging.svg"),
+  faWeightScaleS: icon("fontawesome/solid/weight-scale.svg"),
+  faWheatAwnCircleExclamationS: icon("fontawesome/solid/wheat-awn-circle-exclamation.svg"),
+  faWheatAwnS: icon("fontawesome/solid/wheat-awn.svg"),
+  faWheelchairMoveS: icon("fontawesome/solid/wheelchair-move.svg"),
+  faWheelchairS: icon("fontawesome/solid/wheelchair.svg"),
+  faWhiskeyGlassS: icon("fontawesome/solid/whiskey-glass.svg"),
+  faWifiS: icon("fontawesome/solid/wifi.svg"),
+  faWindS: icon("fontawesome/solid/wind.svg"),
+  faWindowMaximizeS: icon("fontawesome/solid/window-maximize.svg"),
+  faWindowMinimizeS: icon("fontawesome/solid/window-minimize.svg"),
+  faWindowRestoreS: icon("fontawesome/solid/window-restore.svg"),
+  faWineBottleS: icon("fontawesome/solid/wine-bottle.svg"),
+  faWineGlassEmptyS: icon("fontawesome/solid/wine-glass-empty.svg"),
+  faWineGlassS: icon("fontawesome/solid/wine-glass.svg"),
+  faWonSignS: icon("fontawesome/solid/won-sign.svg"),
+  faWormS: icon("fontawesome/solid/worm.svg"),
+  faWrenchS: icon("fontawesome/solid/wrench.svg"),
+  faXRayS: icon("fontawesome/solid/x-ray.svg"),
+  faXS: icon("fontawesome/solid/x.svg"),
+  faXmarkS: icon("fontawesome/solid/xmark.svg"),
+  faXmarksLinesS: icon("fontawesome/solid/xmarks-lines.svg"),
+  faYS: icon("fontawesome/solid/y.svg"),
+  faYenSignS: icon("fontawesome/solid/yen-sign.svg"),
+  faYinYangS: icon("fontawesome/solid/yin-yang.svg"),
+  faZ: icon("fontawesome/solid/z.svg"),
+)
