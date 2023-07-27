@@ -1,6 +1,6 @@
-# Typst-Fontawesome
+# Typst-FontAwesome
 
-[Fontawesome](https://fontawesome.com/) binding for [Typst](https://typst.app/docs/).
+[FontAwesome](https://fontawesome.com/) binding for [Typst](https://typst.app/docs/).
 
 ## Usage
 
