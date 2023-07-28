@@ -10,7 +10,19 @@
 ```typst
 #import "fontawesome": *
 
-icon(faAmazonPay)
+icon("faAmazonPay")
+```
+
+You can also customize the icon like this
+
+```typst
+#import "fontawesome": *
+
+icon(
+  "faAmazonPay",
+  baseline: 0.25em,
+  height: 1.0em,
+  width: 1.5em)
 ```
 
 Checkup [manual](https://github.com/ivaquero/typst-fontawesome/blob/main/manual.pdf) for more details.
@@ -19,6 +31,12 @@ Checkup [manual](https://github.com/ivaquero/typst-fontawesome/blob/main/manual.
 
 ## Changelog
 
-- v0.0.1 (2023-07-27)
-  - Initial release
-  - add fontawesome v6.4.0
+### v0.0.2 (2023-07-28)
+
+- update structures
+- enable customization
+
+### v0.0.1 (2023-07-27)
+
+- initial release
+- add fontawesome v6.4.0

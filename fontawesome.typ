@@ -1759,13 +1759,9 @@
   baseline: 0.125em,
   height: 1.0em,
   width: 1.25em) = {
-    img = fapath.name
     box(
     baseline: baseline,
     height: height,
     width: width,
-    image(img)
+    image(fapath.at(name))
 )}
-
-
-#icon(faZS)
