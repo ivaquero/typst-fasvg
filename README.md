@@ -5,17 +5,17 @@
 ## Usage
 
 1. Download the `fontawesome.typ` file
-2. Import it into your Typst file like the following example
+2. Import it into your Typst file, and use it with `icon()` function like the following example
 
 ```typst
 #import "fontawesome": *
+
+icon(faAmazonPay)
 ```
 
-3. Use it with in camelCase pattern like `#faPhone`
+Checkup [manual](https://github.com/ivaquero/typst-fontawesome/blob/main/manual.pdf) for more details.
 
 ![demo](demo.png)
-
-Checkup [manual](https://github.com/ivaquero/typst-fontawesome/blob/main/manual.pdf) for more details.
 
 ## Changelog
 
