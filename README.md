@@ -3,12 +3,13 @@
 ![code size](https://img.shields.io/github/languages/code-size/ivaquero/typst-fontawesome.svg)
 ![repo size](https://img.shields.io/github/repo-size/ivaquero/typst-fontawesome.svg)
 
-[FontAwesome](https://fontawesome.com/) binding for [Typst](https://typst.app/docs/).
+Offline [FontAwesome](https://fontawesome.com/) binding for [Typst](https://typst.app/docs/).
 
 ## Usage
 
-1. Download the `fontawesome.typ` file
-2. Import it into your Typst file, and use it with `icon()` function like the following example
+1. Download the FontAwesome 6.4.0 from [FontAwesome Official Site](https://use.fontawesome.com/releases/v6.4.0/fontawesome-free-6.4.0-web.zip), unzip it into your workspace folder, and rename it as `fontawesome`.
+2. Download the `fontawesome.typ` file, and place it into your workspace folder as well.
+3. Import it into your Typst file, and use it with `icon()` function like the following example
 
 ```typst
 #import "fontawesome": *
