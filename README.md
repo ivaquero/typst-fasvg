@@ -3,7 +3,7 @@
 ![code size](https://img.shields.io/github/languages/code-size/ivaquero/typst-fontawesome.svg)
 ![repo size](https://img.shields.io/github/repo-size/ivaquero/typst-fontawesome.svg)
 
-Offline [FontAwesome](https://fontawesome.com/) binding for [Typst](https://typst.app/docs/).
+Offline [FontAwesome](https://fontawesome.com/) Binding for [Typst](https://typst.app/docs/).
 
 ## Usage
 
