@@ -1,0 +1,8 @@
+[package]
+    name        = "fontawesome"
+    version     = "0.0.2"
+    entrypoint  = "fontawesome.typ"
+    authors     = ["ivaquero"]
+    license     = "MIT"
+    description = "FontAwesome for Typst"
+    repository  = "https://github.com/ivaquero/typst-fontawesome"
