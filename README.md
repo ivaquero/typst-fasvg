@@ -7,7 +7,7 @@ Offline [FontAwesome](https://fontawesome.com/) Binding for [Typst](https://typs
 
 ## Usage
 
-1. Download the FontAwesome 6.4.0 from [FontAwesome Official Site](https://github.com/FortAwesome/Font-Awesome/releases/download/6.4.2/fontawesome-free-6.4.2-desktop.zip), unzip it into your workspace folder, and rename it as `fontawesome`.
+1. Download the FontAwesome latest desktop version from [FontAwesome Official Site](https://github.com/FortAwesome/Font-Awesome/releases/download/6.4.2/fontawesome-free-6.4.2-desktop.zip), unzip it into your workspace folder, and rename it as `fontawesome`.
 2. Download the `fontawesome.typ` file, and place it into your workspace folder as well.
 3. Import it into your Typst file, and use it with `icon()` function like the following example
 
@@ -23,7 +23,7 @@ You can also customize the icon like this
 #import "fontawesome": *
 
 icon(
-  "faAmazonPay",
+  "fa-amazon-pay",
   baseline: 0.25em,
   height: 1.0em,
   width: 1.5em)
@@ -34,6 +34,11 @@ Checkup [manual](https://github.com/ivaquero/typst-fontawesome/blob/main/manual.
 ![demo](demo.png)
 
 ## Changelog
+
+### v0.0.3 (2023-08-15)
+
+- update fontawesome to v6.4.2
+- change naming pattern
 
 ### v0.0.2 (2023-07-28)
 
