@@ -1,5 +1,7 @@
 # Typst-FontAwesome
 
+⚠️ Due to a bug in Typst-LSP, this package is currently broken.
+
 ![code size](https://img.shields.io/github/languages/code-size/ivaquero/typst-fontawesome.svg)
 ![repo size](https://img.shields.io/github/repo-size/ivaquero/typst-fontawesome.svg)
 
