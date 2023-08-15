@@ -14,7 +14,7 @@ Offline [FontAwesome](https://fontawesome.com/) Binding for [Typst](https://typs
 ```typst
 #import "fontawesome": *
 
-icon("faAmazonPay")
+icon("fa-amazon-pay")
 ```
 
 You can also customize the icon like this
