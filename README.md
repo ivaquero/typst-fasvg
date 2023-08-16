@@ -14,7 +14,7 @@ Offline [FontAwesome](https://fontawesome.com/) Binding for [Typst](https://typs
 ```typst
 #import "fontawesome": *
 
-fa("amazon-pay")
+#fa("amazon-pay")
 ```
 
 You can also customize the icon like this
@@ -22,7 +22,7 @@ You can also customize the icon like this
 ```typst
 #import "fontawesome": *
 
-fa(
+#fa(
   "amazon-pay",
   baseline: 0.25em,
   height: 1.0em,
