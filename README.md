@@ -14,7 +14,7 @@ Offline [FontAwesome](https://fontawesome.com/) Binding for [Typst](https://typs
 ```typst
 #import "fontawesome": *
 
-#fa("amazon-pay")
+#fa("brand-amazon-pay")
 ```
 
 You can also customize the icon like this
@@ -23,7 +23,7 @@ You can also customize the icon like this
 #import "fontawesome": *
 
 #fa(
-  "amazon-pay",
+  "brand-amazon-pay",
   baseline: 0.25em,
   height: 1.0em,
   width: 1.5em)
@@ -34,6 +34,10 @@ Checkup [manual](https://github.com/ivaquero/typst-fontawesome/blob/main/manual.
 ![demo](demo.png)
 
 ## Changelog
+
+### v0.0.4 (2023-08-27)
+
+- change naming pattern
 
 ### v0.0.3 (2023-08-16)
 
