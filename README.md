@@ -35,7 +35,7 @@ Checkup [manual](https://github.com/ivaquero/typst-fontawesome/blob/main/manual.
 
 ## Changelog
 
-### v0.0.4 (2023-08-27)
+### v0.0.4 (2023-08-28)
 
 - change naming pattern
 
