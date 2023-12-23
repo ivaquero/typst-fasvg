@@ -7,7 +7,7 @@ Offline [FontAwesome](https://fontawesome.com/) Binding for [Typst](https://typs
 
 ## Usage
 
-1. Download the FontAwesome latest desktop version from [FontAwesome Official Site](https://github.com/FortAwesome/Font-Awesome/releases/download/6.4.2/fontawesome-free-6.4.2-desktop.zip), unzip it into your workspace folder, and rename it as `fontawesome`.
+1. Download the FontAwesome latest desktop version from [FontAwesome Official Site](https://github.com/FortAwesome/Font-Awesome/releases), unzip it into your workspace folder, and rename it as `fontawesome`.
 2. Download the `fontawesome.typ` file, and place it into your workspace folder as well.
 3. Import it into your Typst file, and use it with `fa()` function like the following example
 
